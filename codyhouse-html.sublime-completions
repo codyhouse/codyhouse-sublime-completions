@@ -1,0 +1,2558 @@
+{
+  "scope": "text.html",
+
+  "completions": [
+    {
+      "trigger": "sr-only",
+      "contents": "sr-only"
+    },
+    {
+      "trigger": "btn",
+      "contents": "btn"
+    },
+    {
+      "trigger": "btn--primary",
+      "contents": "btn--primary"
+    },
+    {
+      "trigger": "btn--subtle",
+      "contents": "btn--subtle"
+    },
+    {
+      "trigger": "btn--accent",
+      "contents": "btn--accent"
+    },
+    {
+      "trigger": "btn--sm",
+      "contents": "btn--sm"
+    },
+    {
+      "trigger": "btn--md",
+      "contents": "btn--md"
+    },
+    {
+      "trigger": "btn--lg",
+      "contents": "btn--lg"
+    },
+    {
+      "trigger": "icon",
+      "contents": "icon"
+    },
+    {
+      "trigger": "icon--xxs",
+      "contents": "icon--xxs"
+    },
+    {
+      "trigger": "icon--xs",
+      "contents": "icon--xs"
+    },
+    {
+      "trigger": "icon--sm",
+      "contents": "icon--sm"
+    },
+    {
+      "trigger": "icon--md",
+      "contents": "icon--md"
+    },
+    {
+      "trigger": "icon--lg",
+      "contents": "icon--lg"
+    },
+    {
+      "trigger": "icon--xl",
+      "contents": "icon--xl"
+    },
+    {
+      "trigger": "icon--xxl",
+      "contents": "icon--xxl"
+    },
+    {
+      "trigger": "icon--is-spinning",
+      "contents": "icon--is-spinning"
+    },
+    {
+      "trigger": "reset",
+      "contents": "reset"
+    },
+    {
+      "trigger": "flex",
+      "contents": "flex"
+    },
+    {
+      "trigger": "inline-flex",
+      "contents": "inline-flex"
+    },
+    {
+      "trigger": "flex-wrap",
+      "contents": "flex-wrap"
+    },
+    {
+      "trigger": "flex-column",
+      "contents": "flex-column"
+    },
+    {
+      "trigger": "flex-column-reverse",
+      "contents": "flex-column-reverse"
+    },
+    {
+      "trigger": "flex-row",
+      "contents": "flex-row"
+    },
+    {
+      "trigger": "flex-row-reverse",
+      "contents": "flex-row-reverse"
+    },
+    {
+      "trigger": "flex-center",
+      "contents": "flex-center"
+    },
+    {
+      "trigger": "justify-start",
+      "contents": "justify-start"
+    },
+    {
+      "trigger": "justify-end",
+      "contents": "justify-end"
+    },
+    {
+      "trigger": "justify-center",
+      "contents": "justify-center"
+    },
+    {
+      "trigger": "justify-between",
+      "contents": "justify-between"
+    },
+    {
+      "trigger": "items-center",
+      "contents": "items-center"
+    },
+    {
+      "trigger": "items-start",
+      "contents": "items-start"
+    },
+    {
+      "trigger": "items-end",
+      "contents": "items-end"
+    },
+    {
+      "trigger": "flex@xs",
+      "contents": "flex@xs"
+    },
+    {
+      "trigger": "inline-flex@xs",
+      "contents": "inline-flex@xs"
+    },
+    {
+      "trigger": "flex-wrap@xs",
+      "contents": "flex-wrap@xs"
+    },
+    {
+      "trigger": "flex-column@xs",
+      "contents": "flex-column@xs"
+    },
+    {
+      "trigger": "flex-column-reverse@xs",
+      "contents": "flex-column-reverse@xs"
+    },
+    {
+      "trigger": "flex-row@xs",
+      "contents": "flex-row@xs"
+    },
+    {
+      "trigger": "flex-row-reverse@xs",
+      "contents": "flex-row-reverse@xs"
+    },
+    {
+      "trigger": "flex-center@xs",
+      "contents": "flex-center@xs"
+    },
+    {
+      "trigger": "justify-start@xs",
+      "contents": "justify-start@xs"
+    },
+    {
+      "trigger": "justify-end@xs",
+      "contents": "justify-end@xs"
+    },
+    {
+      "trigger": "justify-center@xs",
+      "contents": "justify-center@xs"
+    },
+    {
+      "trigger": "justify-between@xs",
+      "contents": "justify-between@xs"
+    },
+    {
+      "trigger": "items-center@xs",
+      "contents": "items-center@xs"
+    },
+    {
+      "trigger": "items-start@xs",
+      "contents": "items-start@xs"
+    },
+    {
+      "trigger": "items-end@xs",
+      "contents": "items-end@xs"
+    },
+    {
+      "trigger": "flex@sm",
+      "contents": "flex@sm"
+    },
+    {
+      "trigger": "inline-flex@sm",
+      "contents": "inline-flex@sm"
+    },
+    {
+      "trigger": "flex-wrap@sm",
+      "contents": "flex-wrap@sm"
+    },
+    {
+      "trigger": "flex-column@sm",
+      "contents": "flex-column@sm"
+    },
+    {
+      "trigger": "flex-column-reverse@sm",
+      "contents": "flex-column-reverse@sm"
+    },
+    {
+      "trigger": "flex-row@sm",
+      "contents": "flex-row@sm"
+    },
+    {
+      "trigger": "flex-row-reverse@sm",
+      "contents": "flex-row-reverse@sm"
+    },
+    {
+      "trigger": "flex-center@sm",
+      "contents": "flex-center@sm"
+    },
+    {
+      "trigger": "justify-start@sm",
+      "contents": "justify-start@sm"
+    },
+    {
+      "trigger": "justify-end@sm",
+      "contents": "justify-end@sm"
+    },
+    {
+      "trigger": "justify-center@sm",
+      "contents": "justify-center@sm"
+    },
+    {
+      "trigger": "justify-between@sm",
+      "contents": "justify-between@sm"
+    },
+    {
+      "trigger": "items-center@sm",
+      "contents": "items-center@sm"
+    },
+    {
+      "trigger": "items-start@sm",
+      "contents": "items-start@sm"
+    },
+    {
+      "trigger": "items-end@sm",
+      "contents": "items-end@sm"
+    },
+    {
+      "trigger": "flex@md",
+      "contents": "flex@md"
+    },
+    {
+      "trigger": "inline-flex@md",
+      "contents": "inline-flex@md"
+    },
+    {
+      "trigger": "flex-wrap@md",
+      "contents": "flex-wrap@md"
+    },
+    {
+      "trigger": "flex-column@md",
+      "contents": "flex-column@md"
+    },
+    {
+      "trigger": "flex-column-reverse@md",
+      "contents": "flex-column-reverse@md"
+    },
+    {
+      "trigger": "flex-row@md",
+      "contents": "flex-row@md"
+    },
+    {
+      "trigger": "flex-row-reverse@md",
+      "contents": "flex-row-reverse@md"
+    },
+    {
+      "trigger": "flex-center@md",
+      "contents": "flex-center@md"
+    },
+    {
+      "trigger": "justify-start@md",
+      "contents": "justify-start@md"
+    },
+    {
+      "trigger": "justify-end@md",
+      "contents": "justify-end@md"
+    },
+    {
+      "trigger": "justify-center@md",
+      "contents": "justify-center@md"
+    },
+    {
+      "trigger": "justify-between@md",
+      "contents": "justify-between@md"
+    },
+    {
+      "trigger": "items-center@md",
+      "contents": "items-center@md"
+    },
+    {
+      "trigger": "items-start@md",
+      "contents": "items-start@md"
+    },
+    {
+      "trigger": "items-end@md",
+      "contents": "items-end@md"
+    },
+    {
+      "trigger": "flex@lg",
+      "contents": "flex@lg"
+    },
+    {
+      "trigger": "inline-flex@lg",
+      "contents": "inline-flex@lg"
+    },
+    {
+      "trigger": "flex-wrap@lg",
+      "contents": "flex-wrap@lg"
+    },
+    {
+      "trigger": "flex-column@lg",
+      "contents": "flex-column@lg"
+    },
+    {
+      "trigger": "flex-column-reverse@lg",
+      "contents": "flex-column-reverse@lg"
+    },
+    {
+      "trigger": "flex-row@lg",
+      "contents": "flex-row@lg"
+    },
+    {
+      "trigger": "flex-row-reverse@lg",
+      "contents": "flex-row-reverse@lg"
+    },
+    {
+      "trigger": "flex-center@lg",
+      "contents": "flex-center@lg"
+    },
+    {
+      "trigger": "justify-start@lg",
+      "contents": "justify-start@lg"
+    },
+    {
+      "trigger": "justify-end@lg",
+      "contents": "justify-end@lg"
+    },
+    {
+      "trigger": "justify-center@lg",
+      "contents": "justify-center@lg"
+    },
+    {
+      "trigger": "justify-between@lg",
+      "contents": "justify-between@lg"
+    },
+    {
+      "trigger": "items-center@lg",
+      "contents": "items-center@lg"
+    },
+    {
+      "trigger": "items-start@lg",
+      "contents": "items-start@lg"
+    },
+    {
+      "trigger": "items-end@lg",
+      "contents": "items-end@lg"
+    },
+    {
+      "trigger": "flex@xl",
+      "contents": "flex@xl"
+    },
+    {
+      "trigger": "inline-flex@xl",
+      "contents": "inline-flex@xl"
+    },
+    {
+      "trigger": "flex-wrap@xl",
+      "contents": "flex-wrap@xl"
+    },
+    {
+      "trigger": "flex-column@xl",
+      "contents": "flex-column@xl"
+    },
+    {
+      "trigger": "flex-column-reverse@xl",
+      "contents": "flex-column-reverse@xl"
+    },
+    {
+      "trigger": "flex-row@xl",
+      "contents": "flex-row@xl"
+    },
+    {
+      "trigger": "flex-row-reverse@xl",
+      "contents": "flex-row-reverse@xl"
+    },
+    {
+      "trigger": "flex-center@xl",
+      "contents": "flex-center@xl"
+    },
+    {
+      "trigger": "justify-start@xl",
+      "contents": "justify-start@xl"
+    },
+    {
+      "trigger": "justify-end@xl",
+      "contents": "justify-end@xl"
+    },
+    {
+      "trigger": "justify-center@xl",
+      "contents": "justify-center@xl"
+    },
+    {
+      "trigger": "justify-between@xl",
+      "contents": "justify-between@xl"
+    },
+    {
+      "trigger": "items-center@xl",
+      "contents": "items-center@xl"
+    },
+    {
+      "trigger": "items-start@xl",
+      "contents": "items-start@xl"
+    },
+    {
+      "trigger": "items-end@xl",
+      "contents": "items-end@xl"
+    },
+    {
+      "trigger": "flex-grow",
+      "contents": "flex-grow"
+    },
+    {
+      "trigger": "flex-shrink-0",
+      "contents": "flex-shrink-0"
+    },
+    {
+      "trigger": "flex-basis-0",
+      "contents": "flex-basis-0"
+    },
+    {
+      "trigger": "flex-gap-xxxs",
+      "contents": "flex-gap-xxxs"
+    },
+    {
+      "trigger": "flex-gap-xxs",
+      "contents": "flex-gap-xxs"
+    },
+    {
+      "trigger": "flex-gap-xs",
+      "contents": "flex-gap-xs"
+    },
+    {
+      "trigger": "flex-gap-sm",
+      "contents": "flex-gap-sm"
+    },
+    {
+      "trigger": "flex-gap-md",
+      "contents": "flex-gap-md"
+    },
+    {
+      "trigger": "flex-gap-lg",
+      "contents": "flex-gap-lg"
+    },
+    {
+      "trigger": "flex-gap-xl",
+      "contents": "flex-gap-xl"
+    },
+    {
+      "trigger": "flex-gap-xxl",
+      "contents": "flex-gap-xxl"
+    },
+    {
+      "trigger": "flex-gap-xxxl",
+      "contents": "flex-gap-xxxl"
+    },
+    {
+      "trigger": "margin-xxxxs",
+      "contents": "margin-xxxxs"
+    },
+    {
+      "trigger": "margin-xxxs",
+      "contents": "margin-xxxs"
+    },
+    {
+      "trigger": "margin-xxs",
+      "contents": "margin-xxs"
+    },
+    {
+      "trigger": "margin-xs",
+      "contents": "margin-xs"
+    },
+    {
+      "trigger": "margin-sm",
+      "contents": "margin-sm"
+    },
+    {
+      "trigger": "margin-md",
+      "contents": "margin-md"
+    },
+    {
+      "trigger": "margin-lg",
+      "contents": "margin-lg"
+    },
+    {
+      "trigger": "margin-xl",
+      "contents": "margin-xl"
+    },
+    {
+      "trigger": "margin-xxl",
+      "contents": "margin-xxl"
+    },
+    {
+      "trigger": "margin-xxxl",
+      "contents": "margin-xxxl"
+    },
+    {
+      "trigger": "margin-xxxxl",
+      "contents": "margin-xxxxl"
+    },
+    {
+      "trigger": "margin-auto",
+      "contents": "margin-auto"
+    },
+    {
+      "trigger": "margin-top-xxxxs",
+      "contents": "margin-top-xxxxs"
+    },
+    {
+      "trigger": "margin-top-xxxs",
+      "contents": "margin-top-xxxs"
+    },
+    {
+      "trigger": "margin-top-xxs",
+      "contents": "margin-top-xxs"
+    },
+    {
+      "trigger": "margin-top-xs",
+      "contents": "margin-top-xs"
+    },
+    {
+      "trigger": "margin-top-sm",
+      "contents": "margin-top-sm"
+    },
+    {
+      "trigger": "margin-top-md",
+      "contents": "margin-top-md"
+    },
+    {
+      "trigger": "margin-top-lg",
+      "contents": "margin-top-lg"
+    },
+    {
+      "trigger": "margin-top-xl",
+      "contents": "margin-top-xl"
+    },
+    {
+      "trigger": "margin-top-xxl",
+      "contents": "margin-top-xxl"
+    },
+    {
+      "trigger": "margin-top-xxxl",
+      "contents": "margin-top-xxxl"
+    },
+    {
+      "trigger": "margin-top-xxxxl",
+      "contents": "margin-top-xxxxl"
+    },
+    {
+      "trigger": "margin-top-auto",
+      "contents": "margin-top-auto"
+    },
+    {
+      "trigger": "margin-bottom-xxxxs",
+      "contents": "margin-bottom-xxxxs"
+    },
+    {
+      "trigger": "margin-bottom-xxxs",
+      "contents": "margin-bottom-xxxs"
+    },
+    {
+      "trigger": "margin-bottom-xxs",
+      "contents": "margin-bottom-xxs"
+    },
+    {
+      "trigger": "margin-bottom-xs",
+      "contents": "margin-bottom-xs"
+    },
+    {
+      "trigger": "margin-bottom-sm",
+      "contents": "margin-bottom-sm"
+    },
+    {
+      "trigger": "margin-bottom-md",
+      "contents": "margin-bottom-md"
+    },
+    {
+      "trigger": "margin-bottom-lg",
+      "contents": "margin-bottom-lg"
+    },
+    {
+      "trigger": "margin-bottom-xl",
+      "contents": "margin-bottom-xl"
+    },
+    {
+      "trigger": "margin-bottom-xxl",
+      "contents": "margin-bottom-xxl"
+    },
+    {
+      "trigger": "margin-bottom-xxxl",
+      "contents": "margin-bottom-xxxl"
+    },
+    {
+      "trigger": "margin-bottom-xxxxl",
+      "contents": "margin-bottom-xxxxl"
+    },
+    {
+      "trigger": "margin-bottom-auto",
+      "contents": "margin-bottom-auto"
+    },
+    {
+      "trigger": "margin-right-xxxxs",
+      "contents": "margin-right-xxxxs"
+    },
+    {
+      "trigger": "margin-right-xxxs",
+      "contents": "margin-right-xxxs"
+    },
+    {
+      "trigger": "margin-right-xxs",
+      "contents": "margin-right-xxs"
+    },
+    {
+      "trigger": "margin-right-xs",
+      "contents": "margin-right-xs"
+    },
+    {
+      "trigger": "margin-right-sm",
+      "contents": "margin-right-sm"
+    },
+    {
+      "trigger": "margin-right-md",
+      "contents": "margin-right-md"
+    },
+    {
+      "trigger": "margin-right-lg",
+      "contents": "margin-right-lg"
+    },
+    {
+      "trigger": "margin-right-xl",
+      "contents": "margin-right-xl"
+    },
+    {
+      "trigger": "margin-right-xxl",
+      "contents": "margin-right-xxl"
+    },
+    {
+      "trigger": "margin-right-xxxl",
+      "contents": "margin-right-xxxl"
+    },
+    {
+      "trigger": "margin-right-xxxxl",
+      "contents": "margin-right-xxxxl"
+    },
+    {
+      "trigger": "margin-right-auto",
+      "contents": "margin-right-auto"
+    },
+    {
+      "trigger": "margin-left-xxxxs",
+      "contents": "margin-left-xxxxs"
+    },
+    {
+      "trigger": "margin-left-xxxs",
+      "contents": "margin-left-xxxs"
+    },
+    {
+      "trigger": "margin-left-xxs",
+      "contents": "margin-left-xxs"
+    },
+    {
+      "trigger": "margin-left-xs",
+      "contents": "margin-left-xs"
+    },
+    {
+      "trigger": "margin-left-sm",
+      "contents": "margin-left-sm"
+    },
+    {
+      "trigger": "margin-left-md",
+      "contents": "margin-left-md"
+    },
+    {
+      "trigger": "margin-left-lg",
+      "contents": "margin-left-lg"
+    },
+    {
+      "trigger": "margin-left-xl",
+      "contents": "margin-left-xl"
+    },
+    {
+      "trigger": "margin-left-xxl",
+      "contents": "margin-left-xxl"
+    },
+    {
+      "trigger": "margin-left-xxxl",
+      "contents": "margin-left-xxxl"
+    },
+    {
+      "trigger": "margin-left-xxxxl",
+      "contents": "margin-left-xxxxl"
+    },
+    {
+      "trigger": "margin-left-auto",
+      "contents": "margin-left-auto"
+    },
+    {
+      "trigger": "margin-x-xxxxs",
+      "contents": "margin-x-xxxxs"
+    },
+    {
+      "trigger": "margin-x-xxxs",
+      "contents": "margin-x-xxxs"
+    },
+    {
+      "trigger": "margin-x-xxs",
+      "contents": "margin-x-xxs"
+    },
+    {
+      "trigger": "margin-x-xs",
+      "contents": "margin-x-xs"
+    },
+    {
+      "trigger": "margin-x-sm",
+      "contents": "margin-x-sm"
+    },
+    {
+      "trigger": "margin-x-md",
+      "contents": "margin-x-md"
+    },
+    {
+      "trigger": "margin-x-lg",
+      "contents": "margin-x-lg"
+    },
+    {
+      "trigger": "margin-x-xl",
+      "contents": "margin-x-xl"
+    },
+    {
+      "trigger": "margin-x-xxl",
+      "contents": "margin-x-xxl"
+    },
+    {
+      "trigger": "margin-x-xxxl",
+      "contents": "margin-x-xxxl"
+    },
+    {
+      "trigger": "margin-x-xxxxl",
+      "contents": "margin-x-xxxxl"
+    },
+    {
+      "trigger": "margin-x-auto",
+      "contents": "margin-x-auto"
+    },
+    {
+      "trigger": "margin-y-xxxxs",
+      "contents": "margin-y-xxxxs"
+    },
+    {
+      "trigger": "margin-y-xxxs",
+      "contents": "margin-y-xxxs"
+    },
+    {
+      "trigger": "margin-y-xxs",
+      "contents": "margin-y-xxs"
+    },
+    {
+      "trigger": "margin-y-xs",
+      "contents": "margin-y-xs"
+    },
+    {
+      "trigger": "margin-y-sm",
+      "contents": "margin-y-sm"
+    },
+    {
+      "trigger": "margin-y-md",
+      "contents": "margin-y-md"
+    },
+    {
+      "trigger": "margin-y-lg",
+      "contents": "margin-y-lg"
+    },
+    {
+      "trigger": "margin-y-xl",
+      "contents": "margin-y-xl"
+    },
+    {
+      "trigger": "margin-y-xxl",
+      "contents": "margin-y-xxl"
+    },
+    {
+      "trigger": "margin-y-xxxl",
+      "contents": "margin-y-xxxl"
+    },
+    {
+      "trigger": "margin-y-xxxxl",
+      "contents": "margin-y-xxxxl"
+    },
+    {
+      "trigger": "margin-y-auto",
+      "contents": "margin-y-auto"
+    },
+    {
+      "trigger": "has-margin@xs",
+      "contents": "has-margin@xs"
+    },
+    {
+      "trigger": "has-margin@sm",
+      "contents": "has-margin@sm"
+    },
+    {
+      "trigger": "has-margin@md",
+      "contents": "has-margin@md"
+    },
+    {
+      "trigger": "has-margin@lg",
+      "contents": "has-margin@lg"
+    },
+    {
+      "trigger": "has-margin@xl",
+      "contents": "has-margin@xl"
+    },
+    {
+      "trigger": "padding-xxxxs",
+      "contents": "padding-xxxxs"
+    },
+    {
+      "trigger": "padding-xxxs",
+      "contents": "padding-xxxs"
+    },
+    {
+      "trigger": "padding-xxs",
+      "contents": "padding-xxs"
+    },
+    {
+      "trigger": "padding-xs",
+      "contents": "padding-xs"
+    },
+    {
+      "trigger": "padding-sm",
+      "contents": "padding-sm"
+    },
+    {
+      "trigger": "padding-md",
+      "contents": "padding-md"
+    },
+    {
+      "trigger": "padding-lg",
+      "contents": "padding-lg"
+    },
+    {
+      "trigger": "padding-xl",
+      "contents": "padding-xl"
+    },
+    {
+      "trigger": "padding-xxl",
+      "contents": "padding-xxl"
+    },
+    {
+      "trigger": "padding-xxxl",
+      "contents": "padding-xxxl"
+    },
+    {
+      "trigger": "padding-xxxxl",
+      "contents": "padding-xxxxl"
+    },
+    {
+      "trigger": "padding-component",
+      "contents": "padding-component"
+    },
+    {
+      "trigger": "padding-top-xxxxs",
+      "contents": "padding-top-xxxxs"
+    },
+    {
+      "trigger": "padding-top-xxxs",
+      "contents": "padding-top-xxxs"
+    },
+    {
+      "trigger": "padding-top-xxs",
+      "contents": "padding-top-xxs"
+    },
+    {
+      "trigger": "padding-top-xs",
+      "contents": "padding-top-xs"
+    },
+    {
+      "trigger": "padding-top-sm",
+      "contents": "padding-top-sm"
+    },
+    {
+      "trigger": "padding-top-md",
+      "contents": "padding-top-md"
+    },
+    {
+      "trigger": "padding-top-lg",
+      "contents": "padding-top-lg"
+    },
+    {
+      "trigger": "padding-top-xl",
+      "contents": "padding-top-xl"
+    },
+    {
+      "trigger": "padding-top-xxl",
+      "contents": "padding-top-xxl"
+    },
+    {
+      "trigger": "padding-top-xxxl",
+      "contents": "padding-top-xxxl"
+    },
+    {
+      "trigger": "padding-top-xxxxl",
+      "contents": "padding-top-xxxxl"
+    },
+    {
+      "trigger": "padding-top-component",
+      "contents": "padding-top-component"
+    },
+    {
+      "trigger": "padding-bottom-xxxxs",
+      "contents": "padding-bottom-xxxxs"
+    },
+    {
+      "trigger": "padding-bottom-xxxs",
+      "contents": "padding-bottom-xxxs"
+    },
+    {
+      "trigger": "padding-bottom-xxs",
+      "contents": "padding-bottom-xxs"
+    },
+    {
+      "trigger": "padding-bottom-xs",
+      "contents": "padding-bottom-xs"
+    },
+    {
+      "trigger": "padding-bottom-sm",
+      "contents": "padding-bottom-sm"
+    },
+    {
+      "trigger": "padding-bottom-md",
+      "contents": "padding-bottom-md"
+    },
+    {
+      "trigger": "padding-bottom-lg",
+      "contents": "padding-bottom-lg"
+    },
+    {
+      "trigger": "padding-bottom-xl",
+      "contents": "padding-bottom-xl"
+    },
+    {
+      "trigger": "padding-bottom-xxl",
+      "contents": "padding-bottom-xxl"
+    },
+    {
+      "trigger": "padding-bottom-xxxl",
+      "contents": "padding-bottom-xxxl"
+    },
+    {
+      "trigger": "padding-bottom-xxxxl",
+      "contents": "padding-bottom-xxxxl"
+    },
+    {
+      "trigger": "padding-bottom-component",
+      "contents": "padding-bottom-component"
+    },
+    {
+      "trigger": "padding-right-xxxxs",
+      "contents": "padding-right-xxxxs"
+    },
+    {
+      "trigger": "padding-right-xxxs",
+      "contents": "padding-right-xxxs"
+    },
+    {
+      "trigger": "padding-right-xxs",
+      "contents": "padding-right-xxs"
+    },
+    {
+      "trigger": "padding-right-xs",
+      "contents": "padding-right-xs"
+    },
+    {
+      "trigger": "padding-right-sm",
+      "contents": "padding-right-sm"
+    },
+    {
+      "trigger": "padding-right-md",
+      "contents": "padding-right-md"
+    },
+    {
+      "trigger": "padding-right-lg",
+      "contents": "padding-right-lg"
+    },
+    {
+      "trigger": "padding-right-xl",
+      "contents": "padding-right-xl"
+    },
+    {
+      "trigger": "padding-right-xxl",
+      "contents": "padding-right-xxl"
+    },
+    {
+      "trigger": "padding-right-xxxl",
+      "contents": "padding-right-xxxl"
+    },
+    {
+      "trigger": "padding-right-xxxxl",
+      "contents": "padding-right-xxxxl"
+    },
+    {
+      "trigger": "padding-right-component",
+      "contents": "padding-right-component"
+    },
+    {
+      "trigger": "padding-left-xxxxs",
+      "contents": "padding-left-xxxxs"
+    },
+    {
+      "trigger": "padding-left-xxxs",
+      "contents": "padding-left-xxxs"
+    },
+    {
+      "trigger": "padding-left-xxs",
+      "contents": "padding-left-xxs"
+    },
+    {
+      "trigger": "padding-left-xs",
+      "contents": "padding-left-xs"
+    },
+    {
+      "trigger": "padding-left-sm",
+      "contents": "padding-left-sm"
+    },
+    {
+      "trigger": "padding-left-md",
+      "contents": "padding-left-md"
+    },
+    {
+      "trigger": "padding-left-lg",
+      "contents": "padding-left-lg"
+    },
+    {
+      "trigger": "padding-left-xl",
+      "contents": "padding-left-xl"
+    },
+    {
+      "trigger": "padding-left-xxl",
+      "contents": "padding-left-xxl"
+    },
+    {
+      "trigger": "padding-left-xxxl",
+      "contents": "padding-left-xxxl"
+    },
+    {
+      "trigger": "padding-left-xxxxl",
+      "contents": "padding-left-xxxxl"
+    },
+    {
+      "trigger": "padding-left-component",
+      "contents": "padding-left-component"
+    },
+    {
+      "trigger": "padding-x-xxxxs",
+      "contents": "padding-x-xxxxs"
+    },
+    {
+      "trigger": "padding-x-xxxs",
+      "contents": "padding-x-xxxs"
+    },
+    {
+      "trigger": "padding-x-xxs",
+      "contents": "padding-x-xxs"
+    },
+    {
+      "trigger": "padding-x-xs",
+      "contents": "padding-x-xs"
+    },
+    {
+      "trigger": "padding-x-sm",
+      "contents": "padding-x-sm"
+    },
+    {
+      "trigger": "padding-x-md",
+      "contents": "padding-x-md"
+    },
+    {
+      "trigger": "padding-x-lg",
+      "contents": "padding-x-lg"
+    },
+    {
+      "trigger": "padding-x-xl",
+      "contents": "padding-x-xl"
+    },
+    {
+      "trigger": "padding-x-xxl",
+      "contents": "padding-x-xxl"
+    },
+    {
+      "trigger": "padding-x-xxxl",
+      "contents": "padding-x-xxxl"
+    },
+    {
+      "trigger": "padding-x-xxxxl",
+      "contents": "padding-x-xxxxl"
+    },
+    {
+      "trigger": "padding-x-component",
+      "contents": "padding-x-component"
+    },
+    {
+      "trigger": "padding-y-xxxxs",
+      "contents": "padding-y-xxxxs"
+    },
+    {
+      "trigger": "padding-y-xxxs",
+      "contents": "padding-y-xxxs"
+    },
+    {
+      "trigger": "padding-y-xxs",
+      "contents": "padding-y-xxs"
+    },
+    {
+      "trigger": "padding-y-xs",
+      "contents": "padding-y-xs"
+    },
+    {
+      "trigger": "padding-y-sm",
+      "contents": "padding-y-sm"
+    },
+    {
+      "trigger": "padding-y-md",
+      "contents": "padding-y-md"
+    },
+    {
+      "trigger": "padding-y-lg",
+      "contents": "padding-y-lg"
+    },
+    {
+      "trigger": "padding-y-xl",
+      "contents": "padding-y-xl"
+    },
+    {
+      "trigger": "padding-y-xxl",
+      "contents": "padding-y-xxl"
+    },
+    {
+      "trigger": "padding-y-xxxl",
+      "contents": "padding-y-xxxl"
+    },
+    {
+      "trigger": "padding-y-xxxxl",
+      "contents": "padding-y-xxxxl"
+    },
+    {
+      "trigger": "padding-y-component",
+      "contents": "padding-y-component"
+    },
+    {
+      "trigger": "has-padding@xs",
+      "contents": "has-padding@xs"
+    },
+    {
+      "trigger": "has-padding@sm",
+      "contents": "has-padding@sm"
+    },
+    {
+      "trigger": "has-padding@md",
+      "contents": "has-padding@md"
+    },
+    {
+      "trigger": "has-padding@lg",
+      "contents": "has-padding@lg"
+    },
+    {
+      "trigger": "has-padding@xl",
+      "contents": "has-padding@xl"
+    },
+    {
+      "trigger": "align-baseline",
+      "contents": "align-baseline"
+    },
+    {
+      "trigger": "align-top",
+      "contents": "align-top"
+    },
+    {
+      "trigger": "align-middle",
+      "contents": "align-middle"
+    },
+    {
+      "trigger": "align-bottom",
+      "contents": "align-bottom"
+    },
+    {
+      "trigger": "form-control",
+      "contents": "form-control"
+    },
+    {
+      "trigger": "form-legend",
+      "contents": "form-legend"
+    },
+    {
+      "trigger": "form-label",
+      "contents": "form-label"
+    },
+    {
+      "trigger": "form-error-msg",
+      "contents": "form-error-msg"
+    },
+    {
+      "trigger": "radio-list",
+      "contents": "radio-list"
+    },
+    {
+      "trigger": "checkbox-list",
+      "contents": "checkbox-list"
+    },
+    {
+      "trigger": "container",
+      "contents": "container"
+    },
+    {
+      "trigger": "max-width-xxxxs",
+      "contents": "max-width-xxxxs"
+    },
+    {
+      "trigger": "max-width-xxxs",
+      "contents": "max-width-xxxs"
+    },
+    {
+      "trigger": "max-width-xxs",
+      "contents": "max-width-xxs"
+    },
+    {
+      "trigger": "max-width-xs",
+      "contents": "max-width-xs"
+    },
+    {
+      "trigger": "max-width-sm",
+      "contents": "max-width-sm"
+    },
+    {
+      "trigger": "max-width-md",
+      "contents": "max-width-md"
+    },
+    {
+      "trigger": "max-width-lg",
+      "contents": "max-width-lg"
+    },
+    {
+      "trigger": "max-width-xl",
+      "contents": "max-width-xl"
+    },
+    {
+      "trigger": "max-width-xxl",
+      "contents": "max-width-xxl"
+    },
+    {
+      "trigger": "max-width-xxxl",
+      "contents": "max-width-xxxl"
+    },
+    {
+      "trigger": "max-width-xxxxl",
+      "contents": "max-width-xxxxl"
+    },
+    {
+      "trigger": "max-width-adaptive-sm",
+      "contents": "max-width-adaptive-sm"
+    },
+    {
+      "trigger": "max-width-adaptive-md",
+      "contents": "max-width-adaptive-md"
+    },
+    {
+      "trigger": "max-width-adaptive-lg",
+      "contents": "max-width-adaptive-lg"
+    },
+    {
+      "trigger": "max-width-adaptive-xl",
+      "contents": "max-width-adaptive-xl"
+    },
+    {
+      "trigger": "grid",
+      "contents": "grid"
+    },
+    {
+      "trigger": "grid-gap-xxxxs",
+      "contents": "grid-gap-xxxxs"
+    },
+    {
+      "trigger": "grid-gap-xxxs",
+      "contents": "grid-gap-xxxs"
+    },
+    {
+      "trigger": "grid-gap-xxs",
+      "contents": "grid-gap-xxs"
+    },
+    {
+      "trigger": "grid-gap-xs",
+      "contents": "grid-gap-xs"
+    },
+    {
+      "trigger": "grid-gap-sm",
+      "contents": "grid-gap-sm"
+    },
+    {
+      "trigger": "grid-gap-md",
+      "contents": "grid-gap-md"
+    },
+    {
+      "trigger": "grid-gap-lg",
+      "contents": "grid-gap-lg"
+    },
+    {
+      "trigger": "grid-gap-xl",
+      "contents": "grid-gap-xl"
+    },
+    {
+      "trigger": "grid-gap-xxl",
+      "contents": "grid-gap-xxl"
+    },
+    {
+      "trigger": "grid-gap-xxxl",
+      "contents": "grid-gap-xxxl"
+    },
+    {
+      "trigger": "grid-gap-xxxxl",
+      "contents": "grid-gap-xxxxl"
+    },
+    {
+      "trigger": "col",
+      "contents": "col"
+    },
+    {
+      "trigger": "col@xs",
+      "contents": "col@xs"
+    },
+    {
+      "trigger": "col@sm",
+      "contents": "col@sm"
+    },
+    {
+      "trigger": "col@md",
+      "contents": "col@md"
+    },
+    {
+      "trigger": "col@lg",
+      "contents": "col@lg"
+    },
+    {
+      "trigger": "col@xl",
+      "contents": "col@xl"
+    },
+    {
+      "trigger": "col-1",
+      "contents": "col-1"
+    },
+    {
+      "trigger": "col-1@xs",
+      "contents": "col-1@xs"
+    },
+    {
+      "trigger": "col-1@sm",
+      "contents": "col-1@sm"
+    },
+    {
+      "trigger": "col-1@md",
+      "contents": "col-1@md"
+    },
+    {
+      "trigger": "col-1@lg",
+      "contents": "col-1@lg"
+    },
+    {
+      "trigger": "col-1@xl",
+      "contents": "col-1@xl"
+    },
+    {
+      "trigger": "col-2",
+      "contents": "col-2"
+    },
+    {
+      "trigger": "col-2@xs",
+      "contents": "col-2@xs"
+    },
+    {
+      "trigger": "col-2@sm",
+      "contents": "col-2@sm"
+    },
+    {
+      "trigger": "col-2@md",
+      "contents": "col-2@md"
+    },
+    {
+      "trigger": "col-2@lg",
+      "contents": "col-2@lg"
+    },
+    {
+      "trigger": "col-2@xl",
+      "contents": "col-2@xl"
+    },
+    {
+      "trigger": "col-3",
+      "contents": "col-3"
+    },
+    {
+      "trigger": "col-3@xs",
+      "contents": "col-3@xs"
+    },
+    {
+      "trigger": "col-3@sm",
+      "contents": "col-3@sm"
+    },
+    {
+      "trigger": "col-3@md",
+      "contents": "col-3@md"
+    },
+    {
+      "trigger": "col-3@lg",
+      "contents": "col-3@lg"
+    },
+    {
+      "trigger": "col-3@xl",
+      "contents": "col-3@xl"
+    },
+    {
+      "trigger": "col-4",
+      "contents": "col-4"
+    },
+    {
+      "trigger": "col-4@xs",
+      "contents": "col-4@xs"
+    },
+    {
+      "trigger": "col-4@sm",
+      "contents": "col-4@sm"
+    },
+    {
+      "trigger": "col-4@md",
+      "contents": "col-4@md"
+    },
+    {
+      "trigger": "col-4@lg",
+      "contents": "col-4@lg"
+    },
+    {
+      "trigger": "col-4@xl",
+      "contents": "col-4@xl"
+    },
+    {
+      "trigger": "col-5",
+      "contents": "col-5"
+    },
+    {
+      "trigger": "col-5@xs",
+      "contents": "col-5@xs"
+    },
+    {
+      "trigger": "col-5@sm",
+      "contents": "col-5@sm"
+    },
+    {
+      "trigger": "col-5@md",
+      "contents": "col-5@md"
+    },
+    {
+      "trigger": "col-5@lg",
+      "contents": "col-5@lg"
+    },
+    {
+      "trigger": "col-5@xl",
+      "contents": "col-5@xl"
+    },
+    {
+      "trigger": "col-6",
+      "contents": "col-6"
+    },
+    {
+      "trigger": "col-6@xs",
+      "contents": "col-6@xs"
+    },
+    {
+      "trigger": "col-6@sm",
+      "contents": "col-6@sm"
+    },
+    {
+      "trigger": "col-6@md",
+      "contents": "col-6@md"
+    },
+    {
+      "trigger": "col-6@lg",
+      "contents": "col-6@lg"
+    },
+    {
+      "trigger": "col-6@xl",
+      "contents": "col-6@xl"
+    },
+    {
+      "trigger": "col-7",
+      "contents": "col-7"
+    },
+    {
+      "trigger": "col-7@xs",
+      "contents": "col-7@xs"
+    },
+    {
+      "trigger": "col-7@sm",
+      "contents": "col-7@sm"
+    },
+    {
+      "trigger": "col-7@md",
+      "contents": "col-7@md"
+    },
+    {
+      "trigger": "col-7@lg",
+      "contents": "col-7@lg"
+    },
+    {
+      "trigger": "col-7@xl",
+      "contents": "col-7@xl"
+    },
+    {
+      "trigger": "col-8",
+      "contents": "col-8"
+    },
+    {
+      "trigger": "col-8@xs",
+      "contents": "col-8@xs"
+    },
+    {
+      "trigger": "col-8@sm",
+      "contents": "col-8@sm"
+    },
+    {
+      "trigger": "col-8@md",
+      "contents": "col-8@md"
+    },
+    {
+      "trigger": "col-8@lg",
+      "contents": "col-8@lg"
+    },
+    {
+      "trigger": "col-8@xl",
+      "contents": "col-8@xl"
+    },
+    {
+      "trigger": "col-9",
+      "contents": "col-9"
+    },
+    {
+      "trigger": "col-9@xs",
+      "contents": "col-9@xs"
+    },
+    {
+      "trigger": "col-9@sm",
+      "contents": "col-9@sm"
+    },
+    {
+      "trigger": "col-9@md",
+      "contents": "col-9@md"
+    },
+    {
+      "trigger": "col-9@lg",
+      "contents": "col-9@lg"
+    },
+    {
+      "trigger": "col-9@xl",
+      "contents": "col-9@xl"
+    },
+    {
+      "trigger": "col-10",
+      "contents": "col-10"
+    },
+    {
+      "trigger": "col-10@xs",
+      "contents": "col-10@xs"
+    },
+    {
+      "trigger": "col-10@sm",
+      "contents": "col-10@sm"
+    },
+    {
+      "trigger": "col-10@md",
+      "contents": "col-10@md"
+    },
+    {
+      "trigger": "col-10@lg",
+      "contents": "col-10@lg"
+    },
+    {
+      "trigger": "col-10@xl",
+      "contents": "col-10@xl"
+    },
+    {
+      "trigger": "col-11",
+      "contents": "col-11"
+    },
+    {
+      "trigger": "col-11@xs",
+      "contents": "col-11@xs"
+    },
+    {
+      "trigger": "col-11@sm",
+      "contents": "col-11@sm"
+    },
+    {
+      "trigger": "col-11@md",
+      "contents": "col-11@md"
+    },
+    {
+      "trigger": "col-11@lg",
+      "contents": "col-11@lg"
+    },
+    {
+      "trigger": "col-11@xl",
+      "contents": "col-11@xl"
+    },
+    {
+      "trigger": "col-12",
+      "contents": "col-12"
+    },
+    {
+      "trigger": "col-12@xs",
+      "contents": "col-12@xs"
+    },
+    {
+      "trigger": "col-12@sm",
+      "contents": "col-12@sm"
+    },
+    {
+      "trigger": "col-12@md",
+      "contents": "col-12@md"
+    },
+    {
+      "trigger": "col-12@lg",
+      "contents": "col-12@lg"
+    },
+    {
+      "trigger": "col-12@xl",
+      "contents": "col-12@xl"
+    },
+    {
+      "trigger": "col-1/2",
+      "contents": "col-6"
+    },
+    {
+      "trigger": "col-1/2@xs",
+      "contents": "col-6@xs"
+    },
+    {
+      "trigger": "col-1/2@sm",
+      "contents": "col-6@sm"
+    },
+    {
+      "trigger": "col-1/2@md",
+      "contents": "col-6@md"
+    },
+    {
+      "trigger": "col-1/2@lg",
+      "contents": "col-6@lg"
+    },
+    {
+      "trigger": "col-1/2@xl",
+      "contents": "col-6@xl"
+    },
+    {
+      "trigger": "col-1/3",
+      "contents": "col-4"
+    },
+    {
+      "trigger": "col-1/3@xs",
+      "contents": "col-4@xs"
+    },
+    {
+      "trigger": "col-1/3@sm",
+      "contents": "col-4@sm"
+    },
+    {
+      "trigger": "col-1/3@md",
+      "contents": "col-4@md"
+    },
+    {
+      "trigger": "col-1/3@lg",
+      "contents": "col-4@lg"
+    },
+    {
+      "trigger": "col-1/3@xl",
+      "contents": "col-4@xl"
+    },
+    {
+      "trigger": "col-2/3",
+      "contents": "col-8"
+    },
+    {
+      "trigger": "col-2/3@xs",
+      "contents": "col-8@xs"
+    },
+    {
+      "trigger": "col-2/3@sm",
+      "contents": "col-8@sm"
+    },
+    {
+      "trigger": "col-2/3@md",
+      "contents": "col-8@md"
+    },
+    {
+      "trigger": "col-2/3@lg",
+      "contents": "col-8@lg"
+    },
+    {
+      "trigger": "col-2/3@xl",
+      "contents": "col-8@xl"
+    },
+    {
+      "trigger": "col-1/4",
+      "contents": "col-3"
+    },
+    {
+      "trigger": "col-1/4@xs",
+      "contents": "col-3@xs"
+    },
+    {
+      "trigger": "col-1/4@sm",
+      "contents": "col-3@sm"
+    },
+    {
+      "trigger": "col-1/4@md",
+      "contents": "col-3@md"
+    },
+    {
+      "trigger": "col-1/4@lg",
+      "contents": "col-3@lg"
+    },
+    {
+      "trigger": "col-1/4@xl",
+      "contents": "col-3@xl"
+    },
+    {
+      "trigger": "col-3/4",
+      "contents": "col-9"
+    },
+    {
+      "trigger": "col-3/4@xs",
+      "contents": "col-9@xs"
+    },
+    {
+      "trigger": "col-3/4@sm",
+      "contents": "col-9@sm"
+    },
+    {
+      "trigger": "col-3/4@md",
+      "contents": "col-9@md"
+    },
+    {
+      "trigger": "col-3/4@lg",
+      "contents": "col-9@lg"
+    },
+    {
+      "trigger": "col-3/4@xl",
+      "contents": "col-9@xl"
+    },
+    {
+      "trigger": "text-xxxl",
+      "contents": "text-xxxl"
+    },
+    {
+      "trigger": "text-xxl",
+      "contents": "text-xxl"
+    },
+    {
+      "trigger": "text-xl",
+      "contents": "text-xl"
+    },
+    {
+      "trigger": "text-lg",
+      "contents": "text-lg"
+    },
+    {
+      "trigger": "text-md",
+      "contents": "text-md"
+    },
+    {
+      "trigger": "text-base",
+      "contents": "text-base"
+    },
+    {
+      "trigger": "text-sm",
+      "contents": "text-sm"
+    },
+    {
+      "trigger": "text-xs",
+      "contents": "text-xs"
+    },
+    {
+      "trigger": "link",
+      "contents": "link"
+    },
+    {
+      "trigger": "text-bold",
+      "contents": "text-bold"
+    },
+    {
+      "trigger": "text-underline",
+      "contents": "text-underline"
+    },
+    {
+      "trigger": "text-component",
+      "contents": "text-component"
+    },
+    {
+      "trigger": "article",
+      "contents": "article"
+    },
+    {
+      "trigger": "text-component__block",
+      "contents": "text-component__block"
+    },
+    {
+      "trigger": "text-component__block--full-width",
+      "contents": "text-component__block--full-width"
+    },
+    {
+      "trigger": "text-component__block--left",
+      "contents": "text-component__block--left"
+    },
+    {
+      "trigger": "text-component__block--right",
+      "contents": "text-component__block--right"
+    },
+    {
+      "trigger": "text-component__block--outset",
+      "contents": "text-component__block--outset"
+    },
+    {
+      "trigger": "display@xs",
+      "contents": "display@xs"
+    },
+    {
+      "trigger": "display@sm",
+      "contents": "display@sm"
+    },
+    {
+      "trigger": "display@md",
+      "contents": "display@md"
+    },
+    {
+      "trigger": "display@lg",
+      "contents": "display@lg"
+    },
+    {
+      "trigger": "hide@xs",
+      "contents": "hide@xs"
+    },
+    {
+      "trigger": "hide@sm",
+      "contents": "hide@sm"
+    },
+    {
+      "trigger": "hide@md",
+      "contents": "hide@md"
+    },
+    {
+      "trigger": "hide@lg",
+      "contents": "hide@lg"
+    },
+    {
+      "trigger": "hide@xl",
+      "contents": "hide@xl"
+    },
+    {
+      "trigger": "is-visible",
+      "contents": "is-visible"
+    },
+    {
+      "trigger": "is-hidden",
+      "contents": "is-hidden"
+    },
+    {
+      "trigger": "text-truncate",
+      "contents": "text-truncate"
+    },
+    {
+      "trigger": "text-replace",
+      "contents": "text-replace"
+    },
+    {
+      "trigger": "text-nowrap",
+      "contents": "text-nowrap"
+    },
+    {
+      "trigger": "text-center",
+      "contents": "text-center"
+    },
+    {
+      "trigger": "text-center@xs",
+      "contents": "text-center@xs"
+    },
+    {
+      "trigger": "text-center@sm",
+      "contents": "text-center@sm"
+    },
+    {
+      "trigger": "text-center@md",
+      "contents": "text-center@md"
+    },
+    {
+      "trigger": "text-center@lg",
+      "contents": "text-center@lg"
+    },
+    {
+      "trigger": "text-center@xl",
+      "contents": "text-center@xl"
+    },
+    {
+      "trigger": "text-left",
+      "contents": "text-left"
+    },
+    {
+      "trigger": "text-left@xs",
+      "contents": "text-left@xs"
+    },
+    {
+      "trigger": "text-left@sm",
+      "contents": "text-left@sm"
+    },
+    {
+      "trigger": "text-left@md",
+      "contents": "text-left@md"
+    },
+    {
+      "trigger": "text-left@lg",
+      "contents": "text-left@lg"
+    },
+    {
+      "trigger": "text-left@xl",
+      "contents": "text-left@xl"
+    },
+    {
+      "trigger": "text-right",
+      "contents": "text-right"
+    },
+    {
+      "trigger": "text-right@xs",
+      "contents": "text-right@xs"
+    },
+    {
+      "trigger": "text-right@sm",
+      "contents": "text-right@sm"
+    },
+    {
+      "trigger": "text-right@md",
+      "contents": "text-right@md"
+    },
+    {
+      "trigger": "text-right@lg",
+      "contents": "text-right@lg"
+    },
+    {
+      "trigger": "text-right@xl",
+      "contents": "text-right@xl"
+    },
+    {
+      "trigger": "color-inherit",
+      "contents": "color-inherit"
+    },
+    {
+      "trigger": "color-bg",
+      "contents": "color-bg"
+    },
+    {
+      "trigger": "color-contrast-lower",
+      "contents": "color-contrast-lower"
+    },
+    {
+      "trigger": "color-contrast-low",
+      "contents": "color-contrast-low"
+    },
+    {
+      "trigger": "color-contrast-medium",
+      "contents": "color-contrast-medium"
+    },
+    {
+      "trigger": "color-contrast-high",
+      "contents": "color-contrast-high"
+    },
+    {
+      "trigger": "color-contrast-higher",
+      "contents": "color-contrast-higher"
+    },
+    {
+      "trigger": "color-primary",
+      "contents": "color-primary"
+    },
+    {
+      "trigger": "color-accent",
+      "contents": "color-accent"
+    },
+    {
+      "trigger": "color-success",
+      "contents": "color-success"
+    },
+    {
+      "trigger": "color-warning",
+      "contents": "color-warning"
+    },
+    {
+      "trigger": "color-error",
+      "contents": "color-error"
+    },
+    {
+      "trigger": "width-xxxxs",
+      "contents": "width-xxxxs"
+    },
+    {
+      "trigger": "width-xxxs",
+      "contents": "width-xxxs"
+    },
+    {
+      "trigger": "width-xxs",
+      "contents": "width-xxs"
+    },
+    {
+      "trigger": "width-xs",
+      "contents": "width-xs"
+    },
+    {
+      "trigger": "width-sm",
+      "contents": "width-sm"
+    },
+    {
+      "trigger": "width-md",
+      "contents": "width-md"
+    },
+    {
+      "trigger": "width-lg",
+      "contents": "width-lg"
+    },
+    {
+      "trigger": "width-xl",
+      "contents": "width-xl"
+    },
+    {
+      "trigger": "width-xxl",
+      "contents": "width-xxl"
+    },
+    {
+      "trigger": "width-xxxl",
+      "contents": "width-xxxl"
+    },
+    {
+      "trigger": "width-xxxxl",
+      "contents": "width-xxxxl"
+    },
+    {
+      "trigger": "width-10%",
+      "contents": "width-10%"
+    },
+    {
+      "trigger": "width-20%",
+      "contents": "width-20%"
+    },
+    {
+      "trigger": "width-25%",
+      "contents": "width-25%"
+    },
+    {
+      "trigger": "width-30%",
+      "contents": "width-30%"
+    },
+    {
+      "trigger": "width-33%",
+      "contents": "width-33%"
+    },
+    {
+      "trigger": "width-40%",
+      "contents": "width-40%"
+    },
+    {
+      "trigger": "width-50%",
+      "contents": "width-50%"
+    },
+    {
+      "trigger": "width-60%",
+      "contents": "width-60%"
+    },
+    {
+      "trigger": "width-66%",
+      "contents": "width-66%"
+    },
+    {
+      "trigger": "width-70%",
+      "contents": "width-70%"
+    },
+    {
+      "trigger": "width-75%",
+      "contents": "width-75%"
+    },
+    {
+      "trigger": "width-80%",
+      "contents": "width-80%"
+    },
+    {
+      "trigger": "width-90%",
+      "contents": "width-90%"
+    },
+    {
+      "trigger": "width-100%",
+      "contents": "width-100%"
+    },
+    {
+      "trigger": "width-100vw",
+      "contents": "width-100vw"
+    },
+    {
+      "trigger": "height-xxxxs",
+      "contents": "height-xxxxs"
+    },
+    {
+      "trigger": "height-xxxs",
+      "contents": "height-xxxs"
+    },
+    {
+      "trigger": "height-xxs",
+      "contents": "height-xxs"
+    },
+    {
+      "trigger": "height-xs",
+      "contents": "height-xs"
+    },
+    {
+      "trigger": "height-sm",
+      "contents": "height-sm"
+    },
+    {
+      "trigger": "height-md",
+      "contents": "height-md"
+    },
+    {
+      "trigger": "height-lg",
+      "contents": "height-lg"
+    },
+    {
+      "trigger": "height-xl",
+      "contents": "height-xl"
+    },
+    {
+      "trigger": "height-xxl",
+      "contents": "height-xxl"
+    },
+    {
+      "trigger": "height-xxxl",
+      "contents": "height-xxxl"
+    },
+    {
+      "trigger": "height-xxxxl",
+      "contents": "height-xxxxl"
+    },
+    {
+      "trigger": "height-10%",
+      "contents": "height-10%"
+    },
+    {
+      "trigger": "height-20%",
+      "contents": "height-20%"
+    },
+    {
+      "trigger": "height-25%",
+      "contents": "height-25%"
+    },
+    {
+      "trigger": "height-30%",
+      "contents": "height-30%"
+    },
+    {
+      "trigger": "height-33%",
+      "contents": "height-33%"
+    },
+    {
+      "trigger": "height-40%",
+      "contents": "height-40%"
+    },
+    {
+      "trigger": "height-50%",
+      "contents": "height-50%"
+    },
+    {
+      "trigger": "height-60%",
+      "contents": "height-60%"
+    },
+    {
+      "trigger": "height-66%",
+      "contents": "height-66%"
+    },
+    {
+      "trigger": "height-70%",
+      "contents": "height-70%"
+    },
+    {
+      "trigger": "height-75%",
+      "contents": "height-75%"
+    },
+    {
+      "trigger": "height-80%",
+      "contents": "height-80%"
+    },
+    {
+      "trigger": "height-90%",
+      "contents": "height-90%"
+    },
+    {
+      "trigger": "height-100%",
+      "contents": "height-100%"
+    },
+    {
+      "trigger": "height-100vh",
+      "contents": "height-100vh"
+    },
+    {
+      "trigger": "media-wrapper",
+      "contents": "media-wrapper"
+    },
+    {
+      "trigger": "media-wrapper--4:3",
+      "contents": "media-wrapper--4:3"
+    },
+    {
+      "trigger": "media-wrapper--1:1",
+      "contents": "media-wrapper--1:1"
+    },
+    {
+      "trigger": "float-left",
+      "contents": "float-left"
+    },
+    {
+      "trigger": "float-right",
+      "contents": "float-right"
+    },
+    {
+      "trigger": "clearfix",
+      "contents": "clearfix"
+    },
+    {
+      "trigger": "border",
+      "contents": "border"
+    },
+    {
+      "trigger": "border-top",
+      "contents": "border-top"
+    },
+    {
+      "trigger": "border-bottom",
+      "contents": "border-bottom"
+    },
+    {
+      "trigger": "border-left",
+      "contents": "border-left"
+    },
+    {
+      "trigger": "border-right",
+      "contents": "border-right"
+    },
+    {
+      "trigger": "border-2",
+      "contents": "border-2"
+    },
+    {
+      "trigger": "border-contrast-lower",
+      "contents": "border-contrast-lower"
+    },
+    {
+      "trigger": "border-contrast-medium",
+      "contents": "border-contrast-medium"
+    },
+    {
+      "trigger": "radius-sm",
+      "contents": "radius-sm"
+    },
+    {
+      "trigger": "radius-md",
+      "contents": "radius-md"
+    },
+    {
+      "trigger": "radius-lg",
+      "contents": "radius-lg"
+    },
+    {
+      "trigger": "shadow-xs",
+      "contents": "shadow-xs"
+    },
+    {
+      "trigger": "shadow-sm",
+      "contents": "shadow-sm"
+    },
+    {
+      "trigger": "shadow-md",
+      "contents": "shadow-md"
+    },
+    {
+      "trigger": "shadow-lg",
+      "contents": "shadow-lg"
+    },
+    {
+      "trigger": "shadow-xl",
+      "contents": "shadow-xl"
+    },
+    {
+      "trigger": "line-height-xs",
+      "contents": "line-height-xs"
+    },
+    {
+      "trigger": "line-height-sm",
+      "contents": "line-height-sm"
+    },
+    {
+      "trigger": "line-height-md",
+      "contents": "line-height-md"
+    },
+    {
+      "trigger": "line-height-lg",
+      "contents": "line-height-lg"
+    },
+    {
+      "trigger": "line-height-xl",
+      "contents": "line-height-xl"
+    },
+    {
+      "trigger": "v-space-xxs",
+      "contents": "v-space-xxs"
+    },
+    {
+      "trigger": "v-space-xs",
+      "contents": "v-space-xs"
+    },
+    {
+      "trigger": "v-space-sm",
+      "contents": "v-space-sm"
+    },
+    {
+      "trigger": "v-space-md",
+      "contents": "v-space-md"
+    },
+    {
+      "trigger": "v-space-lg",
+      "contents": "v-space-lg"
+    },
+    {
+      "trigger": "v-space-xl",
+      "contents": "v-space-xl"
+    },
+    {
+      "trigger": "v-space-xxl",
+      "contents": "v-space-xxl"
+    },
+    {
+      "trigger": "bg-inherit",
+      "contents": "bg-inherit"
+    },
+    {
+      "trigger": "bg",
+      "contents": "bg"
+    },
+    {
+      "trigger": "bg-contrast-lower",
+      "contents": "bg-contrast-lower"
+    },
+    {
+      "trigger": "bg-contrast-low",
+      "contents": "bg-contrast-low"
+    },
+    {
+      "trigger": "bg-contrast-medium",
+      "contents": "bg-contrast-medium"
+    },
+    {
+      "trigger": "bg-contrast-high",
+      "contents": "bg-contrast-high"
+    },
+    {
+      "trigger": "bg-contrast-higher",
+      "contents": "bg-contrast-higher"
+    },
+    {
+      "trigger": "bg-primary",
+      "contents": "bg-primary"
+    },
+    {
+      "trigger": "bg-accent",
+      "contents": "bg-accent"
+    },
+    {
+      "trigger": "bg-success",
+      "contents": "bg-success"
+    },
+    {
+      "trigger": "bg-warning",
+      "contents": "bg-warning"
+    },
+    {
+      "trigger": "bg-error",
+      "contents": "bg-error"
+    },
+    {
+      "trigger": "bg-white",
+      "contents": "bg-white"
+    },
+    {
+      "trigger": "bg-black",
+      "contents": "bg-black"
+    },
+    {
+      "trigger": "block",
+      "contents": "block"
+    },
+    {
+      "trigger": "block@xs",
+      "contents": "block@xs"
+    },
+    {
+      "trigger": "block@sm",
+      "contents": "block@sm"
+    },
+    {
+      "trigger": "block@md",
+      "contents": "block@md"
+    },
+    {
+      "trigger": "block@lg",
+      "contents": "block@lg"
+    },
+    {
+      "trigger": "block@xl",
+      "contents": "block@xl"
+    },
+    {
+      "trigger": "inline-block",
+      "contents": "inline-block"
+    },
+    {
+      "trigger": "inline-block@xs",
+      "contents": "inline-block@xs"
+    },
+    {
+      "trigger": "inline-block@sm",
+      "contents": "inline-block@sm"
+    },
+    {
+      "trigger": "inline-block@md",
+      "contents": "inline-block@md"
+    },
+    {
+      "trigger": "inline-block@lg",
+      "contents": "inline-block@lg"
+    },
+    {
+      "trigger": "inline-block@xl",
+      "contents": "inline-block@xl"
+    },
+    {
+      "trigger": "inline",
+      "contents": "inline"
+    },
+    {
+      "trigger": "inline@xs",
+      "contents": "inline@xs"
+    },
+    {
+      "trigger": "inline@sm",
+      "contents": "inline@sm"
+    },
+    {
+      "trigger": "inline@md",
+      "contents": "inline@md"
+    },
+    {
+      "trigger": "inline@lg",
+      "contents": "inline@lg"
+    },
+    {
+      "trigger": "inline@xl",
+      "contents": "inline@xl"
+    },
+    {
+      "trigger": "js-tab-focus",
+      "contents": "js-tab-focus"
+    },
+    {
+      "trigger": "min-width-0",
+      "contents": "min-width-0"
+    },
+    {
+      "trigger": "min-width-25%",
+      "contents": "min-width-25%"
+    },
+    {
+      "trigger": "min-width-33%",
+      "contents": "min-width-33%"
+    },
+    {
+      "trigger": "min-width-50%",
+      "contents": "min-width-50%"
+    },
+    {
+      "trigger": "min-width-66%",
+      "contents": "min-width-66%"
+    },
+    {
+      "trigger": "min-width-75%",
+      "contents": "min-width-75%"
+    },
+    {
+      "trigger": "min-width-100%",
+      "contents": "min-width-100%"
+    },
+    {
+      "trigger": "position-relative",
+      "contents": "position-relative"
+    },
+    {
+      "trigger": "position-absolute",
+      "contents": "position-absolute"
+    },
+    {
+      "trigger": "position-fixed",
+      "contents": "position-fixed"
+    },
+    {
+      "trigger": "position-sticky",
+      "contents": "position-sticky"
+    },
+    {
+      "trigger": "overflow-hidden",
+      "contents": "overflow-hidden"
+    },
+    {
+      "trigger": "overflow-auto",
+      "contents": "overflow-auto"
+    }
+  ]
+}

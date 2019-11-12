@@ -1,0 +1,38 @@
+{
+  "scope": "source.js",
+
+  "completions": [
+    {
+      "trigger": "addClass",
+      "contents": "Util.addClass(${1:element}, '${2:className}');"
+    },
+    {
+      "trigger": "removeClass",
+      "contents": "Util.removeClass(${1:element}, '${2:className}');"
+    },
+    {
+      "trigger": "hasClass",
+      "contents": "Util.hasClass(${1:element}, '${2:className}');"
+    },
+    {
+      "trigger": "toggleClass",
+      "contents": "Util.toggleClass(${1:element}, '${2:className}', ${3:bool});"
+    },
+    {
+      "trigger": "supports",
+      "contents": "Util.cssSupports('${1:display}', '${2:block}');"
+    },
+    {
+      "trigger": "focus",
+      "contents": "Util.moveFocus(${1:element});"
+    },
+    {
+      "trigger": "children",
+      "contents": "Util.getChildrenByClassName(${1:element}, '${2:className}');"
+    },
+    {
+      "trigger": "index",
+      "contents": "Util.getIndexInArray(${1:array}, ${2:element});"
+    }
+  ]
+}

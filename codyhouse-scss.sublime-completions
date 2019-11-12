@@ -1,0 +1,418 @@
+{
+  "scope": "source.scss",
+
+  "completions": [
+    {
+      "trigger": "srHide",
+      "contents": "@include srHide;"
+    },
+    {
+      "trigger": "srShow",
+      "contents": "@include srShow;"
+    },
+    {
+      "trigger": "@xs", 
+      "contents": "@include breakpoint(xs) {\n  ${1}\n}"
+    },
+    {
+      "trigger": "@sm", 
+      "contents": "@include breakpoint(sm) {\n  ${1}\n}"
+    },
+    {
+      "trigger": "@md", 
+      "contents": "@include breakpoint(md) {\n  ${1}\n}"
+    },
+    {
+      "trigger": "@lg", 
+      "contents": "@include breakpoint(lg) {\n  ${1}\n}"
+    },
+    {
+      "trigger": "@xl", 
+      "contents": "@include breakpoint(xl) {\n  ${1}\n}"
+    },
+    {
+      "trigger": "defineColorHSL", 
+      "contents": "@include defineColorHSL(--${1}, ${2:220}, ${3:90}%, ${4:36}%);"
+    },
+    {
+      "trigger": "--color-primary-darker", 
+      "contents": "var(--color-primary-darker)"
+    },
+    {
+      "trigger": "--color-primary-dark", 
+      "contents": "var(--color-primary-dark)"
+    },
+    {
+      "trigger": "--color-primary", 
+      "contents": "var(--color-primary)"
+    },
+    {
+      "trigger": "--color-primary-light", 
+      "contents": "var(--color-primary-light)"
+    },
+    {
+      "trigger": "--color-primary-lighter", 
+      "contents": "var(--color-primary-lighter)"
+    },
+    {
+      "trigger": "--color-accent-darker", 
+      "contents": "var(--color-accent-darker)"
+    },
+    {
+      "trigger": "--color-accent-dark", 
+      "contents": "var(--color-accent-dark)"
+    },
+    {
+      "trigger": "--color-accent", 
+      "contents": "var(--color-accent)"
+    },
+    {
+      "trigger": "--color-accent-light", 
+      "contents": "var(--color-accent-light)"
+    },
+    {
+      "trigger": "--color-accent-lighter", 
+      "contents": "var(--color-accent-lighter)"
+    },
+    {
+      "trigger": "--color-black", 
+      "contents": "var(--color-black)"
+    },
+    {
+      "trigger": "--color-white", 
+      "contents": "var(--color-white)"
+    },
+    {
+      "trigger": "--color-success-darker", 
+      "contents": "var(--color-success-darker)"
+    },
+    {
+      "trigger": "--color-success-dark", 
+      "contents": "var(--color-success-dark)"
+    },
+    {
+      "trigger": "--color-success", 
+      "contents": "var(--color-success)"
+    },
+    {
+      "trigger": "--color-success-light", 
+      "contents": "var(--color-success-light)"
+    },
+    {
+      "trigger": "--color-success-lighter", 
+      "contents": "var(--color-success-lighter)"
+    },
+    {
+      "trigger": "--color-error-darker", 
+      "contents": "var(--color-error-darker)"
+    },
+    {
+      "trigger": "--color-error-dark", 
+      "contents": "var(--color-error-dark)"
+    },
+    {
+      "trigger": "--color-error", 
+      "contents": "var(--color-error)"
+    },
+    {
+      "trigger": "--color-error-light", 
+      "contents": "var(--color-error-light)"
+    },
+    {
+      "trigger": "--color-error-lighter", 
+      "contents": "var(--color-error-lighter)"
+    },
+    {
+      "trigger": "--color-warning-darker", 
+      "contents": "var(--color-warning-darker)"
+    },
+    {
+      "trigger": "--color-warning-dark", 
+      "contents": "var(--color-warning-dark)"
+    },
+    {
+      "trigger": "--color-warning", 
+      "contents": "var(--color-warning)"
+    },
+    {
+      "trigger": "--color-warning-light", 
+      "contents": "var(--color-warning-light)"
+    },
+    {
+      "trigger": "--color-warning-lighter", 
+      "contents": "var(--color-warning-lighter)"
+    },
+    {
+      "trigger": "--color-bg", 
+      "contents": "var(--color-bg)"
+    },
+    {
+      "trigger": "--color-contrast-lower", 
+      "contents": "var(--color-contrast-lower)"
+    },
+    {
+      "trigger": "--color-contrast-low", 
+      "contents": "var(--color-contrast-low)"
+    },
+    {
+      "trigger": "--color-contrast-medium", 
+      "contents": "var(--color-contrast-medium)"
+    },
+    {
+      "trigger": "--color-contrast-high", 
+      "contents": "var(--color-contrast-high)"
+    },
+    {
+      "trigger": "--color-contrast-higher", 
+      "contents": "var(--color-contrast-higher)"
+    },
+    {
+      "trigger": "fontSmooth", 
+      "contents": "@include fontSmooth;"
+    },
+    {
+      "trigger": "lhCrop", 
+      "contents": "@include lhCrop(${1:lineHeight}, ${2:var(--font-primary-capital-letter): 1});"
+    },
+    {
+      "trigger": "triangle", 
+      "contents": "@include triangle(${1:direction: up/down/left/right}, ${2:width: 12px}, ${3:color});"
+    },
+    {
+      "trigger": "reset", 
+      "contents": "@include reset;"
+    },
+    {
+      "trigger": "alpha", 
+      "contents": "alpha(${1:color}, ${2:opacity: 1});"
+    },
+    {
+      "trigger": "lightness", 
+      "contents": "lightness(${1:color}, ${2:lightnessMultiplier: 1});"
+    },
+    {
+      "trigger": "spaceUnit", 
+      "contents": "@include spaceUnit(${1:spaceUnit});"
+    },
+    {
+      "trigger": "textUnit", 
+      "contents": "@include textUnit(${1:textUnit}, ${2:textScaleRatio: 1.2});"
+    },
+    {
+      "trigger": "--bounce timing function", 
+      "contents": "var(--bounce)"
+    },
+    {
+      "trigger": "--ease-in-out timing function", 
+      "contents": "var(--ease-in-out)"
+    },
+    {
+      "trigger": "--ease-in timing function", 
+      "contents": "var(--ease-in)"
+    },
+    {
+      "trigger": "--ease-out timing function", 
+      "contents": "var(--ease-out)"
+    },
+    {
+      "trigger": "--radius-sm", 
+      "contents": "var(--radius-sm)"
+    },
+    {
+      "trigger": "--radius-md", 
+      "contents": "var(--radius-md)"
+    },
+    {
+      "trigger": "--radius-lg", 
+      "contents": "var(--radius-lg)"
+    },
+    {
+      "trigger": "--shadow-xs", 
+      "contents": "var(--shadow-xs)"
+    },
+    {
+      "trigger": "--shadow-sm", 
+      "contents": "var(--shadow-sm)"
+    },
+    {
+      "trigger": "--shadow-md", 
+      "contents": "var(--shadow-md)"
+    },
+    {
+      "trigger": "--shadow-lg", 
+      "contents": "var(--shadow-lg)"
+    },
+    {
+      "trigger": "--shadow-xl", 
+      "contents": "var(--shadow-xl)"
+    },
+    {
+      "trigger": "--space-xxxxs", 
+      "contents": "var(--space-xxxxs)"
+    },
+    {
+      "trigger": "--space-xxxs", 
+      "contents": "var(--space-xxxs)"
+    },
+    {
+      "trigger": "--space-xxs", 
+      "contents": "var(--space-xxs)"
+    },
+    {
+      "trigger": "--space-xs", 
+      "contents": "var(--space-xs)"
+    },
+    {
+      "trigger": "--space-sm", 
+      "contents": "var(--space-sm)"
+    },
+    {
+      "trigger": "--space-md", 
+      "contents": "var(--space-md)"
+    },
+    {
+      "trigger": "--space-lg", 
+      "contents": "var(--space-lg)"
+    },
+    {
+      "trigger": "--space-xl", 
+      "contents": "var(--space-xl)"
+    },
+    {
+      "trigger": "--space-xxl", 
+      "contents": "var(--space-xxl)"
+    },
+    {
+      "trigger": "--space-xxxl", 
+      "contents": "var(--space-xxxl)"
+    },
+    {
+      "trigger": "--space-xxxxl", 
+      "contents": "var(--space-xxxxl)"
+    },
+    {
+      "trigger": "--component-padding", 
+      "contents": "var(--component-padding)"
+    },
+    {
+      "trigger": "--body-line-height", 
+      "contents": "var(--body-line-height)"
+    },
+    {
+      "trigger": "--heading-line-height", 
+      "contents": "var(--heading-line-height)"
+    },
+    {
+      "trigger": "--line-height-multiplier", 
+      "contents": "var(--line-height-multiplier)"
+    },
+    {
+      "trigger": "--text-vspace-multiplier", 
+      "contents": "var(--text-vspace-multiplier)"
+    },
+    {
+      "trigger": "--font-primary", 
+      "contents": "var(--font-primary)"
+    },
+    {
+      "trigger": "--text-base-size", 
+      "contents": "var(--text-base-size)"
+    },
+    {
+      "trigger": "--text-scale-ratio", 
+      "contents": "var(--text-scale-ratio)"
+    },
+    {
+      "trigger": "--text-xs", 
+      "contents": "var(--text-xs)"
+    },
+    {
+      "trigger": "--text-sm", 
+      "contents": "var(--text-sm)"
+    },
+    {
+      "trigger": "--text-md", 
+      "contents": "var(--text-md)"
+    },
+    {
+      "trigger": "--text-lg", 
+      "contents": "var(--text-lg)"
+    },
+    {
+      "trigger": "--text-xl", 
+      "contents": "var(--text-xl)"
+    },
+    {
+      "trigger": "--text-xxl", 
+      "contents": "var(--text-xxl)"
+    },
+    {
+      "trigger": "--text-xxxl", 
+      "contents": "var(--text-xxxl)"
+    },
+    {
+      "trigger": "--display", 
+      "contents": "var(--display)"
+    },
+    {
+      "trigger": "--zindex-header", 
+      "contents": "var(--zindex-header)"
+    },
+    {
+      "trigger": "--zindex-popover", 
+      "contents": "var(--zindex-popover)"
+    },
+    {
+      "trigger": "--zindex-fixed-element", 
+      "contents": "var(--zindex-fixed-element)"
+    },
+    {
+      "trigger": "--zindex-overlay", 
+      "contents": "var(--zindex-overlay)"
+    },
+    {
+      "trigger": "--max-width-xxxxs", 
+      "contents": "var(--max-width-xxxxs)"
+    },
+    {
+      "trigger": "--max-width-xxxs", 
+      "contents": "var(--max-width-xxxs)"
+    },
+    {
+      "trigger": "--max-width-xxs", 
+      "contents": "var(--max-width-xxs)"
+    },
+    {
+      "trigger": "--max-width-xs", 
+      "contents": "var(--max-width-xs)"
+    },
+    {
+      "trigger": "--max-width-sm", 
+      "contents": "var(--max-width-sm)"
+    },
+    {
+      "trigger": "--max-width-md", 
+      "contents": "var(--max-width-md)"
+    },
+    {
+      "trigger": "--max-width-lg", 
+      "contents": "var(--max-width-lg)"
+    },
+    {
+      "trigger": "--max-width-xl", 
+      "contents": "var(--max-width-xl)"
+    },
+    {
+      "trigger": "--max-width-xxl", 
+      "contents": "var(--max-width-xxl)"
+    },
+    {
+      "trigger": "--max-width-xxxl", 
+      "contents": "var(--max-width-xxxl)"
+    },
+    {
+      "trigger": "--max-width-xxxxl", 
+      "contents": "var(--max-width-xxxxl)"
+    }
+  ]
+}
