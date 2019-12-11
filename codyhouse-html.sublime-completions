@@ -135,6 +135,18 @@
       "contents": "items-end"
     },
     {
+      "trigger": "order-1",
+      "contents": "order-1"
+    },
+    {
+      "trigger": "order-2",
+      "contents": "order-2"
+    },
+    {
+      "trigger": "order-3",
+      "contents": "order-3"
+    },
+    {
       "trigger": "flex@xs",
       "contents": "flex@xs"
     },
@@ -193,6 +205,18 @@
     {
       "trigger": "items-end@xs",
       "contents": "items-end@xs"
+    },
+    {
+      "trigger": "order-1@xs",
+      "contents": "order-1@xs"
+    },
+    {
+      "trigger": "order-2@xs",
+      "contents": "order-2@xs"
+    },
+    {
+      "trigger": "order-3@xs",
+      "contents": "order-3@xs"
     },
     {
       "trigger": "flex@sm",
@@ -255,6 +279,18 @@
       "contents": "items-end@sm"
     },
     {
+      "trigger": "order-1@sm",
+      "contents": "order-1@sm"
+    },
+    {
+      "trigger": "order-2@sm",
+      "contents": "order-2@sm"
+    },
+    {
+      "trigger": "order-3@sm",
+      "contents": "order-3@sm"
+    },
+    {
       "trigger": "flex@md",
       "contents": "flex@md"
     },
@@ -313,6 +349,18 @@
     {
       "trigger": "items-end@md",
       "contents": "items-end@md"
+    },
+    {
+      "trigger": "order-1@md",
+      "contents": "order-1@md"
+    },
+    {
+      "trigger": "order-2@md",
+      "contents": "order-2@md"
+    },
+    {
+      "trigger": "order-3@md",
+      "contents": "order-3@md"
     },
     {
       "trigger": "flex@lg",
@@ -375,6 +423,18 @@
       "contents": "items-end@lg"
     },
     {
+      "trigger": "order-1@lg",
+      "contents": "order-1@lg"
+    },
+    {
+      "trigger": "order-2@lg",
+      "contents": "order-2@lg"
+    },
+    {
+      "trigger": "order-3@lg",
+      "contents": "order-3@lg"
+    },
+    {
       "trigger": "flex@xl",
       "contents": "flex@xl"
     },
@@ -433,6 +493,18 @@
     {
       "trigger": "items-end@xl",
       "contents": "items-end@xl"
+    },
+    {
+      "trigger": "order-1@xl",
+      "contents": "order-1@xl"
+    },
+    {
+      "trigger": "order-2@xl",
+      "contents": "order-2@xl"
+    },
+    {
+      "trigger": "order-3@xl",
+      "contents": "order-3@xl"
     },
     {
       "trigger": "flex-grow",
@@ -1815,6 +1887,26 @@
       "contents": "link"
     },
     {
+      "trigger": "font-light",
+      "contents": "font-light"
+    },
+    {
+      "trigger": "font-normal",
+      "contents": "font-normal"
+    },
+    {
+      "trigger": "font-medium",
+      "contents": "font-medium"
+    },
+    {
+      "trigger": "font-semibold",
+      "contents": "font-semibold"
+    },
+    {
+      "trigger": "font-bold",
+      "contents": "font-bold"
+    },
+    {
       "trigger": "text-bold",
       "contents": "text-bold"
     },
@@ -1905,6 +1997,10 @@
     {
       "trigger": "text-nowrap",
       "contents": "text-nowrap"
+    },
+    {
+      "trigger": "ws-nowrap",
+      "contents": "ws-nowrap"
     },
     {
       "trigger": "text-center",
@@ -2025,6 +2121,54 @@
     {
       "trigger": "color-error",
       "contents": "color-error"
+    },
+    {
+      "trigger": "color-opacity-10%",
+      "contents": "color-opacity-10%"
+    },
+    {
+      "trigger": "color-opacity-20%",
+      "contents": "color-opacity-20%"
+    },
+    {
+      "trigger": "color-opacity-30%",
+      "contents": "color-opacity-30%"
+    },
+    {
+      "trigger": "color-opacity-40%",
+      "contents": "color-opacity-40%"
+    },
+    {
+      "trigger": "color-opacity-50%",
+      "contents": "color-opacity-50%"
+    },
+    {
+      "trigger": "color-opacity-60%",
+      "contents": "color-opacity-60%"
+    },
+    {
+      "trigger": "color-opacity-70%",
+      "contents": "color-opacity-70%"
+    },
+    {
+      "trigger": "color-opacity-80%",
+      "contents": "color-opacity-80%"
+    },
+    {
+      "trigger": "color-opacity-90%",
+      "contents": "color-opacity-90%"
+    },
+    {
+      "trigger": "zindex-1",
+      "contents": "zindex-1"
+    },
+    {
+      "trigger": "zindex-2",
+      "contents": "zindex-2"
+    },
+    {
+      "trigger": "zindex-3",
+      "contents": "zindex-3"
     },
     {
       "trigger": "width-xxxxs",
@@ -2283,12 +2427,96 @@
       "contents": "border-2"
     },
     {
+      "trigger": "border-3",
+      "contents": "border-3"
+    },
+    {
+      "trigger": "border-bg",
+      "contents": "border-bg"
+    },
+    {
       "trigger": "border-contrast-lower",
       "contents": "border-contrast-lower"
     },
     {
+      "trigger": "border-contrast-low",
+      "contents": "border-contrast-low"
+    },
+    {
       "trigger": "border-contrast-medium",
       "contents": "border-contrast-medium"
+    },
+    {
+      "trigger": "border-contrast-high",
+      "contents": "border-contrast-high"
+    },
+    {
+      "trigger": "border-contrast-higher",
+      "contents": "border-contrast-higher"
+    },
+    {
+      "trigger": "border-primary",
+      "contents": "border-primary"
+    },
+    {
+      "trigger": "border-accent",
+      "contents": "border-accent"
+    },
+    {
+      "trigger": "border-success",
+      "contents": "border-success"
+    },
+    {
+      "trigger": "border-warning",
+      "contents": "border-warning"
+    },
+    {
+      "trigger": "border-error",
+      "contents": "border-error"
+    },
+    {
+      "trigger": "border-white",
+      "contents": "border-white"
+    },
+    {
+      "trigger": "border-black",
+      "contents": "border-black"
+    },
+    {
+      "trigger": "border-opacity-10%",
+      "contents": "border-opacity-10%"
+    },
+    {
+      "trigger": "border-opacity-20%",
+      "contents": "border-opacity-20%"
+    },
+    {
+      "trigger": "border-opacity-30%",
+      "contents": "border-opacity-30%"
+    },
+    {
+      "trigger": "border-opacity-40%",
+      "contents": "border-opacity-40%"
+    },
+    {
+      "trigger": "border-opacity-50%",
+      "contents": "border-opacity-50%"
+    },
+    {
+      "trigger": "border-opacity-60%",
+      "contents": "border-opacity-60%"
+    },
+    {
+      "trigger": "border-opacity-70%",
+      "contents": "border-opacity-70%"
+    },
+    {
+      "trigger": "border-opacity-80%",
+      "contents": "border-opacity-80%"
+    },
+    {
+      "trigger": "border-opacity-90%",
+      "contents": "border-opacity-90%"
     },
     {
       "trigger": "radius-sm",
@@ -2301,6 +2529,10 @@
     {
       "trigger": "radius-lg",
       "contents": "radius-lg"
+    },
+    {
+      "trigger": "radius-50%",
+      "contents": "radius-50%"
     },
     {
       "trigger": "shadow-xs",
@@ -2425,6 +2657,46 @@
     {
       "trigger": "bg-black",
       "contents": "bg-black"
+    },
+    {
+      "trigger": "bg-opacity-10%",
+      "contents": "bg-opacity-10%"
+    },
+    {
+      "trigger": "bg-opacity-20%",
+      "contents": "bg-opacity-20%"
+    },
+    {
+      "trigger": "bg-opacity-30%",
+      "contents": "bg-opacity-30%"
+    },
+    {
+      "trigger": "bg-opacity-40%",
+      "contents": "bg-opacity-40%"
+    },
+    {
+      "trigger": "bg-opacity-50%",
+      "contents": "bg-opacity-50%"
+    },
+    {
+      "trigger": "bg-opacity-60%",
+      "contents": "bg-opacity-60%"
+    },
+    {
+      "trigger": "bg-opacity-70%",
+      "contents": "bg-opacity-70%"
+    },
+    {
+      "trigger": "bg-opacity-80%",
+      "contents": "bg-opacity-80%"
+    },
+    {
+      "trigger": "bg-opacity-90%",
+      "contents": "bg-opacity-90%"
+    },
+    {
+      "trigger": "font-primary",
+      "contents": "font-primary"
     },
     {
       "trigger": "block",
@@ -2553,6 +2825,42 @@
     {
       "trigger": "overflow-auto",
       "contents": "overflow-auto"
+    },
+    {
+      "trigger": "opacity-10%",
+      "contents": "opacity-10%"
+    },
+    {
+      "trigger": "opacity-20%",
+      "contents": "opacity-20%"
+    },
+    {
+      "trigger": "opacity-30%",
+      "contents": "opacity-30%"
+    },
+    {
+      "trigger": "opacity-40%",
+      "contents": "opacity-40%"
+    },
+    {
+      "trigger": "opacity-50%",
+      "contents": "opacity-50%"
+    },
+    {
+      "trigger": "opacity-60%",
+      "contents": "opacity-60%"
+    },
+    {
+      "trigger": "opacity-70%",
+      "contents": "opacity-70%"
+    },
+    {
+      "trigger": "opacity-80%",
+      "contents": "opacity-80%"
+    },
+    {
+      "trigger": "opacity-90%",
+      "contents": "opacity-90%"
     },
     {
       "trigger": "object-contain",
