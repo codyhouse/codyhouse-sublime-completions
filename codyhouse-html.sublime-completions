@@ -2695,6 +2695,14 @@
       "contents": "bg-opacity-90%"
     },
     {
+      "trigger": "bg-cover",
+      "contents": "bg-cover"
+    },
+    {
+      "trigger": "bg-center",
+      "contents": "bg-center"
+    },
+    {
       "trigger": "font-primary",
       "contents": "font-primary"
     },
