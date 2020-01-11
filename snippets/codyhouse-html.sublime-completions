@@ -519,6 +519,78 @@
       "contents": "flex-basis-0"
     },
     {
+      "trigger": "flex-grow-0@xs",
+      "contents": "flex-grow-0@xs"
+    },
+    {
+      "trigger": "flex-shrink@xs",
+      "contents": "flex-shrink@xs"
+    },
+    {
+      "trigger": "flex-grow-0@sm",
+      "contents": "flex-grow-0@sm"
+    },
+    {
+      "trigger": "flex-grow@sm",
+      "contents": "flex-grow@sm"
+    },
+    {
+      "trigger": "flex-shrink-0@sm",
+      "contents": "flex-shrink-0@sm"
+    },
+    {
+      "trigger": "flex-shrink@sm",
+      "contents": "flex-shrink@sm"
+    },
+    {
+      "trigger": "flex-grow-0@md",
+      "contents": "flex-grow-0@md"
+    },
+    {
+      "trigger": "flex-grow@md",
+      "contents": "flex-grow@md"
+    },
+    {
+      "trigger": "flex-shrink-0@md",
+      "contents": "flex-shrink-0@md"
+    },
+    {
+      "trigger": "flex-shrink@md",
+      "contents": "flex-shrink@md"
+    },
+    {
+      "trigger": "flex-grow-0@lg",
+      "contents": "flex-grow-0@lg"
+    },
+    {
+      "trigger": "flex-grow@lg",
+      "contents": "flex-grow@lg"
+    },
+    {
+      "trigger": "flex-shrink-0@lg",
+      "contents": "flex-shrink-0@lg"
+    },
+    {
+      "trigger": "flex-shrink@lg",
+      "contents": "flex-shrink@lg"
+    },
+    {
+      "trigger": "flex-grow-0@xl",
+      "contents": "flex-grow-0@xl"
+    },
+    {
+      "trigger": "flex-grow@xl",
+      "contents": "flex-grow@xl"
+    },
+    {
+      "trigger": "flex-shrink-0@xl",
+      "contents": "flex-shrink-0@xl"
+    },
+    {
+      "trigger": "flex-shrink@xl",
+      "contents": "flex-shrink@xl"
+    },
+    {
       "trigger": "flex-gap-xxxs",
       "contents": "flex-gap-xxxs"
     },
@@ -2179,6 +2251,14 @@
       "contents": "text-underline"
     },
     {
+      "trigger": "text-line-through",
+      "contents": "text-line-through"
+    },
+    {
+      "trigger": "text-decoration-none",
+      "contents": "text-decoration-none"
+    },
+    {
       "trigger": "text-component",
       "contents": "text-component"
     },
@@ -2337,6 +2417,26 @@
     {
       "trigger": "text-right@xl",
       "contents": "text-right@xl"
+    },
+    {
+      "trigger": "text-uppercase",
+      "contents": "text-uppercase"
+    },
+    {
+      "trigger": "text-capitalize",
+      "contents": "text-capitalize"
+    },
+    {
+      "trigger": "letter-spacing-sm",
+      "contents": "letter-spacing-sm"
+    },
+    {
+      "trigger": "letter-spacing-md",
+      "contents": "letter-spacing-md"
+    },
+    {
+      "trigger": "letter-spacing-lg",
+      "contents": "letter-spacing-lg"
     },
     {
       "trigger": "color-inherit",
