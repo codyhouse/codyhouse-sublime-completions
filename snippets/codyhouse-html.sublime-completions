@@ -2247,6 +2247,10 @@
       "contents": "text-bold"
     },
     {
+      "trigger": "font-smooth",
+      "contents": "font-smooth"
+    },
+    {
       "trigger": "text-underline",
       "contents": "text-underline"
     },
