@@ -519,6 +519,78 @@
       "contents": "flex-basis-0"
     },
     {
+      "trigger": "flex-grow-0@xs",
+      "contents": "flex-grow-0@xs"
+    },
+    {
+      "trigger": "flex-shrink@xs",
+      "contents": "flex-shrink@xs"
+    },
+    {
+      "trigger": "flex-grow-0@sm",
+      "contents": "flex-grow-0@sm"
+    },
+    {
+      "trigger": "flex-grow@sm",
+      "contents": "flex-grow@sm"
+    },
+    {
+      "trigger": "flex-shrink-0@sm",
+      "contents": "flex-shrink-0@sm"
+    },
+    {
+      "trigger": "flex-shrink@sm",
+      "contents": "flex-shrink@sm"
+    },
+    {
+      "trigger": "flex-grow-0@md",
+      "contents": "flex-grow-0@md"
+    },
+    {
+      "trigger": "flex-grow@md",
+      "contents": "flex-grow@md"
+    },
+    {
+      "trigger": "flex-shrink-0@md",
+      "contents": "flex-shrink-0@md"
+    },
+    {
+      "trigger": "flex-shrink@md",
+      "contents": "flex-shrink@md"
+    },
+    {
+      "trigger": "flex-grow-0@lg",
+      "contents": "flex-grow-0@lg"
+    },
+    {
+      "trigger": "flex-grow@lg",
+      "contents": "flex-grow@lg"
+    },
+    {
+      "trigger": "flex-shrink-0@lg",
+      "contents": "flex-shrink-0@lg"
+    },
+    {
+      "trigger": "flex-shrink@lg",
+      "contents": "flex-shrink@lg"
+    },
+    {
+      "trigger": "flex-grow-0@xl",
+      "contents": "flex-grow-0@xl"
+    },
+    {
+      "trigger": "flex-grow@xl",
+      "contents": "flex-grow@xl"
+    },
+    {
+      "trigger": "flex-shrink-0@xl",
+      "contents": "flex-shrink-0@xl"
+    },
+    {
+      "trigger": "flex-shrink@xl",
+      "contents": "flex-shrink@xl"
+    },
+    {
       "trigger": "flex-gap-xxxxs",
       "contents": "flex-gap-xxxxs"
     },
@@ -5495,6 +5567,270 @@
       "contents": "col-9@xl"
     },
     {
+      "trigger": "offset-1",
+      "contents": "offset-1"
+    },
+    {
+      "trigger": "offset-1@xs",
+      "contents": "offset-1@xs"
+    },
+    {
+      "trigger": "offset-1@sm",
+      "contents": "offset-1@sm"
+    },
+    {
+      "trigger": "offset-1@md",
+      "contents": "offset-1@md"
+    },
+    {
+      "trigger": "offset-1@lg",
+      "contents": "offset-1@lg"
+    },
+    {
+      "trigger": "offset-1@xl",
+      "contents": "offset-1@xl"
+    },
+    {
+      "trigger": "offset-2",
+      "contents": "offset-2"
+    },
+    {
+      "trigger": "offset-2@xs",
+      "contents": "offset-2@xs"
+    },
+    {
+      "trigger": "offset-2@sm",
+      "contents": "offset-2@sm"
+    },
+    {
+      "trigger": "offset-2@md",
+      "contents": "offset-2@md"
+    },
+    {
+      "trigger": "offset-2@lg",
+      "contents": "offset-2@lg"
+    },
+    {
+      "trigger": "offset-2@xl",
+      "contents": "offset-2@xl"
+    },
+    {
+      "trigger": "offset-3",
+      "contents": "offset-3"
+    },
+    {
+      "trigger": "offset-3@xs",
+      "contents": "offset-3@xs"
+    },
+    {
+      "trigger": "offset-3@sm",
+      "contents": "offset-3@sm"
+    },
+    {
+      "trigger": "offset-3@md",
+      "contents": "offset-3@md"
+    },
+    {
+      "trigger": "offset-3@lg",
+      "contents": "offset-3@lg"
+    },
+    {
+      "trigger": "offset-3@xl",
+      "contents": "offset-3@xl"
+    },
+    {
+      "trigger": "offset-4",
+      "contents": "offset-4"
+    },
+    {
+      "trigger": "offset-4@xs",
+      "contents": "offset-4@xs"
+    },
+    {
+      "trigger": "offset-4@sm",
+      "contents": "offset-4@sm"
+    },
+    {
+      "trigger": "offset-4@md",
+      "contents": "offset-4@md"
+    },
+    {
+      "trigger": "offset-4@lg",
+      "contents": "offset-4@lg"
+    },
+    {
+      "trigger": "offset-4@xl",
+      "contents": "offset-4@xl"
+    },
+    {
+      "trigger": "offset-5",
+      "contents": "offset-5"
+    },
+    {
+      "trigger": "offset-5@xs",
+      "contents": "offset-5@xs"
+    },
+    {
+      "trigger": "offset-5@sm",
+      "contents": "offset-5@sm"
+    },
+    {
+      "trigger": "offset-5@md",
+      "contents": "offset-5@md"
+    },
+    {
+      "trigger": "offset-5@lg",
+      "contents": "offset-5@lg"
+    },
+    {
+      "trigger": "offset-5@xl",
+      "contents": "offset-5@xl"
+    },
+    {
+      "trigger": "offset-6",
+      "contents": "offset-6"
+    },
+    {
+      "trigger": "offset-6@xs",
+      "contents": "offset-6@xs"
+    },
+    {
+      "trigger": "offset-6@sm",
+      "contents": "offset-6@sm"
+    },
+    {
+      "trigger": "offset-6@md",
+      "contents": "offset-6@md"
+    },
+    {
+      "trigger": "offset-6@lg",
+      "contents": "offset-6@lg"
+    },
+    {
+      "trigger": "offset-6@xl",
+      "contents": "offset-6@xl"
+    },
+    {
+      "trigger": "offset-7",
+      "contents": "offset-7"
+    },
+    {
+      "trigger": "offset-7@xs",
+      "contents": "offset-7@xs"
+    },
+    {
+      "trigger": "offset-7@sm",
+      "contents": "offset-7@sm"
+    },
+    {
+      "trigger": "offset-7@md",
+      "contents": "offset-7@md"
+    },
+    {
+      "trigger": "offset-7@lg",
+      "contents": "offset-7@lg"
+    },
+    {
+      "trigger": "offset-7@xl",
+      "contents": "offset-7@xl"
+    },
+    {
+      "trigger": "offset-8",
+      "contents": "offset-8"
+    },
+    {
+      "trigger": "offset-8@xs",
+      "contents": "offset-8@xs"
+    },
+    {
+      "trigger": "offset-8@sm",
+      "contents": "offset-8@sm"
+    },
+    {
+      "trigger": "offset-8@md",
+      "contents": "offset-8@md"
+    },
+    {
+      "trigger": "offset-8@lg",
+      "contents": "offset-8@lg"
+    },
+    {
+      "trigger": "offset-8@xl",
+      "contents": "offset-8@xl"
+    },
+    {
+      "trigger": "offset-9",
+      "contents": "offset-9"
+    },
+    {
+      "trigger": "offset-9@xs",
+      "contents": "offset-9@xs"
+    },
+    {
+      "trigger": "offset-9@sm",
+      "contents": "offset-9@sm"
+    },
+    {
+      "trigger": "offset-9@md",
+      "contents": "offset-9@md"
+    },
+    {
+      "trigger": "offset-9@lg",
+      "contents": "offset-9@lg"
+    },
+    {
+      "trigger": "offset-9@xl",
+      "contents": "offset-9@xl"
+    },
+    {
+      "trigger": "offset-10",
+      "contents": "offset-10"
+    },
+    {
+      "trigger": "offset-10@xs",
+      "contents": "offset-10@xs"
+    },
+    {
+      "trigger": "offset-10@sm",
+      "contents": "offset-10@sm"
+    },
+    {
+      "trigger": "offset-10@md",
+      "contents": "offset-10@md"
+    },
+    {
+      "trigger": "offset-10@lg",
+      "contents": "offset-10@lg"
+    },
+    {
+      "trigger": "offset-10@xl",
+      "contents": "offset-10@xl"
+    },
+    {
+      "trigger": "offset-11",
+      "contents": "offset-11"
+    },
+    {
+      "trigger": "offset-11@xs",
+      "contents": "offset-11@xs"
+    },
+    {
+      "trigger": "offset-11@sm",
+      "contents": "offset-11@sm"
+    },
+    {
+      "trigger": "offset-11@md",
+      "contents": "offset-11@md"
+    },
+    {
+      "trigger": "offset-11@lg",
+      "contents": "offset-11@lg"
+    },
+    {
+      "trigger": "offset-11@xl",
+      "contents": "offset-11@xl"
+    },
+    {
       "trigger": "text-xxxl",
       "contents": "text-xxxl"
     },
@@ -5715,8 +6051,20 @@
       "contents": "text-bold"
     },
     {
+      "trigger": "font-smooth",
+      "contents": "font-smooth"
+    },
+    {
       "trigger": "text-underline",
       "contents": "text-underline"
+    },
+    {
+      "trigger": "text-line-through",
+      "contents": "text-line-through"
+    },
+    {
+      "trigger": "text-decoration-none",
+      "contents": "text-decoration-none"
     },
     {
       "trigger": "text-component",
@@ -5877,6 +6225,26 @@
     {
       "trigger": "text-right@xl",
       "contents": "text-right@xl"
+    },
+    {
+      "trigger": "text-uppercase",
+      "contents": "text-uppercase"
+    },
+    {
+      "trigger": "text-capitalize",
+      "contents": "text-capitalize"
+    },
+    {
+      "trigger": "letter-spacing-sm",
+      "contents": "letter-spacing-sm"
+    },
+    {
+      "trigger": "letter-spacing-md",
+      "contents": "letter-spacing-md"
+    },
+    {
+      "trigger": "letter-spacing-lg",
+      "contents": "letter-spacing-lg"
     },
     {
       "trigger": "color-inherit",
@@ -6079,6 +6447,10 @@
       "contents": "width-100vw"
     },
     {
+      "trigger": "width-auto",
+      "contents": "width-auto"
+    },
+    {
       "trigger": "height-xxxxs",
       "contents": "height-xxxxs"
     },
@@ -6181,6 +6553,10 @@
     {
       "trigger": "height-100vh",
       "contents": "height-100vh"
+    },
+    {
+      "trigger": "height-auto",
+      "contents": "height-auto"
     },
     {
       "trigger": "media-wrapper",
@@ -6407,6 +6783,10 @@
       "contents": "v-space-xxl"
     },
     {
+      "trigger": "bg-transparent",
+      "contents": "bg-transparent"
+    },
+    {
       "trigger": "bg-inherit",
       "contents": "bg-inherit"
     },
@@ -6629,6 +7009,22 @@
     {
       "trigger": "position-sticky",
       "contents": "position-sticky"
+    },
+    {
+      "trigger": "top-0",
+      "contents": "top-0"
+    },
+    {
+      "trigger": "bottom-0",
+      "contents": "bottom-0"
+    },
+    {
+      "trigger": "right-0",
+      "contents": "right-0"
+    },
+    {
+      "trigger": "left-0",
+      "contents": "left-0"
     },
     {
       "trigger": "overflow-hidden",
