@@ -591,46 +591,6 @@
       "contents": "flex-shrink@xl"
     },
     {
-      "trigger": "flex-gap-xxxxs",
-      "contents": "flex-gap-xxxxs"
-    },
-    {
-      "trigger": "flex-gap-xxxs",
-      "contents": "flex-gap-xxxs"
-    },
-    {
-      "trigger": "flex-gap-xxs",
-      "contents": "flex-gap-xxs"
-    },
-    {
-      "trigger": "flex-gap-xs",
-      "contents": "flex-gap-xs"
-    },
-    {
-      "trigger": "flex-gap-sm",
-      "contents": "flex-gap-sm"
-    },
-    {
-      "trigger": "flex-gap-md",
-      "contents": "flex-gap-md"
-    },
-    {
-      "trigger": "flex-gap-lg",
-      "contents": "flex-gap-lg"
-    },
-    {
-      "trigger": "flex-gap-xl",
-      "contents": "flex-gap-xl"
-    },
-    {
-      "trigger": "flex-gap-xxl",
-      "contents": "flex-gap-xxl"
-    },
-    {
-      "trigger": "flex-gap-xxxl",
-      "contents": "flex-gap-xxxl"
-    },
-    {
       "trigger": "margin-xxxxs",
       "contents": "margin-xxxxs"
     },
@@ -5091,48 +5051,268 @@
       "contents": "grid"
     },
     {
-      "trigger": "grid-gap-xxxxs",
-      "contents": "grid-gap-xxxxs"
+      "trigger": "gap-xxxxs",
+      "contents": "gap-xxxxs"
     },
     {
-      "trigger": "grid-gap-xxxs",
-      "contents": "grid-gap-xxxs"
+      "trigger": "gap-xxxs",
+      "contents": "gap-xxxs"
     },
     {
-      "trigger": "grid-gap-xxs",
-      "contents": "grid-gap-xxs"
+      "trigger": "gap-xxs",
+      "contents": "gap-xxs"
     },
     {
-      "trigger": "grid-gap-xs",
-      "contents": "grid-gap-xs"
+      "trigger": "gap-xs",
+      "contents": "gap-xs"
     },
     {
-      "trigger": "grid-gap-sm",
-      "contents": "grid-gap-sm"
+      "trigger": "gap-sm",
+      "contents": "gap-sm"
     },
     {
-      "trigger": "grid-gap-md",
-      "contents": "grid-gap-md"
+      "trigger": "gap-md",
+      "contents": "gap-md"
     },
     {
-      "trigger": "grid-gap-lg",
-      "contents": "grid-gap-lg"
+      "trigger": "gap-lg",
+      "contents": "gap-lg"
     },
     {
-      "trigger": "grid-gap-xl",
-      "contents": "grid-gap-xl"
+      "trigger": "gap-xl",
+      "contents": "gap-xl"
     },
     {
-      "trigger": "grid-gap-xxl",
-      "contents": "grid-gap-xxl"
+      "trigger": "gap-xxl",
+      "contents": "gap-xxl"
     },
     {
-      "trigger": "grid-gap-xxxl",
-      "contents": "grid-gap-xxxl"
+      "trigger": "gap-xxxl",
+      "contents": "gap-xxxl"
     },
     {
-      "trigger": "grid-gap-xxxxl",
-      "contents": "grid-gap-xxxxl"
+      "trigger": "gap-xxxxl",
+      "contents": "gap-xxxxl"
+    },
+    {
+      "trigger": "gap-xxxxs@xs",
+      "contents": "gap-xxxxs@xs"
+    },
+    {
+      "trigger": "gap-xxxs@xs",
+      "contents": "gap-xxxs@xs"
+    },
+    {
+      "trigger": "gap-xxs@xs",
+      "contents": "gap-xxs@xs"
+    },
+    {
+      "trigger": "gap-xs@xs",
+      "contents": "gap-xs@xs"
+    },
+    {
+      "trigger": "gap-sm@xs",
+      "contents": "gap-sm@xs"
+    },
+    {
+      "trigger": "gap-md@xs",
+      "contents": "gap-md@xs"
+    },
+    {
+      "trigger": "gap-lg@xs",
+      "contents": "gap-lg@xs"
+    },
+    {
+      "trigger": "gap-xl@xs",
+      "contents": "gap-xl@xs"
+    },
+    {
+      "trigger": "gap-xxl@xs",
+      "contents": "gap-xxl@xs"
+    },
+    {
+      "trigger": "gap-xxxl@xs",
+      "contents": "gap-xxxl@xs"
+    },
+    {
+      "trigger": "gap-xxxxl@xs",
+      "contents": "gap-xxxxl@xs"
+    },
+    {
+      "trigger": "gap-xxxxs@sm",
+      "contents": "gap-xxxxs@sm"
+    },
+    {
+      "trigger": "gap-xxxs@sm",
+      "contents": "gap-xxxs@sm"
+    },
+    {
+      "trigger": "gap-xxs@sm",
+      "contents": "gap-xxs@sm"
+    },
+    {
+      "trigger": "gap-xs@sm",
+      "contents": "gap-xs@sm"
+    },
+    {
+      "trigger": "gap-sm@sm",
+      "contents": "gap-sm@sm"
+    },
+    {
+      "trigger": "gap-md@sm",
+      "contents": "gap-md@sm"
+    },
+    {
+      "trigger": "gap-lg@sm",
+      "contents": "gap-lg@sm"
+    },
+    {
+      "trigger": "gap-xl@sm",
+      "contents": "gap-xl@sm"
+    },
+    {
+      "trigger": "gap-xxl@sm",
+      "contents": "gap-xxl@sm"
+    },
+    {
+      "trigger": "gap-xxxl@sm",
+      "contents": "gap-xxxl@sm"
+    },
+    {
+      "trigger": "gap-xxxxl@sm",
+      "contents": "gap-xxxxl@sm"
+    },
+    {
+      "trigger": "gap-xxxxs@md",
+      "contents": "gap-xxxxs@md"
+    },
+    {
+      "trigger": "gap-xxxs@md",
+      "contents": "gap-xxxs@md"
+    },
+    {
+      "trigger": "gap-xxs@md",
+      "contents": "gap-xxs@md"
+    },
+    {
+      "trigger": "gap-xs@md",
+      "contents": "gap-xs@md"
+    },
+    {
+      "trigger": "gap-sm@md",
+      "contents": "gap-sm@md"
+    },
+    {
+      "trigger": "gap-md@md",
+      "contents": "gap-md@md"
+    },
+    {
+      "trigger": "gap-lg@md",
+      "contents": "gap-lg@md"
+    },
+    {
+      "trigger": "gap-xl@md",
+      "contents": "gap-xl@md"
+    },
+    {
+      "trigger": "gap-xxl@md",
+      "contents": "gap-xxl@md"
+    },
+    {
+      "trigger": "gap-xxxl@md",
+      "contents": "gap-xxxl@md"
+    },
+    {
+      "trigger": "gap-xxxxl@md",
+      "contents": "gap-xxxxl@md"
+    },
+    {
+      "trigger": "gap-xxxxs@lg",
+      "contents": "gap-xxxxs@lg"
+    },
+    {
+      "trigger": "gap-xxxs@lg",
+      "contents": "gap-xxxs@lg"
+    },
+    {
+      "trigger": "gap-xxs@lg",
+      "contents": "gap-xxs@lg"
+    },
+    {
+      "trigger": "gap-xs@lg",
+      "contents": "gap-xs@lg"
+    },
+    {
+      "trigger": "gap-sm@lg",
+      "contents": "gap-sm@lg"
+    },
+    {
+      "trigger": "gap-md@lg",
+      "contents": "gap-md@lg"
+    },
+    {
+      "trigger": "gap-lg@lg",
+      "contents": "gap-lg@lg"
+    },
+    {
+      "trigger": "gap-xl@lg",
+      "contents": "gap-xl@lg"
+    },
+    {
+      "trigger": "gap-xxl@lg",
+      "contents": "gap-xxl@lg"
+    },
+    {
+      "trigger": "gap-xxxl@lg",
+      "contents": "gap-xxxl@lg"
+    },
+    {
+      "trigger": "gap-xxxxl@lg",
+      "contents": "gap-xxxxl@lg"
+    },
+    {
+      "trigger": "gap-xxxxs@xl",
+      "contents": "gap-xxxxs@xl"
+    },
+    {
+      "trigger": "gap-xxxs@xl",
+      "contents": "gap-xxxs@xl"
+    },
+    {
+      "trigger": "gap-xxs@xl",
+      "contents": "gap-xxs@xl"
+    },
+    {
+      "trigger": "gap-xs@xl",
+      "contents": "gap-xs@xl"
+    },
+    {
+      "trigger": "gap-sm@xl",
+      "contents": "gap-sm@xl"
+    },
+    {
+      "trigger": "gap-md@xl",
+      "contents": "gap-md@xl"
+    },
+    {
+      "trigger": "gap-lg@xl",
+      "contents": "gap-lg@xl"
+    },
+    {
+      "trigger": "gap-xl@xl",
+      "contents": "gap-xl@xl"
+    },
+    {
+      "trigger": "gap-xxl@xl",
+      "contents": "gap-xxl@xl"
+    },
+    {
+      "trigger": "gap-xxxl@xl",
+      "contents": "gap-xxxl@xl"
+    },
+    {
+      "trigger": "gap-xxxxl@xl",
+      "contents": "gap-xxxxl@xl"
     },
     {
       "trigger": "col",
@@ -6275,24 +6455,104 @@
       "contents": "color-contrast-higher"
     },
     {
+      "trigger": "color-primary-darker",
+      "contents": "color-primary-darker"
+    },
+    {
+      "trigger": "color-primary-dark",
+      "contents": "color-primary-dark"
+    },
+    {
       "trigger": "color-primary",
       "contents": "color-primary"
+    },
+    {
+      "trigger": "color-primary-lighter",
+      "contents": "color-primary-lighter"
+    },
+    {
+      "trigger": "color-primary-light",
+      "contents": "color-primary-light"
+    },
+    {
+      "trigger": "color-accent-darker",
+      "contents": "color-accent-darker"
+    },
+    {
+      "trigger": "color-accent-dark",
+      "contents": "color-accent-dark"
     },
     {
       "trigger": "color-accent",
       "contents": "color-accent"
     },
     {
+      "trigger": "color-accent-light",
+      "contents": "color-accent-light"
+    },
+    {
+      "trigger": "color-accent-lighter",
+      "contents": "color-accent-lighter"
+    },
+    {
+      "trigger": "color-success-darker",
+      "contents": "color-success-darker"
+    },
+    {
+      "trigger": "color-success-dark",
+      "contents": "color-success-dark"
+    },
+    {
       "trigger": "color-success",
       "contents": "color-success"
+    },
+    {
+      "trigger": "color-success-light",
+      "contents": "color-success-light"
+    },
+    {
+      "trigger": "color-success-lighter",
+      "contents": "color-success-lighter"
+    },
+    {
+      "trigger": "color-warning-darker",
+      "contents": "color-warning-darker"
+    },
+    {
+      "trigger": "color-warning-dark",
+      "contents": "color-warning-dark"
     },
     {
       "trigger": "color-warning",
       "contents": "color-warning"
     },
     {
+      "trigger": "color-warning-light",
+      "contents": "color-warning-light"
+    },
+    {
+      "trigger": "color-warning-lighter",
+      "contents": "color-warning-lighter"
+    },
+    {
+      "trigger": "color-error-darker",
+      "contents": "color-error-darker"
+    },
+    {
+      "trigger": "color-error-dark",
+      "contents": "color-error-dark"
+    },
+    {
       "trigger": "color-error",
       "contents": "color-error"
+    },
+    {
+      "trigger": "color-error-light",
+      "contents": "color-error-light"
+    },
+    {
+      "trigger": "color-error-lighter",
+      "contents": "color-error-lighter"
     },
     {
       "trigger": "color-opacity-10%",
@@ -6635,24 +6895,104 @@
       "contents": "border-contrast-higher"
     },
     {
+      "trigger": "border-primary-darker",
+      "contents": "border-primary-darker"
+    },
+    {
+      "trigger": "border-primary-dark",
+      "contents": "border-primary-dark"
+    },
+    {
       "trigger": "border-primary",
       "contents": "border-primary"
+    },
+    {
+      "trigger": "border-primary-light",
+      "contents": "border-primary-light"
+    },
+    {
+      "trigger": "border-primary-lighter",
+      "contents": "border-primary-lighter"
+    },
+    {
+      "trigger": "border-accent-darker",
+      "contents": "border-accent-darker"
+    },
+    {
+      "trigger": "border-accent-dark",
+      "contents": "border-accent-dark"
     },
     {
       "trigger": "border-accent",
       "contents": "border-accent"
     },
     {
+      "trigger": "border-accent-light",
+      "contents": "border-accent-light"
+    },
+    {
+      "trigger": "border-accent-lighter",
+      "contents": "border-accent-lighter"
+    },
+    {
+      "trigger": "border-success-darker",
+      "contents": "border-success-darker"
+    },
+    {
+      "trigger": "border-success-dark",
+      "contents": "border-success-dark"
+    },
+    {
       "trigger": "border-success",
       "contents": "border-success"
+    },
+    {
+      "trigger": "border-success-light",
+      "contents": "border-success-light"
+    },
+    {
+      "trigger": "border-success-lighter",
+      "contents": "border-success-lighter"
+    },
+    {
+      "trigger": "border-warning-darker",
+      "contents": "border-warning-darker"
+    },
+    {
+      "trigger": "border-warning-dark",
+      "contents": "border-warning-dark"
     },
     {
       "trigger": "border-warning",
       "contents": "border-warning"
     },
     {
+      "trigger": "border-warning-light",
+      "contents": "border-warning-light"
+    },
+    {
+      "trigger": "border-warning-lighter",
+      "contents": "border-warning-lighter"
+    },
+    {
+      "trigger": "border-error-darker",
+      "contents": "border-error-darker"
+    },
+    {
+      "trigger": "border-error-dark",
+      "contents": "border-error-dark"
+    },
+    {
       "trigger": "border-error",
       "contents": "border-error"
+    },
+    {
+      "trigger": "border-error-light",
+      "contents": "border-error-light"
+    },
+    {
+      "trigger": "border-error-lighter",
+      "contents": "border-error-lighter"
     },
     {
       "trigger": "border-white",
@@ -6815,24 +7155,104 @@
       "contents": "bg-contrast-higher"
     },
     {
+      "trigger": "bg-primary-darker",
+      "contents": "bg-primary-darker"
+    },
+    {
+      "trigger": "bg-primary-dark",
+      "contents": "bg-primary-dark"
+    },
+    {
       "trigger": "bg-primary",
       "contents": "bg-primary"
+    },
+    {
+      "trigger": "bg-primary-light",
+      "contents": "bg-primary-light"
+    },
+    {
+      "trigger": "bg-primary-lighter",
+      "contents": "bg-primary-lighter"
+    },
+    {
+      "trigger": "bg-accent-darker",
+      "contents": "bg-accent-darker"
+    },
+    {
+      "trigger": "bg-accent-dark",
+      "contents": "bg-accent-dark"
     },
     {
       "trigger": "bg-accent",
       "contents": "bg-accent"
     },
     {
+      "trigger": "bg-accent-light",
+      "contents": "bg-accent-light"
+    },
+    {
+      "trigger": "bg-accent-lighter",
+      "contents": "bg-accent-lighter"
+    },
+    {
+      "trigger": "bg-success-darker",
+      "contents": "bg-success-darker"
+    },
+    {
+      "trigger": "bg-success-dark",
+      "contents": "bg-success-dark"
+    },
+    {
       "trigger": "bg-success",
       "contents": "bg-success"
+    },
+    {
+      "trigger": "bg-success-light",
+      "contents": "bg-success-light"
+    },
+    {
+      "trigger": "bg-success-lighter",
+      "contents": "bg-success-lighter"
+    },
+    {
+      "trigger": "bg-warning-darker",
+      "contents": "bg-warning-darker"
+    },
+    {
+      "trigger": "bg-warning-dark",
+      "contents": "bg-warning-dark"
     },
     {
       "trigger": "bg-warning",
       "contents": "bg-warning"
     },
     {
+      "trigger": "bg-warning-light",
+      "contents": "bg-warning-light"
+    },
+    {
+      "trigger": "bg-warning-lighter",
+      "contents": "bg-warning-lighter"
+    },
+    {
+      "trigger": "bg-error-darker",
+      "contents": "bg-error-darker"
+    },
+    {
+      "trigger": "bg-error-dark",
+      "contents": "bg-error-dark"
+    },
+    {
       "trigger": "bg-error",
       "contents": "bg-error"
+    },
+    {
+      "trigger": "bg-error-light",
+      "contents": "bg-error-light"
+    },
+    {
+      "trigger": "bg-error-lighter",
+      "contents": "bg-error-lighter"
     },
     {
       "trigger": "bg-white",

@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.0.2] - 2020-02-21
+- Added new .gap-{size} util classes
+- Added responive .gap-{size}@{breakpoint} class modifiers
+- Removed .grid-gap-{size} and .flex-gap-{size} util classes (replaced by .gap-{size})
+- Added all color shade variations for color, border, and background util classes
+
 ## [1.0.1] - 2020-01-11
 - Added text-transform, letter-spacing, text-decoration util classes
 
