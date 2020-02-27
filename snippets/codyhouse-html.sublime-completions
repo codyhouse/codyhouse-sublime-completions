@@ -3191,6 +3191,18 @@
       "contents": "min-width-100%"
     },
     {
+      "trigger": "min-width-100vw",
+      "contents": "min-width-100vw"
+    },
+    {
+      "trigger": "min-height-100%",
+      "contents": "min-height-100%"
+    },
+    {
+      "trigger": "min-height-100vh",
+      "contents": "min-height-100vh"
+    },
+    {
       "trigger": "position-relative",
       "contents": "position-relative"
     },
