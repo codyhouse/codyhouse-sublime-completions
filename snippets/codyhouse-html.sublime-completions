@@ -6319,6 +6319,10 @@
       "contents": "is-hidden"
     },
     {
+      "trigger": "no-js:is-hidden",
+      "contents": "no-js:is-hidden"
+    },
+    {
       "trigger": "text-truncate",
       "contents": "text-truncate"
     },
