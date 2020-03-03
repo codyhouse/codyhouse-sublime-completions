@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.0.3] - 2020-03-03
+- Added new items-baseline util classes
+- Added new cursor-pointer util class
+
 ## [1.0.2] - 2020-02-21
 - Added new .gap-{size} util classes
 - Added responive .gap-{size}@{breakpoint} class modifiers

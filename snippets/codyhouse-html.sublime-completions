@@ -135,6 +135,10 @@
       "contents": "items-end"
     },
     {
+      "trigger": "items-baseline",
+      "contents": "items-baseline"
+    },
+    {
       "trigger": "order-1",
       "contents": "order-1"
     },
@@ -205,6 +209,10 @@
     {
       "trigger": "items-end@xs",
       "contents": "items-end@xs"
+    },
+    {
+      "trigger": "items-baseline@xs",
+      "contents": "items-baseline@xs"
     },
     {
       "trigger": "order-1@xs",
@@ -279,6 +287,10 @@
       "contents": "items-end@sm"
     },
     {
+      "trigger": "items-baseline@sm",
+      "contents": "items-baseline@sm"
+    },
+    {
       "trigger": "order-1@sm",
       "contents": "order-1@sm"
     },
@@ -349,6 +361,10 @@
     {
       "trigger": "items-end@md",
       "contents": "items-end@md"
+    },
+    {
+      "trigger": "items-baseline@md",
+      "contents": "items-baseline@md"
     },
     {
       "trigger": "order-1@md",
@@ -423,6 +439,10 @@
       "contents": "items-end@lg"
     },
     {
+      "trigger": "items-baseline@lg",
+      "contents": "items-baseline@lg"
+    },
+    {
       "trigger": "order-1@lg",
       "contents": "order-1@lg"
     },
@@ -493,6 +513,10 @@
     {
       "trigger": "items-end@xl",
       "contents": "items-end@xl"
+    },
+    {
+      "trigger": "items-baseline@xl",
+      "contents": "items-baseline@xl"
     },
     {
       "trigger": "order-1@xl",
@@ -6339,6 +6363,10 @@
       "contents": "ws-nowrap"
     },
     {
+      "trigger": "cursor-pointer",
+      "contents": "cursor-pointer"
+    },
+    {
       "trigger": "text-center",
       "contents": "text-center"
     },
@@ -6595,16 +6623,16 @@
       "contents": "color-opacity-90%"
     },
     {
-      "trigger": "zindex-1",
-      "contents": "zindex-1"
+      "trigger": "z-index-1",
+      "contents": "z-index-1"
     },
     {
-      "trigger": "zindex-2",
-      "contents": "zindex-2"
+      "trigger": "z-index-2",
+      "contents": "z-index-2"
     },
     {
-      "trigger": "zindex-3",
-      "contents": "zindex-3"
+      "trigger": "z-index-3",
+      "contents": "z-index-3"
     },
     {
       "trigger": "width-xxxxs",
