@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.1.0] - 2020-03-16
+- New pointer-events util classes
+- New user-select util classes
+- New max-width util classes
+- New gap-0@{breakpoint} util classes
+
 ## [1.0.3] - 2020-03-03
 - Added new items-baseline util classes
 - Added new cursor-pointer util class

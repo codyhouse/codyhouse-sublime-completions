@@ -5055,6 +5055,10 @@
       "contents": "max-width-xxxxl"
     },
     {
+      "trigger": "max-width-100%",
+      "contents": "max-width-100%"
+    },
+    {
       "trigger": "max-width-adaptive-sm",
       "contents": "max-width-adaptive-sm"
     },
@@ -5163,6 +5167,10 @@
       "contents": "gap-xxxxl@xs"
     },
     {
+      "trigger": "gap-0@xs",
+      "contents": "gap-0@xs"
+    },
+    {
       "trigger": "gap-xxxxs@sm",
       "contents": "gap-xxxxs@sm"
     },
@@ -5205,6 +5213,10 @@
     {
       "trigger": "gap-xxxxl@sm",
       "contents": "gap-xxxxl@sm"
+    },
+    {
+      "trigger": "gap-0@sm",
+      "contents": "gap-0@sm"
     },
     {
       "trigger": "gap-xxxxs@md",
@@ -5251,6 +5263,10 @@
       "contents": "gap-xxxxl@md"
     },
     {
+      "trigger": "gap-0@md",
+      "contents": "gap-0@md"
+    },
+    {
       "trigger": "gap-xxxxs@lg",
       "contents": "gap-xxxxs@lg"
     },
@@ -5295,6 +5311,10 @@
       "contents": "gap-xxxxl@lg"
     },
     {
+      "trigger": "gap-0@lg",
+      "contents": "gap-0@lg"
+    },
+    {
       "trigger": "gap-xxxxs@xl",
       "contents": "gap-xxxxs@xl"
     },
@@ -5337,6 +5357,10 @@
     {
       "trigger": "gap-xxxxl@xl",
       "contents": "gap-xxxxl@xl"
+    },
+    {
+      "trigger": "gap-0@xl",
+      "contents": "gap-0@xl"
     },
     {
       "trigger": "col",
@@ -6367,6 +6391,18 @@
       "contents": "cursor-pointer"
     },
     {
+      "trigger": "pointer-events-none",
+      "contents": "pointer-events-none"
+    },
+    {
+      "trigger": "user-select-none",
+      "contents": "user-select-none"
+    },
+    {
+      "trigger": "user-select-all",
+      "contents": "user-select-all"
+    },
+    {
       "trigger": "text-center",
       "contents": "text-center"
     },
@@ -6851,6 +6887,14 @@
       "contents": "height-auto"
     },
     {
+      "trigger": "max-height-100%",
+      "contents": "max-height-100%"
+    },
+    {
+      "trigger": "max-height-100vh",
+      "contents": "max-height-100vh"
+    },
+    {
       "trigger": "media-wrapper",
       "contents": "media-wrapper"
     },
@@ -6901,6 +6945,10 @@
     {
       "trigger": "border-3",
       "contents": "border-3"
+    },
+    {
+      "trigger": "border-4",
+      "contents": "border-4"
     },
     {
       "trigger": "border-bg",
@@ -7497,6 +7545,10 @@
     {
       "trigger": "overflow-auto",
       "contents": "overflow-auto"
+    },
+    {
+      "trigger": "opacity-0",
+      "contents": "opacity-0"
     },
     {
       "trigger": "opacity-10%",
