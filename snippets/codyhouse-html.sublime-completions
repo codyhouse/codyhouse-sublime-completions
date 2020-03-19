@@ -5387,6 +5387,30 @@
       "contents": "col@xl"
     },
     {
+      "trigger": "col-content",
+      "contents": "col-content"
+    },
+    {
+      "trigger": "col-content@xs",
+      "contents": "col-content@xs"
+    },
+    {
+      "trigger": "col-content@sm",
+      "contents": "col-content@sm"
+    },
+    {
+      "trigger": "col-content@md",
+      "contents": "col-content@md"
+    },
+    {
+      "trigger": "col-content@lg",
+      "contents": "col-content@lg"
+    },
+    {
+      "trigger": "col-content@xl",
+      "contents": "col-content@xl"
+    },
+    {
       "trigger": "col-1",
       "contents": "col-1"
     },
@@ -6369,6 +6393,10 @@
     {
       "trigger": "no-js:is-hidden",
       "contents": "no-js:is-hidden"
+    },
+    {
+      "trigger": "print:is-hidden",
+      "contents": "print:is-hidden"
     },
     {
       "trigger": "text-truncate",

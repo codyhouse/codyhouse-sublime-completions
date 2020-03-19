@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.0] - 2020-03-19
+- New .col-content/.col-content@{breakpoint} util classes
+- New .print:is-hidden util class
+
 ## [1.1.0] - 2020-03-16
 - New pointer-events util classes
 - New user-select util classes
