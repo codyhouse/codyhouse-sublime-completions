@@ -39,6 +39,10 @@
       "contents": "icon"
     },
     {
+      "trigger": "icon--xxxs",
+      "contents": "icon--xxxs"
+    },
+    {
       "trigger": "icon--xxs",
       "contents": "icon--xxs"
     },
@@ -65,6 +69,10 @@
     {
       "trigger": "icon--xxl",
       "contents": "icon--xxl"
+    },
+    {
+      "trigger": "icon--xxxl",
+      "contents": "icon--xxxl"
     },
     {
       "trigger": "icon--is-spinning",

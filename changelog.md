@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.1] - 2020-03-31
+- New .icon--xxxs and .icon--xxxl util classes
+
 ## [1.2.0] - 2020-03-19
 - New .col-content/.col-content@{breakpoint} util classes
 - New .print:is-hidden util class
