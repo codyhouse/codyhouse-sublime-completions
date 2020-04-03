@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.2] - 2020-04-03
+- New backdrop-blur and bg-no-repeat util classes
+
 ## [1.2.1] - 2020-03-31
 - New .icon--xxxs and .icon--xxxl util classes
 

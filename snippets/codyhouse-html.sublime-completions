@@ -7423,6 +7423,18 @@
       "contents": "bg-center"
     },
     {
+      "trigger": "bg-no-repeat",
+      "contents": "bg-no-repeat"
+    },
+    {
+      "trigger": "backdrop-blur-10",
+      "contents": "backdrop-blur-10"
+    },
+    {
+      "trigger": "backdrop-blur-20",
+      "contents": "backdrop-blur-20"
+    },
+    {
       "trigger": "font-primary",
       "contents": "font-primary"
     },
