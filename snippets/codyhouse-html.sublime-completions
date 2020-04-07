@@ -6431,6 +6431,10 @@
       "contents": "pointer-events-none"
     },
     {
+      "trigger": "pointer-events-auto",
+      "contents": "pointer-events-auto"
+    },
+    {
       "trigger": "user-select-none",
       "contents": "user-select-none"
     },
