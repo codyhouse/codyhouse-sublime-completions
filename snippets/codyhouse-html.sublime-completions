@@ -6127,6 +6127,10 @@
       "contents": "text-xs"
     },
     {
+      "trigger": "text-xxxxl@xs",
+      "contents": "text-xxxxl@xs"
+    },
+    {
       "trigger": "text-xxxl@xs",
       "contents": "text-xxxl@xs"
     },
@@ -6157,6 +6161,10 @@
     {
       "trigger": "text-xs@xs",
       "contents": "text-xs@xs"
+    },
+    {
+      "trigger": "text-xxxxl@sm",
+      "contents": "text-xxxxl@sm"
     },
     {
       "trigger": "text-xxxl@sm",
@@ -6191,6 +6199,10 @@
       "contents": "text-xs@sm"
     },
     {
+      "trigger": "text-xxxxl@md",
+      "contents": "text-xxxxl@md"
+    },
+    {
       "trigger": "text-xxxl@md",
       "contents": "text-xxxl@md"
     },
@@ -6223,6 +6235,10 @@
       "contents": "text-xs@md"
     },
     {
+      "trigger": "text-xxxxl@lg",
+      "contents": "text-xxxxl@lg"
+    },
+    {
       "trigger": "text-xxxl@lg",
       "contents": "text-xxxl@lg"
     },
@@ -6253,6 +6269,10 @@
     {
       "trigger": "text-xs@lg",
       "contents": "text-xs@lg"
+    },
+    {
+      "trigger": "text-xxxxl@xl",
+      "contents": "text-xxxxl@xl"
     },
     {
       "trigger": "text-xxxl@xl",

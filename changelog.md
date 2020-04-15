@@ -2,7 +2,7 @@
 All notable changes to the snippets will be documented in this file.
 
 ## [1.2.3] - 2020-04-15
-- New .text-xxxxl util class;
+- New .text-xxxxl and .text-xxxxl@{breakpoint} util classes;
 - New .momentum-scrolling util class;
 - New .overscroll-contain util class.
 
