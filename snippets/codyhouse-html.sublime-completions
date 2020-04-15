@@ -6091,6 +6091,10 @@
       "contents": "offset-11@xl"
     },
     {
+      "trigger": "text-xxxxl",
+      "contents": "text-xxxxl"
+    },
+    {
       "trigger": "text-xxxl",
       "contents": "text-xxxl"
     },
@@ -7597,6 +7601,14 @@
     {
       "trigger": "overflow-auto",
       "contents": "overflow-auto"
+    },
+    {
+      "trigger": "momentum-scrolling",
+      "contents": "momentum-scrolling"
+    },
+    {
+      "trigger": "overscroll-contain",
+      "contents": "overscroll-contain"
     },
     {
       "trigger": "opacity-0",

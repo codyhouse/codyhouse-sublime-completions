@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.3] - 2020-04-15
+- New .text-xxxxl util class;
+- New .momentum-scrolling util class;
+- New .overscroll-contain util class.
+
 ## [1.2.2] - 2020-04-03
 - New backdrop-blur and bg-no-repeat util classes
 
