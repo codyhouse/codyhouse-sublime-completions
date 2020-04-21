@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.4] - 2020-04-21
+- New .font-italic util class
+- New .z-index util classes
+- New .blend util classes
+- New .flip util classes
+- Minor changes to style.css import
+
 ## [1.2.3] - 2020-04-15
 - New .text-xxxxl and .text-xxxxl@{breakpoint} util classes;
 - New .momentum-scrolling util class;
