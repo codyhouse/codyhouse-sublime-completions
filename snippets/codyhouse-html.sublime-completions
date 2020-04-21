@@ -6335,6 +6335,10 @@
       "contents": "text-bold"
     },
     {
+      "trigger": "font-italic",
+      "contents": "font-italic"
+    },
+    {
       "trigger": "font-smooth",
       "contents": "font-smooth"
     },
@@ -6733,6 +6737,22 @@
     {
       "trigger": "z-index-3",
       "contents": "z-index-3"
+    },
+    {
+      "trigger": "z-index-header",
+      "contents": "z-index-header"
+    },
+    {
+      "trigger": "z-index-popover",
+      "contents": "z-index-popover"
+    },
+    {
+      "trigger": "z-index-fixed-element",
+      "contents": "z-index-fixed-element"
+    },
+    {
+      "trigger": "z-index-overlay",
+      "contents": "z-index-overlay"
     },
     {
       "trigger": "width-xxxxs",
@@ -7677,6 +7697,30 @@
     {
       "trigger": "object-cover",
       "contents": "object-cover"
+    },
+    {
+      "trigger": "isolate",
+      "contents": "isolate"
+    },
+    {
+      "trigger": "blend-multiply",
+      "contents": "blend-multiply"
+    },
+    {
+      "trigger": "blend-overlay",
+      "contents": "blend-overlay"
+    },
+    {
+      "trigger": "flip",
+      "contents": "flip"
+    },
+    {
+      "trigger": "flip-x",
+      "contents": "flip-x"
+    },
+    {
+      "trigger": "flip-y"",
+      "contents": "flip-y""
     }
   ]
 }
