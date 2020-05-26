@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.5] - 2020-05-26
+- New .line-height-body and .line-height-heading util classes
+
 ## [1.2.4] - 2020-04-21
 - New .font-italic util class
 - New .z-index util classes

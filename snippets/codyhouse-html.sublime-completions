@@ -6331,12 +6331,12 @@
       "contents": "font-bold"
     },
     {
-      "trigger": "text-bold",
-      "contents": "text-bold"
-    },
-    {
       "trigger": "font-italic",
       "contents": "font-italic"
+    },
+    {
+      "trigger": "text-bold",
+      "contents": "text-bold"
     },
     {
       "trigger": "font-smooth",
@@ -7257,6 +7257,14 @@
     {
       "trigger": "line-height-xl",
       "contents": "line-height-xl"
+    },
+    {
+      "trigger": "line-height-body",
+      "contents": "line-height-body"
+    },
+    {
+      "trigger": "line-height-heading",
+      "contents": "line-height-heading"
     },
     {
       "trigger": "v-space-xxs",
