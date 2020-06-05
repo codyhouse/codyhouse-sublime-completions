@@ -671,6 +671,10 @@
       "contents": "margin-auto"
     },
     {
+      "trigger": "margin-0",
+      "contents": "margin-0"
+    },
+    {
       "trigger": "margin-xxxxs@xs",
       "contents": "margin-xxxxs@xs"
     },
@@ -977,6 +981,10 @@
     {
       "trigger": "margin-top-auto",
       "contents": "margin-top-auto"
+    },
+    {
+      "trigger": "margin-top-0",
+      "contents": "margin-top-0"
     },
     {
       "trigger": "margin-top-xxxxs@xs",
@@ -1287,6 +1295,10 @@
       "contents": "margin-bottom-auto"
     },
     {
+      "trigger": "margin-bottom-0",
+      "contents": "margin-bottom-0"
+    },
+    {
       "trigger": "margin-bottom-xxxxs@xs",
       "contents": "margin-bottom-xxxxs@xs"
     },
@@ -1595,6 +1607,10 @@
       "contents": "margin-right-auto"
     },
     {
+      "trigger": "margin-right-0",
+      "contents": "margin-right-0"
+    },
+    {
       "trigger": "margin-right-xxxxs@xs",
       "contents": "margin-right-xxxxs@xs"
     },
@@ -1901,6 +1917,10 @@
     {
       "trigger": "margin-left-auto",
       "contents": "margin-left-auto"
+    },
+    {
+      "trigger": "margin-left-0",
+      "contents": "margin-left-0"
     },
     {
       "trigger": "margin-left-xxxxs@xs",
@@ -2847,6 +2867,10 @@
       "contents": "padding-component"
     },
     {
+      "trigger": "padding-0",
+      "contents": "padding-0"
+    },
+    {
       "trigger": "padding-xxxxs@xs",
       "contents": "padding-xxxxs@xs"
     },
@@ -3153,6 +3177,10 @@
     {
       "trigger": "padding-top-component",
       "contents": "padding-top-component"
+    },
+    {
+      "trigger": "padding-top-0",
+      "contents": "padding-top-0"
     },
     {
       "trigger": "padding-top-xxxxs@xs",
@@ -3463,6 +3491,10 @@
       "contents": "padding-bottom-component"
     },
     {
+      "trigger": "padding-bottom-0",
+      "contents": "padding-bottom-0"
+    },
+    {
       "trigger": "padding-bottom-xxxxs@xs",
       "contents": "padding-bottom-xxxxs@xs"
     },
@@ -3771,6 +3803,10 @@
       "contents": "padding-right-component"
     },
     {
+      "trigger": "padding-right-0",
+      "contents": "padding-right-0"
+    },
+    {
       "trigger": "padding-right-xxxxs@xs",
       "contents": "padding-right-xxxxs@xs"
     },
@@ -4077,6 +4113,10 @@
     {
       "trigger": "padding-left-component",
       "contents": "padding-left-component"
+    },
+    {
+      "trigger": "padding-left-0",
+      "contents": "padding-left-0"
     },
     {
       "trigger": "padding-left-xxxxs@xs",
@@ -6455,6 +6495,10 @@
       "contents": "cursor-pointer"
     },
     {
+      "trigger": "cursor-default",
+      "contents": "cursor-default"
+    },
+    {
       "trigger": "pointer-events-none",
       "contents": "pointer-events-none"
     },
@@ -6541,6 +6585,30 @@
     {
       "trigger": "text-right@xl",
       "contents": "text-right@xl"
+    },
+    {
+      "trigger": "text-justify",
+      "contents": "text-justify"
+    },
+    {
+      "trigger": "text-justify@xs",
+      "contents": "text-justify@xs"
+    },
+    {
+      "trigger": "text-justify@sm",
+      "contents": "text-justify@sm"
+    },
+    {
+      "trigger": "text-justify@md",
+      "contents": "text-justify@md"
+    },
+    {
+      "trigger": "text-justify@lg",
+      "contents": "text-justify@lg"
+    },
+    {
+      "trigger": "text-justify@xl",
+      "contents": "text-justify@xl"
     },
     {
       "trigger": "text-uppercase",
@@ -6691,6 +6759,10 @@
       "contents": "color-error-lighter"
     },
     {
+      "trigger": "color-opacity-0",
+      "contents": "color-opacity-0"
+    },
+    {
       "trigger": "color-opacity-10%",
       "contents": "color-opacity-10%"
     },
@@ -6799,6 +6871,10 @@
       "contents": "width-xxxxl"
     },
     {
+      "trigger": "width-0",
+      "contents": "width-0"
+    },
+    {
       "trigger": "width-10%",
       "contents": "width-10%"
     },
@@ -6905,6 +6981,10 @@
     {
       "trigger": "height-xxxxl",
       "contents": "height-xxxxl"
+    },
+    {
+      "trigger": "height-0",
+      "contents": "height-0"
     },
     {
       "trigger": "height-10%",
@@ -7167,6 +7247,10 @@
       "contents": "border-black"
     },
     {
+      "trigger": "border-opacity-0",
+      "contents": "border-opacity-0"
+    },
+    {
       "trigger": "border-opacity-10%",
       "contents": "border-opacity-10%"
     },
@@ -7217,6 +7301,10 @@
     {
       "trigger": "radius-50%",
       "contents": "radius-50%"
+    },
+    {
+      "trigger": "radius-full",
+      "contents": "radius-full"
     },
     {
       "trigger": "shadow-xs",
@@ -7433,6 +7521,10 @@
     {
       "trigger": "bg-black",
       "contents": "bg-black"
+    },
+    {
+      "trigger": "bg-opacity-0",
+      "contents": "bg-opacity-0"
     },
     {
       "trigger": "bg-opacity-10%",

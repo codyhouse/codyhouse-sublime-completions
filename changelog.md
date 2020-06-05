@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.6] - 2020-06-05
+- New margin-0, padding-0, .text-justify, .width-0, .height-0 util classes
+
 ## [1.2.5] - 2020-05-26
 - New .line-height-body and .line-height-heading util classes
 

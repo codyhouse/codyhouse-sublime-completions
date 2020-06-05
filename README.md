@@ -1,6 +1,6 @@
 # CodyHouse Completions
 
-A collection of completions for Sublime Text, based on the CodyHouse Framework.
+A collection of CodyFrame completions for Sublime Text.
 
 The extension provides autocompletion for `HTML` (`CSS` utility classes), `SCSS` (custom properties), and `JS` utility functions.
 
