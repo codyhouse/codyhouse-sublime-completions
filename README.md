@@ -1,4 +1,4 @@
-# CodyHouse Completions
+# CodyFrame Completions
 
 A collection of CodyFrame completions for Sublime Text.
 
