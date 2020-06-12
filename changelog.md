@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.7] - 2020-06-12
+- Replaced --bounce with --ease-out-back
+
 ## [1.2.6] - 2020-06-05
 - New margin-0, padding-0, .text-justify, .width-0, .height-0 util classes
 

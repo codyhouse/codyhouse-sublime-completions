@@ -199,8 +199,8 @@
       "contents": "@include textUnit(${1:textUnit}, ${2:textScaleRatio: 1.2});"
     },
     {
-      "trigger": "--bounce timing function", 
-      "contents": "var(--bounce)"
+      "trigger": "--ease-out-back timing function", 
+      "contents": "var(--ease-out-back)"
     },
     {
       "trigger": "--ease-in-out timing function", 
