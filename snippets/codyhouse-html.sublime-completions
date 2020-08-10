@@ -23,6 +23,10 @@
       "contents": "btn--accent"
     },
     {
+      "trigger": "btn--disabled",
+      "contents": "btn--disabled"
+    },
+    {
       "trigger": "btn--sm",
       "contents": "btn--sm"
     },
@@ -7305,6 +7309,22 @@
     {
       "trigger": "radius-full",
       "contents": "radius-full"
+    },
+    {
+      "trigger": "radius-top-left-0",
+      "contents": "radius-top-left-0"
+    },
+    {
+      "trigger": "radius-top-right-0",
+      "contents": "radius-top-right-0"
+    },
+    {
+      "trigger": "radius-bottom-right-0",
+      "contents": "radius-bottom-right-0"
+    },
+    {
+      "trigger": "radius-bottom-left-0",
+      "contents": "radius-bottom-left-0"
     },
     {
       "trigger": "shadow-xs",

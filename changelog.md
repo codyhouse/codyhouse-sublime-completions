@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.8] - 2020-08-10
+- New radius classes
+
 ## [1.2.7] - 2020-06-12
 - Replaced --bounce with --ease-out-back
 
