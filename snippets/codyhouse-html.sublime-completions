@@ -5055,18 +5055,6 @@
       "contents": "form-label"
     },
     {
-      "trigger": "form-error-msg",
-      "contents": "form-error-msg"
-    },
-    {
-      "trigger": "radio-list",
-      "contents": "radio-list"
-    },
-    {
-      "trigger": "checkbox-list",
-      "contents": "checkbox-list"
-    },
-    {
       "trigger": "container",
       "contents": "container"
     },
