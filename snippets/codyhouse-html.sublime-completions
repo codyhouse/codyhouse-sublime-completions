@@ -5039,6 +5039,14 @@
       "contents": "form-control"
     },
     {
+      "trigger": "form-control--error",
+      "contents": "form-control--error"
+    },
+    {
+      "trigger": "form-control--disabled",
+      "contents": "form-control--disabled"
+    },
+    {
       "trigger": "form-legend",
       "contents": "form-legend"
     },

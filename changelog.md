@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.9] - 2020-09-09
+- Added .form-control--disabled + .form-control--error
+
 ## [1.2.8] - 2020-08-10
 - New radius classes
 
