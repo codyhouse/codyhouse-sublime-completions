@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.10] - 2020-09-23
+- New .space-unit util classes
+- New .text-unit util classes
+- New .text-shadow util classes
+- New .break-word, .radius-0, .shadow-none classes
+
 ## [1.2.9] - 2020-09-09
 - Added .form-control--disabled + .form-control--error
 

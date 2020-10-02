@@ -413,6 +413,14 @@
     {
       "trigger": "--max-width-xxxxl", 
       "contents": "var(--max-width-xxxxl)"
+    },
+    {
+      "trigger": "--space-unit", 
+      "contents": --space-unit"
+    },
+    {
+      "trigger": "--text-unit", 
+      "contents": --text-unit"
     }
   ]
 }
