@@ -196,7 +196,7 @@
     },
     {
       "trigger": "textUnit", 
-      "contents": "@include textUnit(${1:textUnit}, ${2:textScaleRatio: 1.2});"
+      "contents": "@include textUnit(${1:textUnit});"
     },
     {
       "trigger": "--ease-out-back timing function", 

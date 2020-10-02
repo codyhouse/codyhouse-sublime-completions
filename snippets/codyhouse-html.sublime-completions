@@ -2803,26 +2803,6 @@
       "contents": "margin-y-0@xl"
     },
     {
-      "trigger": "has-margin@xs",
-      "contents": "has-margin@xs"
-    },
-    {
-      "trigger": "has-margin@sm",
-      "contents": "has-margin@sm"
-    },
-    {
-      "trigger": "has-margin@md",
-      "contents": "has-margin@md"
-    },
-    {
-      "trigger": "has-margin@lg",
-      "contents": "has-margin@lg"
-    },
-    {
-      "trigger": "has-margin@xl",
-      "contents": "has-margin@xl"
-    },
-    {
       "trigger": "padding-xxxxs",
       "contents": "padding-xxxxs"
     },
@@ -4997,26 +4977,6 @@
     {
       "trigger": "padding-y-component@xl",
       "contents": "padding-y-component@xl"
-    },
-    {
-      "trigger": "has-padding@xs",
-      "contents": "has-padding@xs"
-    },
-    {
-      "trigger": "has-padding@sm",
-      "contents": "has-padding@sm"
-    },
-    {
-      "trigger": "has-padding@md",
-      "contents": "has-padding@md"
-    },
-    {
-      "trigger": "has-padding@lg",
-      "contents": "has-padding@lg"
-    },
-    {
-      "trigger": "has-padding@xl",
-      "contents": "has-padding@xl"
     },
     {
       "trigger": "align-baseline",
