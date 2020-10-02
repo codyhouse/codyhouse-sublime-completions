@@ -416,11 +416,11 @@
     },
     {
       "trigger": "--space-unit", 
-      "contents": --space-unit"
+      "contents": "--space-unit"
     },
     {
       "trigger": "--text-unit", 
-      "contents": --text-unit"
+      "contents": "--text-unit"
     }
   ]
 }
