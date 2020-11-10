@@ -5407,6 +5407,574 @@
       "contents": "gap-0@xl"
     },
     {
+      "trigger": "gap-y-xxxxs",
+      "contents": "gap-y-xxxxs"
+    },
+    {
+      "trigger": "gap-y-xxxs",
+      "contents": "gap-y-xxxs"
+    },
+    {
+      "trigger": "gap-y-xxs",
+      "contents": "gap-y-xxs"
+    },
+    {
+      "trigger": "gap-y-xs",
+      "contents": "gap-y-xs"
+    },
+    {
+      "trigger": "gap-y-sm",
+      "contents": "gap-y-sm"
+    },
+    {
+      "trigger": "gap-y-md",
+      "contents": "gap-y-md"
+    },
+    {
+      "trigger": "gap-y-lg",
+      "contents": "gap-y-lg"
+    },
+    {
+      "trigger": "gap-y-xl",
+      "contents": "gap-y-xl"
+    },
+    {
+      "trigger": "gap-y-xxl",
+      "contents": "gap-y-xxl"
+    },
+    {
+      "trigger": "gap-y-xxxl",
+      "contents": "gap-y-xxxl"
+    },
+    {
+      "trigger": "gap-y-xxxxl",
+      "contents": "gap-y-xxxxl"
+    },
+    {
+      "trigger": "gap-y-xxxxs@xs",
+      "contents": "gap-y-xxxxs@xs"
+    },
+    {
+      "trigger": "gap-y-xxxs@xs",
+      "contents": "gap-y-xxxs@xs"
+    },
+    {
+      "trigger": "gap-y-xxs@xs",
+      "contents": "gap-y-xxs@xs"
+    },
+    {
+      "trigger": "gap-y-xs@xs",
+      "contents": "gap-y-xs@xs"
+    },
+    {
+      "trigger": "gap-y-sm@xs",
+      "contents": "gap-y-sm@xs"
+    },
+    {
+      "trigger": "gap-y-md@xs",
+      "contents": "gap-y-md@xs"
+    },
+    {
+      "trigger": "gap-y-lg@xs",
+      "contents": "gap-y-lg@xs"
+    },
+    {
+      "trigger": "gap-y-xl@xs",
+      "contents": "gap-y-xl@xs"
+    },
+    {
+      "trigger": "gap-y-xxl@xs",
+      "contents": "gap-y-xxl@xs"
+    },
+    {
+      "trigger": "gap-y-xxxl@xs",
+      "contents": "gap-y-xxxl@xs"
+    },
+    {
+      "trigger": "gap-y-xxxxl@xs",
+      "contents": "gap-y-xxxxl@xs"
+    },
+    {
+      "trigger": "gap-y-0@xs",
+      "contents": "gap-y-0@xs"
+    },
+    {
+      "trigger": "gap-y-xxxxs@sm",
+      "contents": "gap-y-xxxxs@sm"
+    },
+    {
+      "trigger": "gap-y-xxxs@sm",
+      "contents": "gap-y-xxxs@sm"
+    },
+    {
+      "trigger": "gap-y-xxs@sm",
+      "contents": "gap-y-xxs@sm"
+    },
+    {
+      "trigger": "gap-y-xs@sm",
+      "contents": "gap-y-xs@sm"
+    },
+    {
+      "trigger": "gap-y-sm@sm",
+      "contents": "gap-y-sm@sm"
+    },
+    {
+      "trigger": "gap-y-md@sm",
+      "contents": "gap-y-md@sm"
+    },
+    {
+      "trigger": "gap-y-lg@sm",
+      "contents": "gap-y-lg@sm"
+    },
+    {
+      "trigger": "gap-y-xl@sm",
+      "contents": "gap-y-xl@sm"
+    },
+    {
+      "trigger": "gap-y-xxl@sm",
+      "contents": "gap-y-xxl@sm"
+    },
+    {
+      "trigger": "gap-y-xxxl@sm",
+      "contents": "gap-y-xxxl@sm"
+    },
+    {
+      "trigger": "gap-y-xxxxl@sm",
+      "contents": "gap-y-xxxxl@sm"
+    },
+    {
+      "trigger": "gap-y-0@sm",
+      "contents": "gap-y-0@sm"
+    },
+    {
+      "trigger": "gap-y-xxxxs@md",
+      "contents": "gap-y-xxxxs@md"
+    },
+    {
+      "trigger": "gap-y-xxxs@md",
+      "contents": "gap-y-xxxs@md"
+    },
+    {
+      "trigger": "gap-y-xxs@md",
+      "contents": "gap-y-xxs@md"
+    },
+    {
+      "trigger": "gap-y-xs@md",
+      "contents": "gap-y-xs@md"
+    },
+    {
+      "trigger": "gap-y-sm@md",
+      "contents": "gap-y-sm@md"
+    },
+    {
+      "trigger": "gap-y-md@md",
+      "contents": "gap-y-md@md"
+    },
+    {
+      "trigger": "gap-y-lg@md",
+      "contents": "gap-y-lg@md"
+    },
+    {
+      "trigger": "gap-y-xl@md",
+      "contents": "gap-y-xl@md"
+    },
+    {
+      "trigger": "gap-y-xxl@md",
+      "contents": "gap-y-xxl@md"
+    },
+    {
+      "trigger": "gap-y-xxxl@md",
+      "contents": "gap-y-xxxl@md"
+    },
+    {
+      "trigger": "gap-y-xxxxl@md",
+      "contents": "gap-y-xxxxl@md"
+    },
+    {
+      "trigger": "gap-y-0@md",
+      "contents": "gap-y-0@md"
+    },
+    {
+      "trigger": "gap-y-xxxxs@lg",
+      "contents": "gap-y-xxxxs@lg"
+    },
+    {
+      "trigger": "gap-y-xxxs@lg",
+      "contents": "gap-y-xxxs@lg"
+    },
+    {
+      "trigger": "gap-y-xxs@lg",
+      "contents": "gap-y-xxs@lg"
+    },
+    {
+      "trigger": "gap-y-xs@lg",
+      "contents": "gap-y-xs@lg"
+    },
+    {
+      "trigger": "gap-y-sm@lg",
+      "contents": "gap-y-sm@lg"
+    },
+    {
+      "trigger": "gap-y-md@lg",
+      "contents": "gap-y-md@lg"
+    },
+    {
+      "trigger": "gap-y-lg@lg",
+      "contents": "gap-y-lg@lg"
+    },
+    {
+      "trigger": "gap-y-xl@lg",
+      "contents": "gap-y-xl@lg"
+    },
+    {
+      "trigger": "gap-y-xxl@lg",
+      "contents": "gap-y-xxl@lg"
+    },
+    {
+      "trigger": "gap-y-xxxl@lg",
+      "contents": "gap-y-xxxl@lg"
+    },
+    {
+      "trigger": "gap-y-xxxxl@lg",
+      "contents": "gap-y-xxxxl@lg"
+    },
+    {
+      "trigger": "gap-y-0@lg",
+      "contents": "gap-y-0@lg"
+    },
+    {
+      "trigger": "gap-y-xxxxs@xl",
+      "contents": "gap-y-xxxxs@xl"
+    },
+    {
+      "trigger": "gap-y-xxxs@xl",
+      "contents": "gap-y-xxxs@xl"
+    },
+    {
+      "trigger": "gap-y-xxs@xl",
+      "contents": "gap-y-xxs@xl"
+    },
+    {
+      "trigger": "gap-y-xs@xl",
+      "contents": "gap-y-xs@xl"
+    },
+    {
+      "trigger": "gap-y-sm@xl",
+      "contents": "gap-y-sm@xl"
+    },
+    {
+      "trigger": "gap-y-md@xl",
+      "contents": "gap-y-md@xl"
+    },
+    {
+      "trigger": "gap-y-lg@xl",
+      "contents": "gap-y-lg@xl"
+    },
+    {
+      "trigger": "gap-y-xl@xl",
+      "contents": "gap-y-xl@xl"
+    },
+    {
+      "trigger": "gap-y-xxl@xl",
+      "contents": "gap-y-xxl@xl"
+    },
+    {
+      "trigger": "gap-y-xxxl@xl",
+      "contents": "gap-y-xxxl@xl"
+    },
+    {
+      "trigger": "gap-y-xxxxl@xl",
+      "contents": "gap-y-xxxxl@xl"
+    },
+    {
+      "trigger": "gap-y-0@xl",
+      "contents": "gap-y-0@xl"
+    },
+    {
+      "trigger": "gap-x-xxxxs",
+      "contents": "gap-x-xxxxs"
+    },
+    {
+      "trigger": "gap-x-xxxs",
+      "contents": "gap-x-xxxs"
+    },
+    {
+      "trigger": "gap-x-xxs",
+      "contents": "gap-x-xxs"
+    },
+    {
+      "trigger": "gap-x-xs",
+      "contents": "gap-x-xs"
+    },
+    {
+      "trigger": "gap-x-sm",
+      "contents": "gap-x-sm"
+    },
+    {
+      "trigger": "gap-x-md",
+      "contents": "gap-x-md"
+    },
+    {
+      "trigger": "gap-x-lg",
+      "contents": "gap-x-lg"
+    },
+    {
+      "trigger": "gap-x-xl",
+      "contents": "gap-x-xl"
+    },
+    {
+      "trigger": "gap-x-xxl",
+      "contents": "gap-x-xxl"
+    },
+    {
+      "trigger": "gap-x-xxxl",
+      "contents": "gap-x-xxxl"
+    },
+    {
+      "trigger": "gap-x-xxxxl",
+      "contents": "gap-x-xxxxl"
+    },
+    {
+      "trigger": "gap-x-xxxxs@xs",
+      "contents": "gap-x-xxxxs@xs"
+    },
+    {
+      "trigger": "gap-x-xxxs@xs",
+      "contents": "gap-x-xxxs@xs"
+    },
+    {
+      "trigger": "gap-x-xxs@xs",
+      "contents": "gap-x-xxs@xs"
+    },
+    {
+      "trigger": "gap-x-xs@xs",
+      "contents": "gap-x-xs@xs"
+    },
+    {
+      "trigger": "gap-x-sm@xs",
+      "contents": "gap-x-sm@xs"
+    },
+    {
+      "trigger": "gap-x-md@xs",
+      "contents": "gap-x-md@xs"
+    },
+    {
+      "trigger": "gap-x-lg@xs",
+      "contents": "gap-x-lg@xs"
+    },
+    {
+      "trigger": "gap-x-xl@xs",
+      "contents": "gap-x-xl@xs"
+    },
+    {
+      "trigger": "gap-x-xxl@xs",
+      "contents": "gap-x-xxl@xs"
+    },
+    {
+      "trigger": "gap-x-xxxl@xs",
+      "contents": "gap-x-xxxl@xs"
+    },
+    {
+      "trigger": "gap-x-xxxxl@xs",
+      "contents": "gap-x-xxxxl@xs"
+    },
+    {
+      "trigger": "gap-x-0@xs",
+      "contents": "gap-x-0@xs"
+    },
+    {
+      "trigger": "gap-x-xxxxs@sm",
+      "contents": "gap-x-xxxxs@sm"
+    },
+    {
+      "trigger": "gap-x-xxxs@sm",
+      "contents": "gap-x-xxxs@sm"
+    },
+    {
+      "trigger": "gap-x-xxs@sm",
+      "contents": "gap-x-xxs@sm"
+    },
+    {
+      "trigger": "gap-x-xs@sm",
+      "contents": "gap-x-xs@sm"
+    },
+    {
+      "trigger": "gap-x-sm@sm",
+      "contents": "gap-x-sm@sm"
+    },
+    {
+      "trigger": "gap-x-md@sm",
+      "contents": "gap-x-md@sm"
+    },
+    {
+      "trigger": "gap-x-lg@sm",
+      "contents": "gap-x-lg@sm"
+    },
+    {
+      "trigger": "gap-x-xl@sm",
+      "contents": "gap-x-xl@sm"
+    },
+    {
+      "trigger": "gap-x-xxl@sm",
+      "contents": "gap-x-xxl@sm"
+    },
+    {
+      "trigger": "gap-x-xxxl@sm",
+      "contents": "gap-x-xxxl@sm"
+    },
+    {
+      "trigger": "gap-x-xxxxl@sm",
+      "contents": "gap-x-xxxxl@sm"
+    },
+    {
+      "trigger": "gap-x-0@sm",
+      "contents": "gap-x-0@sm"
+    },
+    {
+      "trigger": "gap-x-xxxxs@md",
+      "contents": "gap-x-xxxxs@md"
+    },
+    {
+      "trigger": "gap-x-xxxs@md",
+      "contents": "gap-x-xxxs@md"
+    },
+    {
+      "trigger": "gap-x-xxs@md",
+      "contents": "gap-x-xxs@md"
+    },
+    {
+      "trigger": "gap-x-xs@md",
+      "contents": "gap-x-xs@md"
+    },
+    {
+      "trigger": "gap-x-sm@md",
+      "contents": "gap-x-sm@md"
+    },
+    {
+      "trigger": "gap-x-md@md",
+      "contents": "gap-x-md@md"
+    },
+    {
+      "trigger": "gap-x-lg@md",
+      "contents": "gap-x-lg@md"
+    },
+    {
+      "trigger": "gap-x-xl@md",
+      "contents": "gap-x-xl@md"
+    },
+    {
+      "trigger": "gap-x-xxl@md",
+      "contents": "gap-x-xxl@md"
+    },
+    {
+      "trigger": "gap-x-xxxl@md",
+      "contents": "gap-x-xxxl@md"
+    },
+    {
+      "trigger": "gap-x-xxxxl@md",
+      "contents": "gap-x-xxxxl@md"
+    },
+    {
+      "trigger": "gap-x-0@md",
+      "contents": "gap-x-0@md"
+    },
+    {
+      "trigger": "gap-x-xxxxs@lg",
+      "contents": "gap-x-xxxxs@lg"
+    },
+    {
+      "trigger": "gap-x-xxxs@lg",
+      "contents": "gap-x-xxxs@lg"
+    },
+    {
+      "trigger": "gap-x-xxs@lg",
+      "contents": "gap-x-xxs@lg"
+    },
+    {
+      "trigger": "gap-x-xs@lg",
+      "contents": "gap-x-xs@lg"
+    },
+    {
+      "trigger": "gap-x-sm@lg",
+      "contents": "gap-x-sm@lg"
+    },
+    {
+      "trigger": "gap-x-md@lg",
+      "contents": "gap-x-md@lg"
+    },
+    {
+      "trigger": "gap-x-lg@lg",
+      "contents": "gap-x-lg@lg"
+    },
+    {
+      "trigger": "gap-x-xl@lg",
+      "contents": "gap-x-xl@lg"
+    },
+    {
+      "trigger": "gap-x-xxl@lg",
+      "contents": "gap-x-xxl@lg"
+    },
+    {
+      "trigger": "gap-x-xxxl@lg",
+      "contents": "gap-x-xxxl@lg"
+    },
+    {
+      "trigger": "gap-x-xxxxl@lg",
+      "contents": "gap-x-xxxxl@lg"
+    },
+    {
+      "trigger": "gap-x-0@lg",
+      "contents": "gap-x-0@lg"
+    },
+    {
+      "trigger": "gap-x-xxxxs@xl",
+      "contents": "gap-x-xxxxs@xl"
+    },
+    {
+      "trigger": "gap-x-xxxs@xl",
+      "contents": "gap-x-xxxs@xl"
+    },
+    {
+      "trigger": "gap-x-xxs@xl",
+      "contents": "gap-x-xxs@xl"
+    },
+    {
+      "trigger": "gap-x-xs@xl",
+      "contents": "gap-x-xs@xl"
+    },
+    {
+      "trigger": "gap-x-sm@xl",
+      "contents": "gap-x-sm@xl"
+    },
+    {
+      "trigger": "gap-x-md@xl",
+      "contents": "gap-x-md@xl"
+    },
+    {
+      "trigger": "gap-x-lg@xl",
+      "contents": "gap-x-lg@xl"
+    },
+    {
+      "trigger": "gap-x-xl@xl",
+      "contents": "gap-x-xl@xl"
+    },
+    {
+      "trigger": "gap-x-xxl@xl",
+      "contents": "gap-x-xxl@xl"
+    },
+    {
+      "trigger": "gap-x-xxxl@xl",
+      "contents": "gap-x-xxxl@xl"
+    },
+    {
+      "trigger": "gap-x-xxxxl@xl",
+      "contents": "gap-x-xxxxl@xl"
+    },
+    {
+      "trigger": "gap-x-0@xl",
+      "contents": "gap-x-0@xl"
+    },
+    {
       "trigger": "col",
       "contents": "col"
     },
@@ -6935,6 +7503,566 @@
       "contents": "width-auto"
     },
     {
+      "trigger": "width-xxxxs@xs",
+      "contents": "width-xxxxs@xs"
+    },
+    {
+      "trigger": "width-xxxs@xs",
+      "contents": "width-xxxs@xs"
+    },
+    {
+      "trigger": "width-xxs@xs",
+      "contents": "width-xxs@xs"
+    },
+    {
+      "trigger": "width-xs@xs",
+      "contents": "width-xs@xs"
+    },
+    {
+      "trigger": "width-sm@xs",
+      "contents": "width-sm@xs"
+    },
+    {
+      "trigger": "width-md@xs",
+      "contents": "width-md@xs"
+    },
+    {
+      "trigger": "width-lg@xs",
+      "contents": "width-lg@xs"
+    },
+    {
+      "trigger": "width-xl@xs",
+      "contents": "width-xl@xs"
+    },
+    {
+      "trigger": "width-xxl@xs",
+      "contents": "width-xxl@xs"
+    },
+    {
+      "trigger": "width-xxxl@xs",
+      "contents": "width-xxxl@xs"
+    },
+    {
+      "trigger": "width-xxxxl@xs",
+      "contents": "width-xxxxl@xs"
+    },
+    {
+      "trigger": "width-0@xs",
+      "contents": "width-0@xs"
+    },
+    {
+      "trigger": "width-10%@xs",
+      "contents": "width-10%@xs"
+    },
+    {
+      "trigger": "width-20%@xs",
+      "contents": "width-20%@xs"
+    },
+    {
+      "trigger": "width-25%@xs",
+      "contents": "width-25%@xs"
+    },
+    {
+      "trigger": "width-30%@xs",
+      "contents": "width-30%@xs"
+    },
+    {
+      "trigger": "width-33%@xs",
+      "contents": "width-33%@xs"
+    },
+    {
+      "trigger": "width-40%@xs",
+      "contents": "width-40%@xs"
+    },
+    {
+      "trigger": "width-50%@xs",
+      "contents": "width-50%@xs"
+    },
+    {
+      "trigger": "width-60%@xs",
+      "contents": "width-60%@xs"
+    },
+    {
+      "trigger": "width-66%@xs",
+      "contents": "width-66%@xs"
+    },
+    {
+      "trigger": "width-70%@xs",
+      "contents": "width-70%@xs"
+    },
+    {
+      "trigger": "width-75%@xs",
+      "contents": "width-75%@xs"
+    },
+    {
+      "trigger": "width-80%@xs",
+      "contents": "width-80%@xs"
+    },
+    {
+      "trigger": "width-90%@xs",
+      "contents": "width-90%@xs"
+    },
+    {
+      "trigger": "width-100%@xs",
+      "contents": "width-100%@xs"
+    },
+    {
+      "trigger": "width-100vw@xs",
+      "contents": "width-100vw@xs"
+    },
+    {
+      "trigger": "width-auto@xs",
+      "contents": "width-auto@xs"
+    },
+    {
+      "trigger": "width-xxxxs@sm",
+      "contents": "width-xxxxs@sm"
+    },
+    {
+      "trigger": "width-xxxs@sm",
+      "contents": "width-xxxs@sm"
+    },
+    {
+      "trigger": "width-xxs@sm",
+      "contents": "width-xxs@sm"
+    },
+    {
+      "trigger": "width-xs@sm",
+      "contents": "width-xs@sm"
+    },
+    {
+      "trigger": "width-sm@sm",
+      "contents": "width-sm@sm"
+    },
+    {
+      "trigger": "width-md@sm",
+      "contents": "width-md@sm"
+    },
+    {
+      "trigger": "width-lg@sm",
+      "contents": "width-lg@sm"
+    },
+    {
+      "trigger": "width-xl@sm",
+      "contents": "width-xl@sm"
+    },
+    {
+      "trigger": "width-xxl@sm",
+      "contents": "width-xxl@sm"
+    },
+    {
+      "trigger": "width-xxxl@sm",
+      "contents": "width-xxxl@sm"
+    },
+    {
+      "trigger": "width-xxxxl@sm",
+      "contents": "width-xxxxl@sm"
+    },
+    {
+      "trigger": "width-0@sm",
+      "contents": "width-0@sm"
+    },
+    {
+      "trigger": "width-10%@sm",
+      "contents": "width-10%@sm"
+    },
+    {
+      "trigger": "width-20%@sm",
+      "contents": "width-20%@sm"
+    },
+    {
+      "trigger": "width-25%@sm",
+      "contents": "width-25%@sm"
+    },
+    {
+      "trigger": "width-30%@sm",
+      "contents": "width-30%@sm"
+    },
+    {
+      "trigger": "width-33%@sm",
+      "contents": "width-33%@sm"
+    },
+    {
+      "trigger": "width-40%@sm",
+      "contents": "width-40%@sm"
+    },
+    {
+      "trigger": "width-50%@sm",
+      "contents": "width-50%@sm"
+    },
+    {
+      "trigger": "width-60%@sm",
+      "contents": "width-60%@sm"
+    },
+    {
+      "trigger": "width-66%@sm",
+      "contents": "width-66%@sm"
+    },
+    {
+      "trigger": "width-70%@sm",
+      "contents": "width-70%@sm"
+    },
+    {
+      "trigger": "width-75%@sm",
+      "contents": "width-75%@sm"
+    },
+    {
+      "trigger": "width-80%@sm",
+      "contents": "width-80%@sm"
+    },
+    {
+      "trigger": "width-90%@sm",
+      "contents": "width-90%@sm"
+    },
+    {
+      "trigger": "width-100%@sm",
+      "contents": "width-100%@sm"
+    },
+    {
+      "trigger": "width-100vw@sm",
+      "contents": "width-100vw@sm"
+    },
+    {
+      "trigger": "width-auto@sm",
+      "contents": "width-auto@sm"
+    },
+    {
+      "trigger": "width-xxxxs@md",
+      "contents": "width-xxxxs@md"
+    },
+    {
+      "trigger": "width-xxxs@md",
+      "contents": "width-xxxs@md"
+    },
+    {
+      "trigger": "width-xxs@md",
+      "contents": "width-xxs@md"
+    },
+    {
+      "trigger": "width-xs@md",
+      "contents": "width-xs@md"
+    },
+    {
+      "trigger": "width-sm@md",
+      "contents": "width-sm@md"
+    },
+    {
+      "trigger": "width-md@md",
+      "contents": "width-md@md"
+    },
+    {
+      "trigger": "width-lg@md",
+      "contents": "width-lg@md"
+    },
+    {
+      "trigger": "width-xl@md",
+      "contents": "width-xl@md"
+    },
+    {
+      "trigger": "width-xxl@md",
+      "contents": "width-xxl@md"
+    },
+    {
+      "trigger": "width-xxxl@md",
+      "contents": "width-xxxl@md"
+    },
+    {
+      "trigger": "width-xxxxl@md",
+      "contents": "width-xxxxl@md"
+    },
+    {
+      "trigger": "width-0@md",
+      "contents": "width-0@md"
+    },
+    {
+      "trigger": "width-10%@md",
+      "contents": "width-10%@md"
+    },
+    {
+      "trigger": "width-20%@md",
+      "contents": "width-20%@md"
+    },
+    {
+      "trigger": "width-25%@md",
+      "contents": "width-25%@md"
+    },
+    {
+      "trigger": "width-30%@md",
+      "contents": "width-30%@md"
+    },
+    {
+      "trigger": "width-33%@md",
+      "contents": "width-33%@md"
+    },
+    {
+      "trigger": "width-40%@md",
+      "contents": "width-40%@md"
+    },
+    {
+      "trigger": "width-50%@md",
+      "contents": "width-50%@md"
+    },
+    {
+      "trigger": "width-60%@md",
+      "contents": "width-60%@md"
+    },
+    {
+      "trigger": "width-66%@md",
+      "contents": "width-66%@md"
+    },
+    {
+      "trigger": "width-70%@md",
+      "contents": "width-70%@md"
+    },
+    {
+      "trigger": "width-75%@md",
+      "contents": "width-75%@md"
+    },
+    {
+      "trigger": "width-80%@md",
+      "contents": "width-80%@md"
+    },
+    {
+      "trigger": "width-90%@md",
+      "contents": "width-90%@md"
+    },
+    {
+      "trigger": "width-100%@md",
+      "contents": "width-100%@md"
+    },
+    {
+      "trigger": "width-100vw@md",
+      "contents": "width-100vw@md"
+    },
+    {
+      "trigger": "width-auto@md",
+      "contents": "width-auto@md"
+    },
+    {
+      "trigger": "width-xxxxs@lg",
+      "contents": "width-xxxxs@lg"
+    },
+    {
+      "trigger": "width-xxxs@lg",
+      "contents": "width-xxxs@lg"
+    },
+    {
+      "trigger": "width-xxs@lg",
+      "contents": "width-xxs@lg"
+    },
+    {
+      "trigger": "width-xs@lg",
+      "contents": "width-xs@lg"
+    },
+    {
+      "trigger": "width-sm@lg",
+      "contents": "width-sm@lg"
+    },
+    {
+      "trigger": "width-md@lg",
+      "contents": "width-md@lg"
+    },
+    {
+      "trigger": "width-lg@lg",
+      "contents": "width-lg@lg"
+    },
+    {
+      "trigger": "width-xl@lg",
+      "contents": "width-xl@lg"
+    },
+    {
+      "trigger": "width-xxl@lg",
+      "contents": "width-xxl@lg"
+    },
+    {
+      "trigger": "width-xxxl@lg",
+      "contents": "width-xxxl@lg"
+    },
+    {
+      "trigger": "width-xxxxl@lg",
+      "contents": "width-xxxxl@lg"
+    },
+    {
+      "trigger": "width-0@lg",
+      "contents": "width-0@lg"
+    },
+    {
+      "trigger": "width-10%@lg",
+      "contents": "width-10%@lg"
+    },
+    {
+      "trigger": "width-20%@lg",
+      "contents": "width-20%@lg"
+    },
+    {
+      "trigger": "width-25%@lg",
+      "contents": "width-25%@lg"
+    },
+    {
+      "trigger": "width-30%@lg",
+      "contents": "width-30%@lg"
+    },
+    {
+      "trigger": "width-33%@lg",
+      "contents": "width-33%@lg"
+    },
+    {
+      "trigger": "width-40%@lg",
+      "contents": "width-40%@lg"
+    },
+    {
+      "trigger": "width-50%@lg",
+      "contents": "width-50%@lg"
+    },
+    {
+      "trigger": "width-60%@lg",
+      "contents": "width-60%@lg"
+    },
+    {
+      "trigger": "width-66%@lg",
+      "contents": "width-66%@lg"
+    },
+    {
+      "trigger": "width-70%@lg",
+      "contents": "width-70%@lg"
+    },
+    {
+      "trigger": "width-75%@lg",
+      "contents": "width-75%@lg"
+    },
+    {
+      "trigger": "width-80%@lg",
+      "contents": "width-80%@lg"
+    },
+    {
+      "trigger": "width-90%@lg",
+      "contents": "width-90%@lg"
+    },
+    {
+      "trigger": "width-100%@lg",
+      "contents": "width-100%@lg"
+    },
+    {
+      "trigger": "width-100vw@lg",
+      "contents": "width-100vw@lg"
+    },
+    {
+      "trigger": "width-auto@lg",
+      "contents": "width-auto@lg"
+    },
+    {
+      "trigger": "width-xxxxs@xl",
+      "contents": "width-xxxxs@xl"
+    },
+    {
+      "trigger": "width-xxxs@xl",
+      "contents": "width-xxxs@xl"
+    },
+    {
+      "trigger": "width-xxs@xl",
+      "contents": "width-xxs@xl"
+    },
+    {
+      "trigger": "width-xs@xl",
+      "contents": "width-xs@xl"
+    },
+    {
+      "trigger": "width-sm@xl",
+      "contents": "width-sm@xl"
+    },
+    {
+      "trigger": "width-md@xl",
+      "contents": "width-md@xl"
+    },
+    {
+      "trigger": "width-lg@xl",
+      "contents": "width-lg@xl"
+    },
+    {
+      "trigger": "width-xl@xl",
+      "contents": "width-xl@xl"
+    },
+    {
+      "trigger": "width-xxl@xl",
+      "contents": "width-xxl@xl"
+    },
+    {
+      "trigger": "width-xxxl@xl",
+      "contents": "width-xxxl@xl"
+    },
+    {
+      "trigger": "width-xxxxl@xl",
+      "contents": "width-xxxxl@xl"
+    },
+    {
+      "trigger": "width-0@xl",
+      "contents": "width-0@xl"
+    },
+    {
+      "trigger": "width-10%@xl",
+      "contents": "width-10%@xl"
+    },
+    {
+      "trigger": "width-20%@xl",
+      "contents": "width-20%@xl"
+    },
+    {
+      "trigger": "width-25%@xl",
+      "contents": "width-25%@xl"
+    },
+    {
+      "trigger": "width-30%@xl",
+      "contents": "width-30%@xl"
+    },
+    {
+      "trigger": "width-33%@xl",
+      "contents": "width-33%@xl"
+    },
+    {
+      "trigger": "width-40%@xl",
+      "contents": "width-40%@xl"
+    },
+    {
+      "trigger": "width-50%@xl",
+      "contents": "width-50%@xl"
+    },
+    {
+      "trigger": "width-60%@xl",
+      "contents": "width-60%@xl"
+    },
+    {
+      "trigger": "width-66%@xl",
+      "contents": "width-66%@xl"
+    },
+    {
+      "trigger": "width-70%@xl",
+      "contents": "width-70%@xl"
+    },
+    {
+      "trigger": "width-75%@xl",
+      "contents": "width-75%@xl"
+    },
+    {
+      "trigger": "width-80%@xl",
+      "contents": "width-80%@xl"
+    },
+    {
+      "trigger": "width-90%@xl",
+      "contents": "width-90%@xl"
+    },
+    {
+      "trigger": "width-100%@xl",
+      "contents": "width-100%@xl"
+    },
+    {
+      "trigger": "width-100vw@xl",
+      "contents": "width-100vw@xl"
+    },
+    {
+      "trigger": "width-auto@xl",
+      "contents": "width-auto@xl"
+    },
+    {
       "trigger": "height-xxxxs",
       "contents": "height-xxxxs"
     },
@@ -7045,6 +8173,566 @@
     {
       "trigger": "height-auto",
       "contents": "height-auto"
+    },
+    {
+      "trigger": "height-xxxxs@xs",
+      "contents": "height-xxxxs@xs"
+    },
+    {
+      "trigger": "height-xxxs@xs",
+      "contents": "height-xxxs@xs"
+    },
+    {
+      "trigger": "height-xxs@xs",
+      "contents": "height-xxs@xs"
+    },
+    {
+      "trigger": "height-xs@xs",
+      "contents": "height-xs@xs"
+    },
+    {
+      "trigger": "height-sm@xs",
+      "contents": "height-sm@xs"
+    },
+    {
+      "trigger": "height-md@xs",
+      "contents": "height-md@xs"
+    },
+    {
+      "trigger": "height-lg@xs",
+      "contents": "height-lg@xs"
+    },
+    {
+      "trigger": "height-xl@xs",
+      "contents": "height-xl@xs"
+    },
+    {
+      "trigger": "height-xxl@xs",
+      "contents": "height-xxl@xs"
+    },
+    {
+      "trigger": "height-xxxl@xs",
+      "contents": "height-xxxl@xs"
+    },
+    {
+      "trigger": "height-xxxxl@xs",
+      "contents": "height-xxxxl@xs"
+    },
+    {
+      "trigger": "height-0@xs",
+      "contents": "height-0@xs"
+    },
+    {
+      "trigger": "height-10%@xs",
+      "contents": "height-10%@xs"
+    },
+    {
+      "trigger": "height-20%@xs",
+      "contents": "height-20%@xs"
+    },
+    {
+      "trigger": "height-25%@xs",
+      "contents": "height-25%@xs"
+    },
+    {
+      "trigger": "height-30%@xs",
+      "contents": "height-30%@xs"
+    },
+    {
+      "trigger": "height-33%@xs",
+      "contents": "height-33%@xs"
+    },
+    {
+      "trigger": "height-40%@xs",
+      "contents": "height-40%@xs"
+    },
+    {
+      "trigger": "height-50%@xs",
+      "contents": "height-50%@xs"
+    },
+    {
+      "trigger": "height-60%@xs",
+      "contents": "height-60%@xs"
+    },
+    {
+      "trigger": "height-66%@xs",
+      "contents": "height-66%@xs"
+    },
+    {
+      "trigger": "height-70%@xs",
+      "contents": "height-70%@xs"
+    },
+    {
+      "trigger": "height-75%@xs",
+      "contents": "height-75%@xs"
+    },
+    {
+      "trigger": "height-80%@xs",
+      "contents": "height-80%@xs"
+    },
+    {
+      "trigger": "height-90%@xs",
+      "contents": "height-90%@xs"
+    },
+    {
+      "trigger": "height-100%@xs",
+      "contents": "height-100%@xs"
+    },
+    {
+      "trigger": "height-100vh@xs",
+      "contents": "height-100vh@xs"
+    },
+    {
+      "trigger": "height-auto@xs",
+      "contents": "height-auto@xs"
+    },
+    {
+      "trigger": "height-xxxxs@sm",
+      "contents": "height-xxxxs@sm"
+    },
+    {
+      "trigger": "height-xxxs@sm",
+      "contents": "height-xxxs@sm"
+    },
+    {
+      "trigger": "height-xxs@sm",
+      "contents": "height-xxs@sm"
+    },
+    {
+      "trigger": "height-xs@sm",
+      "contents": "height-xs@sm"
+    },
+    {
+      "trigger": "height-sm@sm",
+      "contents": "height-sm@sm"
+    },
+    {
+      "trigger": "height-md@sm",
+      "contents": "height-md@sm"
+    },
+    {
+      "trigger": "height-lg@sm",
+      "contents": "height-lg@sm"
+    },
+    {
+      "trigger": "height-xl@sm",
+      "contents": "height-xl@sm"
+    },
+    {
+      "trigger": "height-xxl@sm",
+      "contents": "height-xxl@sm"
+    },
+    {
+      "trigger": "height-xxxl@sm",
+      "contents": "height-xxxl@sm"
+    },
+    {
+      "trigger": "height-xxxxl@sm",
+      "contents": "height-xxxxl@sm"
+    },
+    {
+      "trigger": "height-0@sm",
+      "contents": "height-0@sm"
+    },
+    {
+      "trigger": "height-10%@sm",
+      "contents": "height-10%@sm"
+    },
+    {
+      "trigger": "height-20%@sm",
+      "contents": "height-20%@sm"
+    },
+    {
+      "trigger": "height-25%@sm",
+      "contents": "height-25%@sm"
+    },
+    {
+      "trigger": "height-30%@sm",
+      "contents": "height-30%@sm"
+    },
+    {
+      "trigger": "height-33%@sm",
+      "contents": "height-33%@sm"
+    },
+    {
+      "trigger": "height-40%@sm",
+      "contents": "height-40%@sm"
+    },
+    {
+      "trigger": "height-50%@sm",
+      "contents": "height-50%@sm"
+    },
+    {
+      "trigger": "height-60%@sm",
+      "contents": "height-60%@sm"
+    },
+    {
+      "trigger": "height-66%@sm",
+      "contents": "height-66%@sm"
+    },
+    {
+      "trigger": "height-70%@sm",
+      "contents": "height-70%@sm"
+    },
+    {
+      "trigger": "height-75%@sm",
+      "contents": "height-75%@sm"
+    },
+    {
+      "trigger": "height-80%@sm",
+      "contents": "height-80%@sm"
+    },
+    {
+      "trigger": "height-90%@sm",
+      "contents": "height-90%@sm"
+    },
+    {
+      "trigger": "height-100%@sm",
+      "contents": "height-100%@sm"
+    },
+    {
+      "trigger": "height-100vh@sm",
+      "contents": "height-100vh@sm"
+    },
+    {
+      "trigger": "height-auto@sm",
+      "contents": "height-auto@sm"
+    },
+    {
+      "trigger": "height-xxxxs@md",
+      "contents": "height-xxxxs@md"
+    },
+    {
+      "trigger": "height-xxxs@md",
+      "contents": "height-xxxs@md"
+    },
+    {
+      "trigger": "height-xxs@md",
+      "contents": "height-xxs@md"
+    },
+    {
+      "trigger": "height-xs@md",
+      "contents": "height-xs@md"
+    },
+    {
+      "trigger": "height-sm@md",
+      "contents": "height-sm@md"
+    },
+    {
+      "trigger": "height-md@md",
+      "contents": "height-md@md"
+    },
+    {
+      "trigger": "height-lg@md",
+      "contents": "height-lg@md"
+    },
+    {
+      "trigger": "height-xl@md",
+      "contents": "height-xl@md"
+    },
+    {
+      "trigger": "height-xxl@md",
+      "contents": "height-xxl@md"
+    },
+    {
+      "trigger": "height-xxxl@md",
+      "contents": "height-xxxl@md"
+    },
+    {
+      "trigger": "height-xxxxl@md",
+      "contents": "height-xxxxl@md"
+    },
+    {
+      "trigger": "height-0@md",
+      "contents": "height-0@md"
+    },
+    {
+      "trigger": "height-10%@md",
+      "contents": "height-10%@md"
+    },
+    {
+      "trigger": "height-20%@md",
+      "contents": "height-20%@md"
+    },
+    {
+      "trigger": "height-25%@md",
+      "contents": "height-25%@md"
+    },
+    {
+      "trigger": "height-30%@md",
+      "contents": "height-30%@md"
+    },
+    {
+      "trigger": "height-33%@md",
+      "contents": "height-33%@md"
+    },
+    {
+      "trigger": "height-40%@md",
+      "contents": "height-40%@md"
+    },
+    {
+      "trigger": "height-50%@md",
+      "contents": "height-50%@md"
+    },
+    {
+      "trigger": "height-60%@md",
+      "contents": "height-60%@md"
+    },
+    {
+      "trigger": "height-66%@md",
+      "contents": "height-66%@md"
+    },
+    {
+      "trigger": "height-70%@md",
+      "contents": "height-70%@md"
+    },
+    {
+      "trigger": "height-75%@md",
+      "contents": "height-75%@md"
+    },
+    {
+      "trigger": "height-80%@md",
+      "contents": "height-80%@md"
+    },
+    {
+      "trigger": "height-90%@md",
+      "contents": "height-90%@md"
+    },
+    {
+      "trigger": "height-100%@md",
+      "contents": "height-100%@md"
+    },
+    {
+      "trigger": "height-100vh@md",
+      "contents": "height-100vh@md"
+    },
+    {
+      "trigger": "height-auto@md",
+      "contents": "height-auto@md"
+    },
+    {
+      "trigger": "height-xxxxs@lg",
+      "contents": "height-xxxxs@lg"
+    },
+    {
+      "trigger": "height-xxxs@lg",
+      "contents": "height-xxxs@lg"
+    },
+    {
+      "trigger": "height-xxs@lg",
+      "contents": "height-xxs@lg"
+    },
+    {
+      "trigger": "height-xs@lg",
+      "contents": "height-xs@lg"
+    },
+    {
+      "trigger": "height-sm@lg",
+      "contents": "height-sm@lg"
+    },
+    {
+      "trigger": "height-md@lg",
+      "contents": "height-md@lg"
+    },
+    {
+      "trigger": "height-lg@lg",
+      "contents": "height-lg@lg"
+    },
+    {
+      "trigger": "height-xl@lg",
+      "contents": "height-xl@lg"
+    },
+    {
+      "trigger": "height-xxl@lg",
+      "contents": "height-xxl@lg"
+    },
+    {
+      "trigger": "height-xxxl@lg",
+      "contents": "height-xxxl@lg"
+    },
+    {
+      "trigger": "height-xxxxl@lg",
+      "contents": "height-xxxxl@lg"
+    },
+    {
+      "trigger": "height-0@lg",
+      "contents": "height-0@lg"
+    },
+    {
+      "trigger": "height-10%@lg",
+      "contents": "height-10%@lg"
+    },
+    {
+      "trigger": "height-20%@lg",
+      "contents": "height-20%@lg"
+    },
+    {
+      "trigger": "height-25%@lg",
+      "contents": "height-25%@lg"
+    },
+    {
+      "trigger": "height-30%@lg",
+      "contents": "height-30%@lg"
+    },
+    {
+      "trigger": "height-33%@lg",
+      "contents": "height-33%@lg"
+    },
+    {
+      "trigger": "height-40%@lg",
+      "contents": "height-40%@lg"
+    },
+    {
+      "trigger": "height-50%@lg",
+      "contents": "height-50%@lg"
+    },
+    {
+      "trigger": "height-60%@lg",
+      "contents": "height-60%@lg"
+    },
+    {
+      "trigger": "height-66%@lg",
+      "contents": "height-66%@lg"
+    },
+    {
+      "trigger": "height-70%@lg",
+      "contents": "height-70%@lg"
+    },
+    {
+      "trigger": "height-75%@lg",
+      "contents": "height-75%@lg"
+    },
+    {
+      "trigger": "height-80%@lg",
+      "contents": "height-80%@lg"
+    },
+    {
+      "trigger": "height-90%@lg",
+      "contents": "height-90%@lg"
+    },
+    {
+      "trigger": "height-100%@lg",
+      "contents": "height-100%@lg"
+    },
+    {
+      "trigger": "height-100vh@lg",
+      "contents": "height-100vh@lg"
+    },
+    {
+      "trigger": "height-auto@lg",
+      "contents": "height-auto@lg"
+    },
+    {
+      "trigger": "height-xxxxs@xl",
+      "contents": "height-xxxxs@xl"
+    },
+    {
+      "trigger": "height-xxxs@xl",
+      "contents": "height-xxxs@xl"
+    },
+    {
+      "trigger": "height-xxs@xl",
+      "contents": "height-xxs@xl"
+    },
+    {
+      "trigger": "height-xs@xl",
+      "contents": "height-xs@xl"
+    },
+    {
+      "trigger": "height-sm@xl",
+      "contents": "height-sm@xl"
+    },
+    {
+      "trigger": "height-md@xl",
+      "contents": "height-md@xl"
+    },
+    {
+      "trigger": "height-lg@xl",
+      "contents": "height-lg@xl"
+    },
+    {
+      "trigger": "height-xl@xl",
+      "contents": "height-xl@xl"
+    },
+    {
+      "trigger": "height-xxl@xl",
+      "contents": "height-xxl@xl"
+    },
+    {
+      "trigger": "height-xxxl@xl",
+      "contents": "height-xxxl@xl"
+    },
+    {
+      "trigger": "height-xxxxl@xl",
+      "contents": "height-xxxxl@xl"
+    },
+    {
+      "trigger": "height-0@xl",
+      "contents": "height-0@xl"
+    },
+    {
+      "trigger": "height-10%@xl",
+      "contents": "height-10%@xl"
+    },
+    {
+      "trigger": "height-20%@xl",
+      "contents": "height-20%@xl"
+    },
+    {
+      "trigger": "height-25%@xl",
+      "contents": "height-25%@xl"
+    },
+    {
+      "trigger": "height-30%@xl",
+      "contents": "height-30%@xl"
+    },
+    {
+      "trigger": "height-33%@xl",
+      "contents": "height-33%@xl"
+    },
+    {
+      "trigger": "height-40%@xl",
+      "contents": "height-40%@xl"
+    },
+    {
+      "trigger": "height-50%@xl",
+      "contents": "height-50%@xl"
+    },
+    {
+      "trigger": "height-60%@xl",
+      "contents": "height-60%@xl"
+    },
+    {
+      "trigger": "height-66%@xl",
+      "contents": "height-66%@xl"
+    },
+    {
+      "trigger": "height-70%@xl",
+      "contents": "height-70%@xl"
+    },
+    {
+      "trigger": "height-75%@xl",
+      "contents": "height-75%@xl"
+    },
+    {
+      "trigger": "height-80%@xl",
+      "contents": "height-80%@xl"
+    },
+    {
+      "trigger": "height-90%@xl",
+      "contents": "height-90%@xl"
+    },
+    {
+      "trigger": "height-100%@xl",
+      "contents": "height-100%@xl"
+    },
+    {
+      "trigger": "height-100vh@xl",
+      "contents": "height-100vh@xl"
+    },
+    {
+      "trigger": "height-auto@xl",
+      "contents": "height-auto@xl"
     },
     {
       "trigger": "max-height-100%",
@@ -7755,6 +9443,166 @@
       "contents": "left-0"
     },
     {
+      "trigger": "position-relative@xs",
+      "contents": "position-relative@xs"
+    },
+    {
+      "trigger": "position-absolute@xs",
+      "contents": "position-absolute@xs"
+    },
+    {
+      "trigger": "position-fixed@xs",
+      "contents": "position-fixed@xs"
+    },
+    {
+      "trigger": "position-sticky@xs",
+      "contents": "position-sticky@xs"
+    },
+    {
+      "trigger": "top-0@xs",
+      "contents": "top-0@xs"
+    },
+    {
+      "trigger": "bottom-0@xs",
+      "contents": "bottom-0@xs"
+    },
+    {
+      "trigger": "right-0@xs",
+      "contents": "right-0@xs"
+    },
+    {
+      "trigger": "left-0@xs",
+      "contents": "left-0@xs"
+    },
+    {
+      "trigger": "position-relative@sm",
+      "contents": "position-relative@sm"
+    },
+    {
+      "trigger": "position-absolute@sm",
+      "contents": "position-absolute@sm"
+    },
+    {
+      "trigger": "position-fixed@sm",
+      "contents": "position-fixed@sm"
+    },
+    {
+      "trigger": "position-sticky@sm",
+      "contents": "position-sticky@sm"
+    },
+    {
+      "trigger": "top-0@sm",
+      "contents": "top-0@sm"
+    },
+    {
+      "trigger": "bottom-0@sm",
+      "contents": "bottom-0@sm"
+    },
+    {
+      "trigger": "right-0@sm",
+      "contents": "right-0@sm"
+    },
+    {
+      "trigger": "left-0@sm",
+      "contents": "left-0@sm"
+    },
+    {
+      "trigger": "position-relative@md",
+      "contents": "position-relative@md"
+    },
+    {
+      "trigger": "position-absolute@md",
+      "contents": "position-absolute@md"
+    },
+    {
+      "trigger": "position-fixed@md",
+      "contents": "position-fixed@md"
+    },
+    {
+      "trigger": "position-sticky@md",
+      "contents": "position-sticky@md"
+    },
+    {
+      "trigger": "top-0@md",
+      "contents": "top-0@md"
+    },
+    {
+      "trigger": "bottom-0@md",
+      "contents": "bottom-0@md"
+    },
+    {
+      "trigger": "right-0@md",
+      "contents": "right-0@md"
+    },
+    {
+      "trigger": "left-0@md",
+      "contents": "left-0@md"
+    },
+    {
+      "trigger": "position-relative@lg",
+      "contents": "position-relative@lg"
+    },
+    {
+      "trigger": "position-absolute@lg",
+      "contents": "position-absolute@lg"
+    },
+    {
+      "trigger": "position-fixed@lg",
+      "contents": "position-fixed@lg"
+    },
+    {
+      "trigger": "position-sticky@lg",
+      "contents": "position-sticky@lg"
+    },
+    {
+      "trigger": "top-0@lg",
+      "contents": "top-0@lg"
+    },
+    {
+      "trigger": "bottom-0@lg",
+      "contents": "bottom-0@lg"
+    },
+    {
+      "trigger": "right-0@lg",
+      "contents": "right-0@lg"
+    },
+    {
+      "trigger": "left-0@lg",
+      "contents": "left-0@lg"
+    },
+    {
+      "trigger": "position-relative@xl",
+      "contents": "position-relative@xl"
+    },
+    {
+      "trigger": "position-absolute@xl",
+      "contents": "position-absolute@xl"
+    },
+    {
+      "trigger": "position-fixed@xl",
+      "contents": "position-fixed@xl"
+    },
+    {
+      "trigger": "position-sticky@xl",
+      "contents": "position-sticky@xl"
+    },
+    {
+      "trigger": "top-0@xl",
+      "contents": "top-0@xl"
+    },
+    {
+      "trigger": "bottom-0@xl",
+      "contents": "bottom-0@xl"
+    },
+    {
+      "trigger": "right-0@xl",
+      "contents": "right-0@xl"
+    },
+    {
+      "trigger": "left-0@xl",
+      "contents": "left-0@xl"
+    },
+    {
       "trigger": "overflow-hidden",
       "contents": "overflow-hidden"
     },
@@ -7829,6 +9677,10 @@
     {
       "trigger": "blend-overlay",
       "contents": "blend-overlay"
+    },
+    {
+      "trigger": "blend-difference",
+      "contents": "blend-difference"
     },
     {
       "trigger": "flip",

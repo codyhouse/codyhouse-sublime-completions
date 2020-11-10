@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.11] - 2020-11-10
+- New .gap-x, .gap-y util classes
+- New height/width responsive helpers
+- New .blend-difference util class
+- New position, top, right, bottom, left responsive helpers
+
 ## [1.2.10] - 2020-09-23
 - New .space-unit util classes
 - New .text-unit util classes
