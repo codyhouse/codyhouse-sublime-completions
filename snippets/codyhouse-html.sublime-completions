@@ -9753,6 +9753,74 @@
     {
       "trigger": "shadow-none",
       "contents": "shadow-none"
+    },
+    {
+      "trigger": "aspect-ratio-16:9",
+      "contents": "aspect-ratio-16:9"
+    },
+    {
+      "trigger": "aspect-ratio-4:3",
+      "contents": "aspect-ratio-4:3"
+    },
+    {
+      "trigger": "aspect-ratio-1:1",
+      "contents": "aspect-ratio-1:1"
+    },
+    {
+      "trigger": "perspective-xs",
+      "contents": "perspective-xs"
+    },
+    {
+      "trigger": "perspective-sm",
+      "contents": "perspective-sm"
+    },
+    {
+      "trigger": "perspective-md",
+      "contents": "perspective-md"
+    },
+    {
+      "trigger": "perspective-lg",
+      "contents": "perspective-lg"
+    },
+    {
+      "trigger": "perspective-xl",
+      "contents": "perspective-xl"
+    },
+    {
+      "trigger": "origin-center",
+      "contents": "origin-center"
+    },
+    {
+      "trigger": "origin-top",
+      "contents": "origin-top"
+    },
+    {
+      "trigger": "origin-right",
+      "contents": "origin-right"
+    },
+    {
+      "trigger": "origin-bottom",
+      "contents": "origin-bottom"
+    },
+    {
+      "trigger": "origin-left",
+      "contents": "origin-left"
+    },
+    {
+      "trigger": "origin-top-left",
+      "contents": "origin-top-left"
+    },
+    {
+      "trigger": "origin-top-right",
+      "contents": "origin-top-right"
+    },
+    {
+      "trigger": "origin-bottom-right",
+      "contents": "origin-bottom-right"
+    },
+    {
+      "trigger": "origin-bottom-left",
+      "contents": "origin-bottom-left"
     }
   ]
 }
