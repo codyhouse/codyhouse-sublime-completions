@@ -8743,18 +8743,6 @@
       "contents": "max-height-100vh"
     },
     {
-      "trigger": "media-wrapper",
-      "contents": "media-wrapper"
-    },
-    {
-      "trigger": "media-wrapper--4:3",
-      "contents": "media-wrapper--4:3"
-    },
-    {
-      "trigger": "media-wrapper--1:1",
-      "contents": "media-wrapper--1:1"
-    },
-    {
       "trigger": "float-left",
       "contents": "float-left"
     },
