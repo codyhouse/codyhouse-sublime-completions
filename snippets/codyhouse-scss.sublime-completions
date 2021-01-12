@@ -184,11 +184,15 @@
     },
     {
       "trigger": "alpha", 
-      "contents": "alpha(${1:color}, ${2:opacity: 1});"
+      "contents": "alpha(${1:var(--color-name)}, ${2:opacity: 1});"
     },
     {
       "trigger": "lightness", 
-      "contents": "lightness(${1:color}, ${2:lightnessMultiplier: 1});"
+      "contents": "lightness(${1:var(--color-name)}, ${2:lightnessMultiplier: 1});"
+    },
+    {
+      "trigger": "adjustHSLA", 
+      "contents": "adjustHSLA(${1:var(--color-name)}, ${2:hueMultiplier: 1}, ${3:saturationMultiplier: 1}, ${4:lightnessMultiplier: 1}, ${5:opacity: 1});"
     },
     {
       "trigger": "spaceUnit", 

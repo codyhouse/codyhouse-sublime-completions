@@ -6695,6 +6695,26 @@
       "contents": "offset-11@xl"
     },
     {
+      "trigger": "offset-0@xs",
+      "contents": "offset-0@xs"
+    },
+    {
+      "trigger": "offset-0@sm",
+      "contents": "offset-0@sm"
+    },
+    {
+      "trigger": "offset-0@md",
+      "contents": "offset-0@md"
+    },
+    {
+      "trigger": "offset-0@lg",
+      "contents": "offset-0@lg"
+    },
+    {
+      "trigger": "offset-0@xl",
+      "contents": "offset-0@xl"
+    },
+    {
       "trigger": "text-xxxxl",
       "contents": "text-xxxxl"
     },

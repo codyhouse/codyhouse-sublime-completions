@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.12] - 2021-01-12
+- New offset-0@{breakpoint} util classes
+- New adjustHSLA color function
+
 ## [1.2.11] - 2020-11-10
 - New .gap-x, .gap-y util classes
 - New height/width responsive helpers
