@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.13] - 2021-01-19
+- New top/right/bottom/left util classes
+- New translate util classes
+
 ## [1.2.12] - 2021-01-12
 - New offset-0@{breakpoint} util classes
 - New adjustHSLA color function

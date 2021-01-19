@@ -9451,6 +9451,26 @@
       "contents": "left-0"
     },
     {
+      "trigger": "top-50%",
+      "contents": "top-50%"
+    },
+    {
+      "trigger": "bottom-50%",
+      "contents": "bottom-50%"
+    },
+    {
+      "trigger": "right-50%",
+      "contents": "right-50%"
+    },
+    {
+      "trigger": "left-50%",
+      "contents": "left-50%"
+    },
+    {
+      "trigger": "inset-0",
+      "contents": "inset-0"
+    },
+    {
       "trigger": "position-relative@xs",
       "contents": "position-relative@xs"
     },
@@ -9465,6 +9485,10 @@
     {
       "trigger": "position-sticky@xs",
       "contents": "position-sticky@xs"
+    },
+    {
+      "trigger": "position-static@xs",
+      "contents": "position-static@xs"
     },
     {
       "trigger": "top-0@xs",
@@ -9483,6 +9507,26 @@
       "contents": "left-0@xs"
     },
     {
+      "trigger": "top-50%@xs",
+      "contents": "top-50%@xs"
+    },
+    {
+      "trigger": "bottom-50%@xs",
+      "contents": "bottom-50%@xs"
+    },
+    {
+      "trigger": "right-50%@xs",
+      "contents": "right-50%@xs"
+    },
+    {
+      "trigger": "left-50%@xs",
+      "contents": "left-50%@xs"
+    },
+    {
+      "trigger": "inset-0@xs",
+      "contents": "inset-0@xs"
+    },
+    {
       "trigger": "position-relative@sm",
       "contents": "position-relative@sm"
     },
@@ -9497,6 +9541,10 @@
     {
       "trigger": "position-sticky@sm",
       "contents": "position-sticky@sm"
+    },
+    {
+      "trigger": "position-static@sm",
+      "contents": "position-static@sm"
     },
     {
       "trigger": "top-0@sm",
@@ -9515,6 +9563,26 @@
       "contents": "left-0@sm"
     },
     {
+      "trigger": "top-50%@sm",
+      "contents": "top-50%@sm"
+    },
+    {
+      "trigger": "bottom-50%@sm",
+      "contents": "bottom-50%@sm"
+    },
+    {
+      "trigger": "right-50%@sm",
+      "contents": "right-50%@sm"
+    },
+    {
+      "trigger": "left-50%@sm",
+      "contents": "left-50%@sm"
+    },
+    {
+      "trigger": "inset-0@sm",
+      "contents": "inset-0@sm"
+    },
+    {
       "trigger": "position-relative@md",
       "contents": "position-relative@md"
     },
@@ -9529,6 +9597,10 @@
     {
       "trigger": "position-sticky@md",
       "contents": "position-sticky@md"
+    },
+    {
+      "trigger": "position-static@md",
+      "contents": "position-static@md"
     },
     {
       "trigger": "top-0@md",
@@ -9547,6 +9619,26 @@
       "contents": "left-0@md"
     },
     {
+      "trigger": "top-50%@md",
+      "contents": "top-50%@md"
+    },
+    {
+      "trigger": "bottom-50%@md",
+      "contents": "bottom-50%@md"
+    },
+    {
+      "trigger": "right-50%@md",
+      "contents": "right-50%@md"
+    },
+    {
+      "trigger": "left-50%@md",
+      "contents": "left-50%@md"
+    },
+    {
+      "trigger": "inset-0@md",
+      "contents": "inset-0@md"
+    },
+    {
       "trigger": "position-relative@lg",
       "contents": "position-relative@lg"
     },
@@ -9561,6 +9653,10 @@
     {
       "trigger": "position-sticky@lg",
       "contents": "position-sticky@lg"
+    },
+    {
+      "trigger": "position-static@lg",
+      "contents": "position-static@lg"
     },
     {
       "trigger": "top-0@lg",
@@ -9579,6 +9675,26 @@
       "contents": "left-0@lg"
     },
     {
+      "trigger": "top-50%@lg",
+      "contents": "top-50%@lg"
+    },
+    {
+      "trigger": "bottom-50%@lg",
+      "contents": "bottom-50%@lg"
+    },
+    {
+      "trigger": "right-50%@lg",
+      "contents": "right-50%@lg"
+    },
+    {
+      "trigger": "left-50%@lg",
+      "contents": "left-50%@lg"
+    },
+    {
+      "trigger": "inset-0@lg",
+      "contents": "inset-0@lg"
+    },
+    {
       "trigger": "position-relative@xl",
       "contents": "position-relative@xl"
     },
@@ -9595,6 +9711,10 @@
       "contents": "position-sticky@xl"
     },
     {
+      "trigger": "position-static@xl",
+      "contents": "position-static@xl"
+    },
+    {
       "trigger": "top-0@xl",
       "contents": "top-0@xl"
     },
@@ -9609,6 +9729,26 @@
     {
       "trigger": "left-0@xl",
       "contents": "left-0@xl"
+    },
+    {
+      "trigger": "top-50%@xl",
+      "contents": "top-50%@xl"
+    },
+    {
+      "trigger": "bottom-50%@xl",
+      "contents": "bottom-50%@xl"
+    },
+    {
+      "trigger": "right-50%@xl",
+      "contents": "right-50%@xl"
+    },
+    {
+      "trigger": "left-50%@xl",
+      "contents": "left-50%@xl"
+    },
+    {
+      "trigger": "inset-0@xl",
+      "contents": "inset-0@xl"
     },
     {
       "trigger": "overflow-hidden",
@@ -9701,6 +9841,30 @@
     {
       "trigger": "flip-y",
       "contents": "flip-y"
+    },
+    {
+      "trigger": "-translate-50%",
+      "contents": "-translate-50%"
+    },
+    {
+      "trigger": "-translate-x-50%",
+      "contents": "-translate-x-50%"
+    },
+    {
+      "trigger": "-translate-y-50%",
+      "contents": "-translate-y-50%"
+    },
+    {
+      "trigger": "translate-50%",
+      "contents": "translate-50%"
+    },
+    {
+      "trigger": "translate-x-50%",
+      "contents": "translate-x-50%"
+    },
+    {
+      "trigger": "translate-y-50%",
+      "contents": "translate-y-50%"
     },
     {
       "trigger": "space-unit-rem",
