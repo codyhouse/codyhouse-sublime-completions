@@ -7203,6 +7203,10 @@
       "contents": "text-capitalize"
     },
     {
+      "trigger": "letter-spacing-xs",
+      "contents": "letter-spacing-xs"
+    },
+    {
       "trigger": "letter-spacing-sm",
       "contents": "letter-spacing-sm"
     },
@@ -7213,6 +7217,10 @@
     {
       "trigger": "letter-spacing-lg",
       "contents": "letter-spacing-lg"
+    },
+    {
+      "trigger": "letter-spacing-xl",
+      "contents": "letter-spacing-xl"
     },
     {
       "trigger": "color-inherit",
@@ -9751,6 +9759,1062 @@
       "contents": "inset-0@xl"
     },
     {
+      "trigger": "top-xxxxs",
+      "contents": "top-xxxxs"
+    },
+    {
+      "trigger": "top-xxxs",
+      "contents": "top-xxxs"
+    },
+    {
+      "trigger": "top-xxs",
+      "contents": "top-xxs"
+    },
+    {
+      "trigger": "top-xs",
+      "contents": "top-xs"
+    },
+    {
+      "trigger": "top-sm",
+      "contents": "top-sm"
+    },
+    {
+      "trigger": "top-md",
+      "contents": "top-md"
+    },
+    {
+      "trigger": "top-lg",
+      "contents": "top-lg"
+    },
+    {
+      "trigger": "top-xl",
+      "contents": "top-xl"
+    },
+    {
+      "trigger": "top-xxl",
+      "contents": "top-xxl"
+    },
+    {
+      "trigger": "top-xxxl",
+      "contents": "top-xxxl"
+    },
+    {
+      "trigger": "top-xxxxl",
+      "contents": "top-xxxxl"
+    },
+    {
+      "trigger": "top-xxxxs@xs",
+      "contents": "top-xxxxs@xs"
+    },
+    {
+      "trigger": "top-xxxs@xs",
+      "contents": "top-xxxs@xs"
+    },
+    {
+      "trigger": "top-xxs@xs",
+      "contents": "top-xxs@xs"
+    },
+    {
+      "trigger": "top-xs@xs",
+      "contents": "top-xs@xs"
+    },
+    {
+      "trigger": "top-sm@xs",
+      "contents": "top-sm@xs"
+    },
+    {
+      "trigger": "top-md@xs",
+      "contents": "top-md@xs"
+    },
+    {
+      "trigger": "top-lg@xs",
+      "contents": "top-lg@xs"
+    },
+    {
+      "trigger": "top-xl@xs",
+      "contents": "top-xl@xs"
+    },
+    {
+      "trigger": "top-xxl@xs",
+      "contents": "top-xxl@xs"
+    },
+    {
+      "trigger": "top-xxxl@xs",
+      "contents": "top-xxxl@xs"
+    },
+    {
+      "trigger": "top-xxxxl@xs",
+      "contents": "top-xxxxl@xs"
+    },
+    {
+      "trigger": "top-xxxxs@sm",
+      "contents": "top-xxxxs@sm"
+    },
+    {
+      "trigger": "top-xxxs@sm",
+      "contents": "top-xxxs@sm"
+    },
+    {
+      "trigger": "top-xxs@sm",
+      "contents": "top-xxs@sm"
+    },
+    {
+      "trigger": "top-xs@sm",
+      "contents": "top-xs@sm"
+    },
+    {
+      "trigger": "top-sm@sm",
+      "contents": "top-sm@sm"
+    },
+    {
+      "trigger": "top-md@sm",
+      "contents": "top-md@sm"
+    },
+    {
+      "trigger": "top-lg@sm",
+      "contents": "top-lg@sm"
+    },
+    {
+      "trigger": "top-xl@sm",
+      "contents": "top-xl@sm"
+    },
+    {
+      "trigger": "top-xxl@sm",
+      "contents": "top-xxl@sm"
+    },
+    {
+      "trigger": "top-xxxl@sm",
+      "contents": "top-xxxl@sm"
+    },
+    {
+      "trigger": "top-xxxxl@sm",
+      "contents": "top-xxxxl@sm"
+    },
+    {
+      "trigger": "top-xxxxs@md",
+      "contents": "top-xxxxs@md"
+    },
+    {
+      "trigger": "top-xxxs@md",
+      "contents": "top-xxxs@md"
+    },
+    {
+      "trigger": "top-xxs@md",
+      "contents": "top-xxs@md"
+    },
+    {
+      "trigger": "top-xs@md",
+      "contents": "top-xs@md"
+    },
+    {
+      "trigger": "top-sm@md",
+      "contents": "top-sm@md"
+    },
+    {
+      "trigger": "top-md@md",
+      "contents": "top-md@md"
+    },
+    {
+      "trigger": "top-lg@md",
+      "contents": "top-lg@md"
+    },
+    {
+      "trigger": "top-xl@md",
+      "contents": "top-xl@md"
+    },
+    {
+      "trigger": "top-xxl@md",
+      "contents": "top-xxl@md"
+    },
+    {
+      "trigger": "top-xxxl@md",
+      "contents": "top-xxxl@md"
+    },
+    {
+      "trigger": "top-xxxxl@md",
+      "contents": "top-xxxxl@md"
+    },
+    {
+      "trigger": "top-xxxxs@lg",
+      "contents": "top-xxxxs@lg"
+    },
+    {
+      "trigger": "top-xxxs@lg",
+      "contents": "top-xxxs@lg"
+    },
+    {
+      "trigger": "top-xxs@lg",
+      "contents": "top-xxs@lg"
+    },
+    {
+      "trigger": "top-xs@lg",
+      "contents": "top-xs@lg"
+    },
+    {
+      "trigger": "top-sm@lg",
+      "contents": "top-sm@lg"
+    },
+    {
+      "trigger": "top-md@lg",
+      "contents": "top-md@lg"
+    },
+    {
+      "trigger": "top-lg@lg",
+      "contents": "top-lg@lg"
+    },
+    {
+      "trigger": "top-xl@lg",
+      "contents": "top-xl@lg"
+    },
+    {
+      "trigger": "top-xxl@lg",
+      "contents": "top-xxl@lg"
+    },
+    {
+      "trigger": "top-xxxl@lg",
+      "contents": "top-xxxl@lg"
+    },
+    {
+      "trigger": "top-xxxxl@lg",
+      "contents": "top-xxxxl@lg"
+    },
+    {
+      "trigger": "top-xxxxs@xl",
+      "contents": "top-xxxxs@xl"
+    },
+    {
+      "trigger": "top-xxxs@xl",
+      "contents": "top-xxxs@xl"
+    },
+    {
+      "trigger": "top-xxs@xl",
+      "contents": "top-xxs@xl"
+    },
+    {
+      "trigger": "top-xs@xl",
+      "contents": "top-xs@xl"
+    },
+    {
+      "trigger": "top-sm@xl",
+      "contents": "top-sm@xl"
+    },
+    {
+      "trigger": "top-md@xl",
+      "contents": "top-md@xl"
+    },
+    {
+      "trigger": "top-lg@xl",
+      "contents": "top-lg@xl"
+    },
+    {
+      "trigger": "top-xl@xl",
+      "contents": "top-xl@xl"
+    },
+    {
+      "trigger": "top-xxl@xl",
+      "contents": "top-xxl@xl"
+    },
+    {
+      "trigger": "top-xxxl@xl",
+      "contents": "top-xxxl@xl"
+    },
+    {
+      "trigger": "top-xxxxl@xl",
+      "contents": "top-xxxxl@xl"
+    },
+    {
+      "trigger": "bottom-xxxxs",
+      "contents": "bottom-xxxxs"
+    },
+    {
+      "trigger": "bottom-xxxs",
+      "contents": "bottom-xxxs"
+    },
+    {
+      "trigger": "bottom-xxs",
+      "contents": "bottom-xxs"
+    },
+    {
+      "trigger": "bottom-xs",
+      "contents": "bottom-xs"
+    },
+    {
+      "trigger": "bottom-sm",
+      "contents": "bottom-sm"
+    },
+    {
+      "trigger": "bottom-md",
+      "contents": "bottom-md"
+    },
+    {
+      "trigger": "bottom-lg",
+      "contents": "bottom-lg"
+    },
+    {
+      "trigger": "bottom-xl",
+      "contents": "bottom-xl"
+    },
+    {
+      "trigger": "bottom-xxl",
+      "contents": "bottom-xxl"
+    },
+    {
+      "trigger": "bottom-xxxl",
+      "contents": "bottom-xxxl"
+    },
+    {
+      "trigger": "bottom-xxxxl",
+      "contents": "bottom-xxxxl"
+    },
+    {
+      "trigger": "bottom-xxxxs@xs",
+      "contents": "bottom-xxxxs@xs"
+    },
+    {
+      "trigger": "bottom-xxxs@xs",
+      "contents": "bottom-xxxs@xs"
+    },
+    {
+      "trigger": "bottom-xxs@xs",
+      "contents": "bottom-xxs@xs"
+    },
+    {
+      "trigger": "bottom-xs@xs",
+      "contents": "bottom-xs@xs"
+    },
+    {
+      "trigger": "bottom-sm@xs",
+      "contents": "bottom-sm@xs"
+    },
+    {
+      "trigger": "bottom-md@xs",
+      "contents": "bottom-md@xs"
+    },
+    {
+      "trigger": "bottom-lg@xs",
+      "contents": "bottom-lg@xs"
+    },
+    {
+      "trigger": "bottom-xl@xs",
+      "contents": "bottom-xl@xs"
+    },
+    {
+      "trigger": "bottom-xxl@xs",
+      "contents": "bottom-xxl@xs"
+    },
+    {
+      "trigger": "bottom-xxxl@xs",
+      "contents": "bottom-xxxl@xs"
+    },
+    {
+      "trigger": "bottom-xxxxl@xs",
+      "contents": "bottom-xxxxl@xs"
+    },
+    {
+      "trigger": "bottom-xxxxs@sm",
+      "contents": "bottom-xxxxs@sm"
+    },
+    {
+      "trigger": "bottom-xxxs@sm",
+      "contents": "bottom-xxxs@sm"
+    },
+    {
+      "trigger": "bottom-xxs@sm",
+      "contents": "bottom-xxs@sm"
+    },
+    {
+      "trigger": "bottom-xs@sm",
+      "contents": "bottom-xs@sm"
+    },
+    {
+      "trigger": "bottom-sm@sm",
+      "contents": "bottom-sm@sm"
+    },
+    {
+      "trigger": "bottom-md@sm",
+      "contents": "bottom-md@sm"
+    },
+    {
+      "trigger": "bottom-lg@sm",
+      "contents": "bottom-lg@sm"
+    },
+    {
+      "trigger": "bottom-xl@sm",
+      "contents": "bottom-xl@sm"
+    },
+    {
+      "trigger": "bottom-xxl@sm",
+      "contents": "bottom-xxl@sm"
+    },
+    {
+      "trigger": "bottom-xxxl@sm",
+      "contents": "bottom-xxxl@sm"
+    },
+    {
+      "trigger": "bottom-xxxxl@sm",
+      "contents": "bottom-xxxxl@sm"
+    },
+    {
+      "trigger": "bottom-xxxxs@md",
+      "contents": "bottom-xxxxs@md"
+    },
+    {
+      "trigger": "bottom-xxxs@md",
+      "contents": "bottom-xxxs@md"
+    },
+    {
+      "trigger": "bottom-xxs@md",
+      "contents": "bottom-xxs@md"
+    },
+    {
+      "trigger": "bottom-xs@md",
+      "contents": "bottom-xs@md"
+    },
+    {
+      "trigger": "bottom-sm@md",
+      "contents": "bottom-sm@md"
+    },
+    {
+      "trigger": "bottom-md@md",
+      "contents": "bottom-md@md"
+    },
+    {
+      "trigger": "bottom-lg@md",
+      "contents": "bottom-lg@md"
+    },
+    {
+      "trigger": "bottom-xl@md",
+      "contents": "bottom-xl@md"
+    },
+    {
+      "trigger": "bottom-xxl@md",
+      "contents": "bottom-xxl@md"
+    },
+    {
+      "trigger": "bottom-xxxl@md",
+      "contents": "bottom-xxxl@md"
+    },
+    {
+      "trigger": "bottom-xxxxl@md",
+      "contents": "bottom-xxxxl@md"
+    },
+    {
+      "trigger": "bottom-xxxxs@lg",
+      "contents": "bottom-xxxxs@lg"
+    },
+    {
+      "trigger": "bottom-xxxs@lg",
+      "contents": "bottom-xxxs@lg"
+    },
+    {
+      "trigger": "bottom-xxs@lg",
+      "contents": "bottom-xxs@lg"
+    },
+    {
+      "trigger": "bottom-xs@lg",
+      "contents": "bottom-xs@lg"
+    },
+    {
+      "trigger": "bottom-sm@lg",
+      "contents": "bottom-sm@lg"
+    },
+    {
+      "trigger": "bottom-md@lg",
+      "contents": "bottom-md@lg"
+    },
+    {
+      "trigger": "bottom-lg@lg",
+      "contents": "bottom-lg@lg"
+    },
+    {
+      "trigger": "bottom-xl@lg",
+      "contents": "bottom-xl@lg"
+    },
+    {
+      "trigger": "bottom-xxl@lg",
+      "contents": "bottom-xxl@lg"
+    },
+    {
+      "trigger": "bottom-xxxl@lg",
+      "contents": "bottom-xxxl@lg"
+    },
+    {
+      "trigger": "bottom-xxxxl@lg",
+      "contents": "bottom-xxxxl@lg"
+    },
+    {
+      "trigger": "bottom-xxxxs@xl",
+      "contents": "bottom-xxxxs@xl"
+    },
+    {
+      "trigger": "bottom-xxxs@xl",
+      "contents": "bottom-xxxs@xl"
+    },
+    {
+      "trigger": "bottom-xxs@xl",
+      "contents": "bottom-xxs@xl"
+    },
+    {
+      "trigger": "bottom-xs@xl",
+      "contents": "bottom-xs@xl"
+    },
+    {
+      "trigger": "bottom-sm@xl",
+      "contents": "bottom-sm@xl"
+    },
+    {
+      "trigger": "bottom-md@xl",
+      "contents": "bottom-md@xl"
+    },
+    {
+      "trigger": "bottom-lg@xl",
+      "contents": "bottom-lg@xl"
+    },
+    {
+      "trigger": "bottom-xl@xl",
+      "contents": "bottom-xl@xl"
+    },
+    {
+      "trigger": "bottom-xxl@xl",
+      "contents": "bottom-xxl@xl"
+    },
+    {
+      "trigger": "bottom-xxxl@xl",
+      "contents": "bottom-xxxl@xl"
+    },
+    {
+      "trigger": "bottom-xxxxl@xl",
+      "contents": "bottom-xxxxl@xl"
+    },
+    {
+      "trigger": "right-xxxxs",
+      "contents": "right-xxxxs"
+    },
+    {
+      "trigger": "right-xxxs",
+      "contents": "right-xxxs"
+    },
+    {
+      "trigger": "right-xxs",
+      "contents": "right-xxs"
+    },
+    {
+      "trigger": "right-xs",
+      "contents": "right-xs"
+    },
+    {
+      "trigger": "right-sm",
+      "contents": "right-sm"
+    },
+    {
+      "trigger": "right-md",
+      "contents": "right-md"
+    },
+    {
+      "trigger": "right-lg",
+      "contents": "right-lg"
+    },
+    {
+      "trigger": "right-xl",
+      "contents": "right-xl"
+    },
+    {
+      "trigger": "right-xxl",
+      "contents": "right-xxl"
+    },
+    {
+      "trigger": "right-xxxl",
+      "contents": "right-xxxl"
+    },
+    {
+      "trigger": "right-xxxxl",
+      "contents": "right-xxxxl"
+    },
+    {
+      "trigger": "right-xxxxs@xs",
+      "contents": "right-xxxxs@xs"
+    },
+    {
+      "trigger": "right-xxxs@xs",
+      "contents": "right-xxxs@xs"
+    },
+    {
+      "trigger": "right-xxs@xs",
+      "contents": "right-xxs@xs"
+    },
+    {
+      "trigger": "right-xs@xs",
+      "contents": "right-xs@xs"
+    },
+    {
+      "trigger": "right-sm@xs",
+      "contents": "right-sm@xs"
+    },
+    {
+      "trigger": "right-md@xs",
+      "contents": "right-md@xs"
+    },
+    {
+      "trigger": "right-lg@xs",
+      "contents": "right-lg@xs"
+    },
+    {
+      "trigger": "right-xl@xs",
+      "contents": "right-xl@xs"
+    },
+    {
+      "trigger": "right-xxl@xs",
+      "contents": "right-xxl@xs"
+    },
+    {
+      "trigger": "right-xxxl@xs",
+      "contents": "right-xxxl@xs"
+    },
+    {
+      "trigger": "right-xxxxl@xs",
+      "contents": "right-xxxxl@xs"
+    },
+    {
+      "trigger": "right-xxxxs@sm",
+      "contents": "right-xxxxs@sm"
+    },
+    {
+      "trigger": "right-xxxs@sm",
+      "contents": "right-xxxs@sm"
+    },
+    {
+      "trigger": "right-xxs@sm",
+      "contents": "right-xxs@sm"
+    },
+    {
+      "trigger": "right-xs@sm",
+      "contents": "right-xs@sm"
+    },
+    {
+      "trigger": "right-sm@sm",
+      "contents": "right-sm@sm"
+    },
+    {
+      "trigger": "right-md@sm",
+      "contents": "right-md@sm"
+    },
+    {
+      "trigger": "right-lg@sm",
+      "contents": "right-lg@sm"
+    },
+    {
+      "trigger": "right-xl@sm",
+      "contents": "right-xl@sm"
+    },
+    {
+      "trigger": "right-xxl@sm",
+      "contents": "right-xxl@sm"
+    },
+    {
+      "trigger": "right-xxxl@sm",
+      "contents": "right-xxxl@sm"
+    },
+    {
+      "trigger": "right-xxxxl@sm",
+      "contents": "right-xxxxl@sm"
+    },
+    {
+      "trigger": "right-xxxxs@md",
+      "contents": "right-xxxxs@md"
+    },
+    {
+      "trigger": "right-xxxs@md",
+      "contents": "right-xxxs@md"
+    },
+    {
+      "trigger": "right-xxs@md",
+      "contents": "right-xxs@md"
+    },
+    {
+      "trigger": "right-xs@md",
+      "contents": "right-xs@md"
+    },
+    {
+      "trigger": "right-sm@md",
+      "contents": "right-sm@md"
+    },
+    {
+      "trigger": "right-md@md",
+      "contents": "right-md@md"
+    },
+    {
+      "trigger": "right-lg@md",
+      "contents": "right-lg@md"
+    },
+    {
+      "trigger": "right-xl@md",
+      "contents": "right-xl@md"
+    },
+    {
+      "trigger": "right-xxl@md",
+      "contents": "right-xxl@md"
+    },
+    {
+      "trigger": "right-xxxl@md",
+      "contents": "right-xxxl@md"
+    },
+    {
+      "trigger": "right-xxxxl@md",
+      "contents": "right-xxxxl@md"
+    },
+    {
+      "trigger": "right-xxxxs@lg",
+      "contents": "right-xxxxs@lg"
+    },
+    {
+      "trigger": "right-xxxs@lg",
+      "contents": "right-xxxs@lg"
+    },
+    {
+      "trigger": "right-xxs@lg",
+      "contents": "right-xxs@lg"
+    },
+    {
+      "trigger": "right-xs@lg",
+      "contents": "right-xs@lg"
+    },
+    {
+      "trigger": "right-sm@lg",
+      "contents": "right-sm@lg"
+    },
+    {
+      "trigger": "right-md@lg",
+      "contents": "right-md@lg"
+    },
+    {
+      "trigger": "right-lg@lg",
+      "contents": "right-lg@lg"
+    },
+    {
+      "trigger": "right-xl@lg",
+      "contents": "right-xl@lg"
+    },
+    {
+      "trigger": "right-xxl@lg",
+      "contents": "right-xxl@lg"
+    },
+    {
+      "trigger": "right-xxxl@lg",
+      "contents": "right-xxxl@lg"
+    },
+    {
+      "trigger": "right-xxxxl@lg",
+      "contents": "right-xxxxl@lg"
+    },
+    {
+      "trigger": "right-xxxxs@xl",
+      "contents": "right-xxxxs@xl"
+    },
+    {
+      "trigger": "right-xxxs@xl",
+      "contents": "right-xxxs@xl"
+    },
+    {
+      "trigger": "right-xxs@xl",
+      "contents": "right-xxs@xl"
+    },
+    {
+      "trigger": "right-xs@xl",
+      "contents": "right-xs@xl"
+    },
+    {
+      "trigger": "right-sm@xl",
+      "contents": "right-sm@xl"
+    },
+    {
+      "trigger": "right-md@xl",
+      "contents": "right-md@xl"
+    },
+    {
+      "trigger": "right-lg@xl",
+      "contents": "right-lg@xl"
+    },
+    {
+      "trigger": "right-xl@xl",
+      "contents": "right-xl@xl"
+    },
+    {
+      "trigger": "right-xxl@xl",
+      "contents": "right-xxl@xl"
+    },
+    {
+      "trigger": "right-xxxl@xl",
+      "contents": "right-xxxl@xl"
+    },
+    {
+      "trigger": "right-xxxxl@xl",
+      "contents": "right-xxxxl@xl"
+    },
+    {
+      "trigger": "left-xxxxs",
+      "contents": "left-xxxxs"
+    },
+    {
+      "trigger": "left-xxxs",
+      "contents": "left-xxxs"
+    },
+    {
+      "trigger": "left-xxs",
+      "contents": "left-xxs"
+    },
+    {
+      "trigger": "left-xs",
+      "contents": "left-xs"
+    },
+    {
+      "trigger": "left-sm",
+      "contents": "left-sm"
+    },
+    {
+      "trigger": "left-md",
+      "contents": "left-md"
+    },
+    {
+      "trigger": "left-lg",
+      "contents": "left-lg"
+    },
+    {
+      "trigger": "left-xl",
+      "contents": "left-xl"
+    },
+    {
+      "trigger": "left-xxl",
+      "contents": "left-xxl"
+    },
+    {
+      "trigger": "left-xxxl",
+      "contents": "left-xxxl"
+    },
+    {
+      "trigger": "left-xxxxl",
+      "contents": "left-xxxxl"
+    },
+    {
+      "trigger": "left-xxxxs@xs",
+      "contents": "left-xxxxs@xs"
+    },
+    {
+      "trigger": "left-xxxs@xs",
+      "contents": "left-xxxs@xs"
+    },
+    {
+      "trigger": "left-xxs@xs",
+      "contents": "left-xxs@xs"
+    },
+    {
+      "trigger": "left-xs@xs",
+      "contents": "left-xs@xs"
+    },
+    {
+      "trigger": "left-sm@xs",
+      "contents": "left-sm@xs"
+    },
+    {
+      "trigger": "left-md@xs",
+      "contents": "left-md@xs"
+    },
+    {
+      "trigger": "left-lg@xs",
+      "contents": "left-lg@xs"
+    },
+    {
+      "trigger": "left-xl@xs",
+      "contents": "left-xl@xs"
+    },
+    {
+      "trigger": "left-xxl@xs",
+      "contents": "left-xxl@xs"
+    },
+    {
+      "trigger": "left-xxxl@xs",
+      "contents": "left-xxxl@xs"
+    },
+    {
+      "trigger": "left-xxxxl@xs",
+      "contents": "left-xxxxl@xs"
+    },
+    {
+      "trigger": "left-xxxxs@sm",
+      "contents": "left-xxxxs@sm"
+    },
+    {
+      "trigger": "left-xxxs@sm",
+      "contents": "left-xxxs@sm"
+    },
+    {
+      "trigger": "left-xxs@sm",
+      "contents": "left-xxs@sm"
+    },
+    {
+      "trigger": "left-xs@sm",
+      "contents": "left-xs@sm"
+    },
+    {
+      "trigger": "left-sm@sm",
+      "contents": "left-sm@sm"
+    },
+    {
+      "trigger": "left-md@sm",
+      "contents": "left-md@sm"
+    },
+    {
+      "trigger": "left-lg@sm",
+      "contents": "left-lg@sm"
+    },
+    {
+      "trigger": "left-xl@sm",
+      "contents": "left-xl@sm"
+    },
+    {
+      "trigger": "left-xxl@sm",
+      "contents": "left-xxl@sm"
+    },
+    {
+      "trigger": "left-xxxl@sm",
+      "contents": "left-xxxl@sm"
+    },
+    {
+      "trigger": "left-xxxxl@sm",
+      "contents": "left-xxxxl@sm"
+    },
+    {
+      "trigger": "left-xxxxs@md",
+      "contents": "left-xxxxs@md"
+    },
+    {
+      "trigger": "left-xxxs@md",
+      "contents": "left-xxxs@md"
+    },
+    {
+      "trigger": "left-xxs@md",
+      "contents": "left-xxs@md"
+    },
+    {
+      "trigger": "left-xs@md",
+      "contents": "left-xs@md"
+    },
+    {
+      "trigger": "left-sm@md",
+      "contents": "left-sm@md"
+    },
+    {
+      "trigger": "left-md@md",
+      "contents": "left-md@md"
+    },
+    {
+      "trigger": "left-lg@md",
+      "contents": "left-lg@md"
+    },
+    {
+      "trigger": "left-xl@md",
+      "contents": "left-xl@md"
+    },
+    {
+      "trigger": "left-xxl@md",
+      "contents": "left-xxl@md"
+    },
+    {
+      "trigger": "left-xxxl@md",
+      "contents": "left-xxxl@md"
+    },
+    {
+      "trigger": "left-xxxxl@md",
+      "contents": "left-xxxxl@md"
+    },
+    {
+      "trigger": "left-xxxxs@lg",
+      "contents": "left-xxxxs@lg"
+    },
+    {
+      "trigger": "left-xxxs@lg",
+      "contents": "left-xxxs@lg"
+    },
+    {
+      "trigger": "left-xxs@lg",
+      "contents": "left-xxs@lg"
+    },
+    {
+      "trigger": "left-xs@lg",
+      "contents": "left-xs@lg"
+    },
+    {
+      "trigger": "left-sm@lg",
+      "contents": "left-sm@lg"
+    },
+    {
+      "trigger": "left-md@lg",
+      "contents": "left-md@lg"
+    },
+    {
+      "trigger": "left-lg@lg",
+      "contents": "left-lg@lg"
+    },
+    {
+      "trigger": "left-xl@lg",
+      "contents": "left-xl@lg"
+    },
+    {
+      "trigger": "left-xxl@lg",
+      "contents": "left-xxl@lg"
+    },
+    {
+      "trigger": "left-xxxl@lg",
+      "contents": "left-xxxl@lg"
+    },
+    {
+      "trigger": "left-xxxxl@lg",
+      "contents": "left-xxxxl@lg"
+    },
+    {
+      "trigger": "left-xxxxs@xl",
+      "contents": "left-xxxxs@xl"
+    },
+    {
+      "trigger": "left-xxxs@xl",
+      "contents": "left-xxxs@xl"
+    },
+    {
+      "trigger": "left-xxs@xl",
+      "contents": "left-xxs@xl"
+    },
+    {
+      "trigger": "left-xs@xl",
+      "contents": "left-xs@xl"
+    },
+    {
+      "trigger": "left-sm@xl",
+      "contents": "left-sm@xl"
+    },
+    {
+      "trigger": "left-md@xl",
+      "contents": "left-md@xl"
+    },
+    {
+      "trigger": "left-lg@xl",
+      "contents": "left-lg@xl"
+    },
+    {
+      "trigger": "left-xl@xl",
+      "contents": "left-xl@xl"
+    },
+    {
+      "trigger": "left-xxl@xl",
+      "contents": "left-xxl@xl"
+    },
+    {
+      "trigger": "left-xxxl@xl",
+      "contents": "left-xxxl@xl"
+    },
+    {
+      "trigger": "left-xxxxl@xl",
+      "contents": "left-xxxxl@xl"
+    },
+    {
       "trigger": "overflow-hidden",
       "contents": "overflow-hidden"
     },
@@ -9765,6 +10829,86 @@
     {
       "trigger": "overscroll-contain",
       "contents": "overscroll-contain"
+    },
+    {
+      "trigger": "overflow-hidden@xs",
+      "contents": "overflow-hidden@xs"
+    },
+    {
+      "trigger": "overflow-auto@xs",
+      "contents": "overflow-auto@xs"
+    },
+    {
+      "trigger": "momentum-scrolling@xs",
+      "contents": "momentum-scrolling@xs"
+    },
+    {
+      "trigger": "overscroll-contain@xs",
+      "contents": "overscroll-contain@xs"
+    },
+    {
+      "trigger": "overflow-hidden@sm",
+      "contents": "overflow-hidden@sm"
+    },
+    {
+      "trigger": "overflow-auto@sm",
+      "contents": "overflow-auto@sm"
+    },
+    {
+      "trigger": "momentum-scrolling@sm",
+      "contents": "momentum-scrolling@sm"
+    },
+    {
+      "trigger": "overscroll-contain@sm",
+      "contents": "overscroll-contain@sm"
+    },
+    {
+      "trigger": "overflow-hidden@md",
+      "contents": "overflow-hidden@md"
+    },
+    {
+      "trigger": "overflow-auto@md",
+      "contents": "overflow-auto@md"
+    },
+    {
+      "trigger": "momentum-scrolling@md",
+      "contents": "momentum-scrolling@md"
+    },
+    {
+      "trigger": "overscroll-contain@md",
+      "contents": "overscroll-contain@md"
+    },
+    {
+      "trigger": "overflow-hidden@lg",
+      "contents": "overflow-hidden@lg"
+    },
+    {
+      "trigger": "overflow-auto@lg",
+      "contents": "overflow-auto@lg"
+    },
+    {
+      "trigger": "momentum-scrolling@lg",
+      "contents": "momentum-scrolling@lg"
+    },
+    {
+      "trigger": "overscroll-contain@lg",
+      "contents": "overscroll-contain@lg"
+    },
+    {
+      "trigger": "overflow-hidden@xl",
+      "contents": "overflow-hidden@xl"
+    },
+    {
+      "trigger": "overflow-auto@xl",
+      "contents": "overflow-auto@xl"
+    },
+    {
+      "trigger": "momentum-scrolling@xl",
+      "contents": "momentum-scrolling@xl"
+    },
+    {
+      "trigger": "overscroll-contain@xl",
+      "contents": "overscroll-contain@xl"
     },
     {
       "trigger": "opacity-0",
@@ -9867,6 +11011,18 @@
       "contents": "translate-y-50%"
     },
     {
+      "trigger": "rotate-90",
+      "contents": "rotate-90"
+    },
+    {
+      "trigger": "rotate-180",
+      "contents": "rotate-180"
+    },
+    {
+      "trigger": "rotate-270",
+      "contents": "rotate-270"
+    },
+    {
       "trigger": "space-unit-rem",
       "contents": "space-unit-rem"
     },
@@ -9931,12 +11087,36 @@
       "contents": "aspect-ratio-16:9"
     },
     {
+      "trigger": "aspect-ratio-3:2",
+      "contents": "aspect-ratio-3:2"
+    },
+    {
       "trigger": "aspect-ratio-4:3",
       "contents": "aspect-ratio-4:3"
     },
     {
+      "trigger": "aspect-ratio-5:4",
+      "contents": "aspect-ratio-5:4"
+    },
+    {
       "trigger": "aspect-ratio-1:1",
       "contents": "aspect-ratio-1:1"
+    },
+    {
+      "trigger": "aspect-ratio-4:5",
+      "contents": "aspect-ratio-4:5"
+    },
+    {
+      "trigger": "aspect-ratio-3:4",
+      "contents": "aspect-ratio-3:4"
+    },
+    {
+      "trigger": "aspect-ratio-2:3",
+      "contents": "aspect-ratio-2:3"
+    },
+    {
+      "trigger": "aspect-ratio-9:16",
+      "contents": "aspect-ratio-9:16"
     },
     {
       "trigger": "perspective-xs",
@@ -9993,6 +11173,86 @@
     {
       "trigger": "origin-bottom-left",
       "contents": "origin-bottom-left"
+    },
+    {
+      "trigger": "scroll-smooth",
+      "contents": "scroll-smooth"
+    },
+    {
+      "trigger": "scroll-padding-xxxxs",
+      "contents": "scroll-padding-xxxxs"
+    },
+    {
+      "trigger": "scroll-padding-xxxs",
+      "contents": "scroll-padding-xxxs"
+    },
+    {
+      "trigger": "scroll-padding-xxs",
+      "contents": "scroll-padding-xxs"
+    },
+    {
+      "trigger": "scroll-padding-xs",
+      "contents": "scroll-padding-xs"
+    },
+    {
+      "trigger": "scroll-padding-sm",
+      "contents": "scroll-padding-sm"
+    },
+    {
+      "trigger": "scroll-padding-md",
+      "contents": "scroll-padding-md"
+    },
+    {
+      "trigger": "scroll-padding-lg",
+      "contents": "scroll-padding-lg"
+    },
+    {
+      "trigger": "scroll-padding-xl",
+      "contents": "scroll-padding-xl"
+    },
+    {
+      "trigger": "scroll-padding-xxl",
+      "contents": "scroll-padding-xxl"
+    },
+    {
+      "trigger": "scroll-padding-xxxl",
+      "contents": "scroll-padding-xxxl"
+    },
+    {
+      "trigger": "scroll-padding-xxxxl",
+      "contents": "scroll-padding-xxxxl"
+    },
+    {
+      "trigger": "fill-current",
+      "contents": "fill-current"
+    },
+    {
+      "trigger": "stroke-current",
+      "contents": "stroke-current"
+    },
+    {
+      "trigger": "stroke-1",
+      "contents": "stroke-1"
+    },
+    {
+      "trigger": "stroke-2",
+      "contents": "stroke-2"
+    },
+    {
+      "trigger": "stroke-3",
+      "contents": "stroke-3"
+    },
+    {
+      "trigger": "stroke-4",
+      "contents": "stroke-4"
+    },
+    {
+      "trigger": "visible",
+      "contents": "visible"
+    },
+    {
+      "trigger": "hidden",
+      "contents": "hidden"
     }
   ]
 }

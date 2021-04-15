@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.14] - 2021-04-15
+- New top/right/bottom/left@{breakpoint} util classes
+- New rotate util classes
+- New scroll smooth/scroll padding util classes
+- New SVG fill/stroke util classes
+- New visible/hidden util classes
+
 ## [1.2.13] - 2021-01-19
 - New top/right/bottom/left util classes
 - New translate util classes
