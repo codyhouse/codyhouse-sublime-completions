@@ -5123,6 +5123,10 @@
       "contents": "grid"
     },
     {
+      "trigger": "gap-0",
+      "contents": "gap-0"
+    },
+    {
       "trigger": "gap-xxxxs",
       "contents": "gap-xxxxs"
     },

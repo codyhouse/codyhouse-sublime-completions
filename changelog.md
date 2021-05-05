@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.15] - 2021-05-05
+- New gap-0 util class
+
 ## [1.2.14] - 2021-04-15
 - New top/right/bottom/left@{breakpoint} util classes
 - New rotate util classes
