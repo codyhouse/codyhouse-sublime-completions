@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.2.16] - 2021-05-14
+- display contents util class + responsive variations;
+- visible/invisible util class responsive variations;
+- hide util class.
+
 ## [1.2.15] - 2021-05-05
 - New gap-0 util class
 
