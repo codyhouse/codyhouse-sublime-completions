@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to the snippets will be documented in this file.
 
+## [1.3.00] - 2021-09-15
+- New CodyFrame 3 util classes
+
 ## [1.2.13] - 2021-01-19
 - New top/right/bottom/left util classes
 - New translate util classes

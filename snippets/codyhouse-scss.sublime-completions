@@ -143,8 +143,24 @@
       "contents": "var(--color-warning-lighter)"
     },
     {
+      "trigger": "--color-bg-darker", 
+      "contents": "var(--color-bg-darker)"
+    },
+    {
+      "trigger": "--color-bg-dark", 
+      "contents": "var(--color-bg-dark)"
+    },
+    {
       "trigger": "--color-bg", 
       "contents": "var(--color-bg)"
+    },
+    {
+      "trigger": "--color-bg-light", 
+      "contents": "var(--color-bg-light)"
+    },
+    {
+      "trigger": "--color-bg-lighter", 
+      "contents": "var(--color-bg-lighter)"
     },
     {
       "trigger": "--color-contrast-lower", 
@@ -251,6 +267,14 @@
       "contents": "var(--shadow-xl)"
     },
     {
+      "trigger": "--inner-glow", 
+      "contents": "var(--inner-glow)"
+    },
+    {
+      "trigger": "--inner-glow-top", 
+      "contents": "var(--inner-glow-top)"
+    },
+    {
       "trigger": "--space-xxxxs", 
       "contents": "var(--space-xxxxs)"
     },
@@ -311,8 +335,8 @@
       "contents": "var(--line-height-multiplier)"
     },
     {
-      "trigger": "--text-vspace-multiplier", 
-      "contents": "var(--text-vspace-multiplier)"
+      "trigger": "--text-space-y-multiplier", 
+      "contents": "var(--text-space-y-multiplier)"
     },
     {
       "trigger": "--font-primary", 
@@ -355,24 +379,28 @@
       "contents": "var(--text-xxxl)"
     },
     {
+      "trigger": "--text-xxxxl", 
+      "contents": "var(--text-xxxl)"
+    },
+    {
       "trigger": "--display", 
       "contents": "var(--display)"
     },
     {
-      "trigger": "--zindex-header", 
-      "contents": "var(--zindex-header)"
+      "trigger": "--z-index-header", 
+      "contents": "var(--z-index-header)"
     },
     {
-      "trigger": "--zindex-popover", 
-      "contents": "var(--zindex-popover)"
+      "trigger": "--z-index-popover", 
+      "contents": "var(--z-index-popover)"
     },
     {
-      "trigger": "--zindex-fixed-element", 
-      "contents": "var(--zindex-fixed-element)"
+      "trigger": "--z-index-fixed-element", 
+      "contents": "var(--z-index-fixed-element)"
     },
     {
-      "trigger": "--zindex-overlay", 
-      "contents": "var(--zindex-overlay)"
+      "trigger": "--z-index-overlay", 
+      "contents": "var(--z-index-overlay)"
     },
     {
       "trigger": "--max-width-xxxxs", 
@@ -425,6 +453,46 @@
     {
       "trigger": "--text-unit", 
       "contents": "--text-unit"
+    },
+    {
+      "trigger": "--grid-columns", 
+      "contents": "--grid-columns"
+    },
+    {
+      "trigger": "--icon-xxxs", 
+      "contents": "var(--icon-xxxs"
+    },
+    {
+      "trigger": "--icon-xxs", 
+      "contents": "var(--icon-xxs"
+    },
+    {
+      "trigger": "--icon-xs", 
+      "contents": "var(--icon-xs"
+    },
+    {
+      "trigger": "--icon-sm", 
+      "contents": "var(--icon-sm"
+    },
+    {
+      "trigger": "--icon-md", 
+      "contents": "var(--icon-md"
+    },
+    {
+      "trigger": "--icon-lg", 
+      "contents": "var(--icon-lg"
+    },
+    {
+      "trigger": "--icon-xl", 
+      "contents": "var(--icon-xl"
+    },
+    {
+      "trigger": "--icon-xxl", 
+      "contents": "var(--icon-xxl"
+    },
+    {
+      "trigger": "--icon-xxxl", 
+      "contents": "var(--icon-xxxl"
     }
   ]
 }

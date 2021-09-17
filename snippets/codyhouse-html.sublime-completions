@@ -7,6 +7,10 @@
       "contents": "sr-only"
     },
     {
+      "trigger": "sr-only-focusable",
+      "contents": "sr-only-focusable"
+    },
+    {
       "trigger": "btn",
       "contents": "btn"
     },
@@ -37,6 +41,30 @@
     {
       "trigger": "btn--lg",
       "contents": "btn--lg"
+    },
+    {
+      "trigger": "form-control",
+      "contents": "form-control"
+    },
+    {
+      "trigger": "form-control--error",
+      "contents": "form-control--error"
+    },
+    {
+      "trigger": "form-control--disabled",
+      "contents": "form-control--disabled"
+    },
+    {
+      "trigger": "form-legend",
+      "contents": "form-legend"
+    },
+    {
+      "trigger": "form-label",
+      "contents": "form-label"
+    },
+    {
+      "trigger": "container",
+      "contents": "container"
     },
     {
       "trigger": "icon",
@@ -97,6 +125,10 @@
     {
       "trigger": "flex-wrap",
       "contents": "flex-wrap"
+    },
+    {
+      "trigger": "flex-nowrap",
+      "contents": "flex-nowrap"
     },
     {
       "trigger": "flex-column",
@@ -175,6 +207,10 @@
       "contents": "flex-wrap@xs"
     },
     {
+      "trigger": "flex-nowrap@xs",
+      "contents": "flex-nowrap@xs"
+    },
+    {
       "trigger": "flex-column@xs",
       "contents": "flex-column@xs"
     },
@@ -249,6 +285,10 @@
     {
       "trigger": "flex-wrap@sm",
       "contents": "flex-wrap@sm"
+    },
+    {
+      "trigger": "flex-nowrap@sm",
+      "contents": "flex-nowrap@sm"
     },
     {
       "trigger": "flex-column@sm",
@@ -327,6 +367,10 @@
       "contents": "flex-wrap@md"
     },
     {
+      "trigger": "flex-nowrap@md",
+      "contents": "flex-nowrap@md"
+    },
+    {
       "trigger": "flex-column@md",
       "contents": "flex-column@md"
     },
@@ -401,6 +445,10 @@
     {
       "trigger": "flex-wrap@lg",
       "contents": "flex-wrap@lg"
+    },
+    {
+      "trigger": "flex-nowrap@lg",
+      "contents": "flex-nowrap@lg"
     },
     {
       "trigger": "flex-column@lg",
@@ -479,6 +527,10 @@
       "contents": "flex-wrap@xl"
     },
     {
+      "trigger": "flex-nowrap@xl",
+      "contents": "flex-nowrap@xl"
+    },
+    {
       "trigger": "flex-column@xl",
       "contents": "flex-column@xl"
     },
@@ -551,12 +603,12 @@
       "contents": "flex-grow-0"
     },
     {
-      "trigger": "flex-shrink",
-      "contents": "flex-shrink"
-    },
-    {
       "trigger": "flex-shrink-0",
       "contents": "flex-shrink-0"
+    },
+    {
+      "trigger": "flex-shrink",
+      "contents": "flex-shrink"
     },
     {
       "trigger": "flex-basis-0",
@@ -567,16 +619,8 @@
       "contents": "flex-grow-0@xs"
     },
     {
-      "trigger": "flex-grow@xs",
-      "contents": "flex-grow@xs"
-    },
-    {
       "trigger": "flex-shrink@xs",
       "contents": "flex-shrink@xs"
-    },
-    {
-      "trigger": "flex-shrink-0@xs",
-      "contents": "flex-shrink-0@xs"
     },
     {
       "trigger": "flex-basis-0@xs",
@@ -5031,30 +5075,6 @@
       "contents": "align-bottom"
     },
     {
-      "trigger": "form-control",
-      "contents": "form-control"
-    },
-    {
-      "trigger": "form-control--error",
-      "contents": "form-control--error"
-    },
-    {
-      "trigger": "form-control--disabled",
-      "contents": "form-control--disabled"
-    },
-    {
-      "trigger": "form-legend",
-      "contents": "form-legend"
-    },
-    {
-      "trigger": "form-label",
-      "contents": "form-label"
-    },
-    {
-      "trigger": "container",
-      "contents": "container"
-    },
-    {
       "trigger": "max-width-xxxxs",
       "contents": "max-width-xxxxs"
     },
@@ -5101,6 +5121,270 @@
     {
       "trigger": "max-width-100%",
       "contents": "max-width-100%"
+    },
+    {
+      "trigger": "max-width-none",
+      "contents": "max-width-none"
+    },
+    {
+      "trigger": "max-width-xxxxs@xs",
+      "contents": "max-width-xxxxs@xs"
+    },
+    {
+      "trigger": "max-width-xxxs@xs",
+      "contents": "max-width-xxxs@xs"
+    },
+    {
+      "trigger": "max-width-xxs@xs",
+      "contents": "max-width-xxs@xs"
+    },
+    {
+      "trigger": "max-width-xs@xs",
+      "contents": "max-width-xs@xs"
+    },
+    {
+      "trigger": "max-width-sm@xs",
+      "contents": "max-width-sm@xs"
+    },
+    {
+      "trigger": "max-width-md@xs",
+      "contents": "max-width-md@xs"
+    },
+    {
+      "trigger": "max-width-lg@xs",
+      "contents": "max-width-lg@xs"
+    },
+    {
+      "trigger": "max-width-xl@xs",
+      "contents": "max-width-xl@xs"
+    },
+    {
+      "trigger": "max-width-xxl@xs",
+      "contents": "max-width-xxl@xs"
+    },
+    {
+      "trigger": "max-width-xxxl@xs",
+      "contents": "max-width-xxxl@xs"
+    },
+    {
+      "trigger": "max-width-xxxxl@xs",
+      "contents": "max-width-xxxxl@xs"
+    },
+    {
+      "trigger": "max-width-100%@xs",
+      "contents": "max-width-100%@xs"
+    },
+    {
+      "trigger": "max-width-none@xs",
+      "contents": "max-width-none@xs"
+    },
+    {
+      "trigger": "max-width-xxxxs@sm",
+      "contents": "max-width-xxxxs@sm"
+    },
+    {
+      "trigger": "max-width-xxxs@sm",
+      "contents": "max-width-xxxs@sm"
+    },
+    {
+      "trigger": "max-width-xxs@sm",
+      "contents": "max-width-xxs@sm"
+    },
+    {
+      "trigger": "max-width-xs@sm",
+      "contents": "max-width-xs@sm"
+    },
+    {
+      "trigger": "max-width-sm@sm",
+      "contents": "max-width-sm@sm"
+    },
+    {
+      "trigger": "max-width-md@sm",
+      "contents": "max-width-md@sm"
+    },
+    {
+      "trigger": "max-width-lg@sm",
+      "contents": "max-width-lg@sm"
+    },
+    {
+      "trigger": "max-width-xl@sm",
+      "contents": "max-width-xl@sm"
+    },
+    {
+      "trigger": "max-width-xxl@sm",
+      "contents": "max-width-xxl@sm"
+    },
+    {
+      "trigger": "max-width-xxxl@sm",
+      "contents": "max-width-xxxl@sm"
+    },
+    {
+      "trigger": "max-width-xxxxl@sm",
+      "contents": "max-width-xxxxl@sm"
+    },
+    {
+      "trigger": "max-width-100%@sm",
+      "contents": "max-width-100%@sm"
+    },
+    {
+      "trigger": "max-width-none@sm",
+      "contents": "max-width-none@sm"
+    },
+    {
+      "trigger": "max-width-xxxxs@md",
+      "contents": "max-width-xxxxs@md"
+    },
+    {
+      "trigger": "max-width-xxxs@md",
+      "contents": "max-width-xxxs@md"
+    },
+    {
+      "trigger": "max-width-xxs@md",
+      "contents": "max-width-xxs@md"
+    },
+    {
+      "trigger": "max-width-xs@md",
+      "contents": "max-width-xs@md"
+    },
+    {
+      "trigger": "max-width-sm@md",
+      "contents": "max-width-sm@md"
+    },
+    {
+      "trigger": "max-width-md@md",
+      "contents": "max-width-md@md"
+    },
+    {
+      "trigger": "max-width-lg@md",
+      "contents": "max-width-lg@md"
+    },
+    {
+      "trigger": "max-width-xl@md",
+      "contents": "max-width-xl@md"
+    },
+    {
+      "trigger": "max-width-xxl@md",
+      "contents": "max-width-xxl@md"
+    },
+    {
+      "trigger": "max-width-xxxl@md",
+      "contents": "max-width-xxxl@md"
+    },
+    {
+      "trigger": "max-width-xxxxl@md",
+      "contents": "max-width-xxxxl@md"
+    },
+    {
+      "trigger": "max-width-100%@md",
+      "contents": "max-width-100%@md"
+    },
+    {
+      "trigger": "max-width-none@md",
+      "contents": "max-width-none@md"
+    },
+    {
+      "trigger": "max-width-xxxxs@lg",
+      "contents": "max-width-xxxxs@lg"
+    },
+    {
+      "trigger": "max-width-xxxs@lg",
+      "contents": "max-width-xxxs@lg"
+    },
+    {
+      "trigger": "max-width-xxs@lg",
+      "contents": "max-width-xxs@lg"
+    },
+    {
+      "trigger": "max-width-xs@lg",
+      "contents": "max-width-xs@lg"
+    },
+    {
+      "trigger": "max-width-sm@lg",
+      "contents": "max-width-sm@lg"
+    },
+    {
+      "trigger": "max-width-md@lg",
+      "contents": "max-width-md@lg"
+    },
+    {
+      "trigger": "max-width-lg@lg",
+      "contents": "max-width-lg@lg"
+    },
+    {
+      "trigger": "max-width-xl@lg",
+      "contents": "max-width-xl@lg"
+    },
+    {
+      "trigger": "max-width-xxl@lg",
+      "contents": "max-width-xxl@lg"
+    },
+    {
+      "trigger": "max-width-xxxl@lg",
+      "contents": "max-width-xxxl@lg"
+    },
+    {
+      "trigger": "max-width-xxxxl@lg",
+      "contents": "max-width-xxxxl@lg"
+    },
+    {
+      "trigger": "max-width-100%@lg",
+      "contents": "max-width-100%@lg"
+    },
+    {
+      "trigger": "max-width-none@lg",
+      "contents": "max-width-none@lg"
+    },
+    {
+      "trigger": "max-width-xxxxs@xl",
+      "contents": "max-width-xxxxs@xl"
+    },
+    {
+      "trigger": "max-width-xxxs@xl",
+      "contents": "max-width-xxxs@xl"
+    },
+    {
+      "trigger": "max-width-xxs@xl",
+      "contents": "max-width-xxs@xl"
+    },
+    {
+      "trigger": "max-width-xs@xl",
+      "contents": "max-width-xs@xl"
+    },
+    {
+      "trigger": "max-width-sm@xl",
+      "contents": "max-width-sm@xl"
+    },
+    {
+      "trigger": "max-width-md@xl",
+      "contents": "max-width-md@xl"
+    },
+    {
+      "trigger": "max-width-lg@xl",
+      "contents": "max-width-lg@xl"
+    },
+    {
+      "trigger": "max-width-xl@xl",
+      "contents": "max-width-xl@xl"
+    },
+    {
+      "trigger": "max-width-xxl@xl",
+      "contents": "max-width-xxl@xl"
+    },
+    {
+      "trigger": "max-width-xxxl@xl",
+      "contents": "max-width-xxxl@xl"
+    },
+    {
+      "trigger": "max-width-xxxxl@xl",
+      "contents": "max-width-xxxxl@xl"
+    },
+    {
+      "trigger": "max-width-100%@xl",
+      "contents": "max-width-100%@xl"
+    },
+    {
+      "trigger": "max-width-none@xl",
+      "contents": "max-width-none@xl"
     },
     {
       "trigger": "max-width-adaptive-sm",
@@ -5165,6 +5449,10 @@
     {
       "trigger": "gap-xxxxl",
       "contents": "gap-xxxxl"
+    },
+    {
+      "trigger": "gap-0",
+      "contents": "gap-0"
     },
     {
       "trigger": "gap-xxxxs@xs",
@@ -5451,6 +5739,10 @@
       "contents": "gap-y-xxxxl"
     },
     {
+      "trigger": "gap-y-0",
+      "contents": "gap-y-0"
+    },
+    {
       "trigger": "gap-y-xxxxs@xs",
       "contents": "gap-y-xxxxs@xs"
     },
@@ -5735,6 +6027,10 @@
       "contents": "gap-x-xxxxl"
     },
     {
+      "trigger": "gap-x-0",
+      "contents": "gap-x-0"
+    },
+    {
       "trigger": "gap-x-xxxxs@xs",
       "contents": "gap-x-xxxxs@xs"
     },
@@ -5973,6 +6269,294 @@
     {
       "trigger": "gap-x-0@xl",
       "contents": "gap-x-0@xl"
+    },
+    {
+      "trigger": "grid-col-1",
+      "contents": "grid-col-1"
+    },
+    {
+      "trigger": "grid-col-2",
+      "contents": "grid-col-2"
+    },
+    {
+      "trigger": "grid-col-3",
+      "contents": "grid-col-3"
+    },
+    {
+      "trigger": "grid-col-4",
+      "contents": "grid-col-4"
+    },
+    {
+      "trigger": "grid-col-5",
+      "contents": "grid-col-5"
+    },
+    {
+      "trigger": "grid-col-6",
+      "contents": "grid-col-6"
+    },
+    {
+      "trigger": "grid-col-7",
+      "contents": "grid-col-7"
+    },
+    {
+      "trigger": "grid-col-8",
+      "contents": "grid-col-8"
+    },
+    {
+      "trigger": "grid-col-9",
+      "contents": "grid-col-9"
+    },
+    {
+      "trigger": "grid-col-10",
+      "contents": "grid-col-10"
+    },
+    {
+      "trigger": "grid-col-11",
+      "contents": "grid-col-11"
+    },
+    {
+      "trigger": "grid-col-12",
+      "contents": "grid-col-12"
+    },
+    {
+      "trigger": "grid-col-1@xs",
+      "contents": "grid-col-1@xs"
+    },
+    {
+      "trigger": "grid-col-2@xs",
+      "contents": "grid-col-2@xs"
+    },
+    {
+      "trigger": "grid-col-3@xs",
+      "contents": "grid-col-3@xs"
+    },
+    {
+      "trigger": "grid-col-4@xs",
+      "contents": "grid-col-4@xs"
+    },
+    {
+      "trigger": "grid-col-5@xs",
+      "contents": "grid-col-5@xs"
+    },
+    {
+      "trigger": "grid-col-6@xs",
+      "contents": "grid-col-6@xs"
+    },
+    {
+      "trigger": "grid-col-7@xs",
+      "contents": "grid-col-7@xs"
+    },
+    {
+      "trigger": "grid-col-8@xs",
+      "contents": "grid-col-8@xs"
+    },
+    {
+      "trigger": "grid-col-9@xs",
+      "contents": "grid-col-9@xs"
+    },
+    {
+      "trigger": "grid-col-10@xs",
+      "contents": "grid-col-10@xs"
+    },
+    {
+      "trigger": "grid-col-11@xs",
+      "contents": "grid-col-11@xs"
+    },
+    {
+      "trigger": "grid-col-12@xs",
+      "contents": "grid-col-12@xs"
+    },
+    {
+      "trigger": "grid-col-1@sm",
+      "contents": "grid-col-1@sm"
+    },
+    {
+      "trigger": "grid-col-2@sm",
+      "contents": "grid-col-2@sm"
+    },
+    {
+      "trigger": "grid-col-3@sm",
+      "contents": "grid-col-3@sm"
+    },
+    {
+      "trigger": "grid-col-4@sm",
+      "contents": "grid-col-4@sm"
+    },
+    {
+      "trigger": "grid-col-5@sm",
+      "contents": "grid-col-5@sm"
+    },
+    {
+      "trigger": "grid-col-6@sm",
+      "contents": "grid-col-6@sm"
+    },
+    {
+      "trigger": "grid-col-7@sm",
+      "contents": "grid-col-7@sm"
+    },
+    {
+      "trigger": "grid-col-8@sm",
+      "contents": "grid-col-8@sm"
+    },
+    {
+      "trigger": "grid-col-9@sm",
+      "contents": "grid-col-9@sm"
+    },
+    {
+      "trigger": "grid-col-10@sm",
+      "contents": "grid-col-10@sm"
+    },
+    {
+      "trigger": "grid-col-11@sm",
+      "contents": "grid-col-11@sm"
+    },
+    {
+      "trigger": "grid-col-12@sm",
+      "contents": "grid-col-12@sm"
+    },
+    {
+      "trigger": "grid-col-1@md",
+      "contents": "grid-col-1@md"
+    },
+    {
+      "trigger": "grid-col-2@md",
+      "contents": "grid-col-2@md"
+    },
+    {
+      "trigger": "grid-col-3@md",
+      "contents": "grid-col-3@md"
+    },
+    {
+      "trigger": "grid-col-4@md",
+      "contents": "grid-col-4@md"
+    },
+    {
+      "trigger": "grid-col-5@md",
+      "contents": "grid-col-5@md"
+    },
+    {
+      "trigger": "grid-col-6@md",
+      "contents": "grid-col-6@md"
+    },
+    {
+      "trigger": "grid-col-7@md",
+      "contents": "grid-col-7@md"
+    },
+    {
+      "trigger": "grid-col-8@md",
+      "contents": "grid-col-8@md"
+    },
+    {
+      "trigger": "grid-col-9@md",
+      "contents": "grid-col-9@md"
+    },
+    {
+      "trigger": "grid-col-10@md",
+      "contents": "grid-col-10@md"
+    },
+    {
+      "trigger": "grid-col-11@md",
+      "contents": "grid-col-11@md"
+    },
+    {
+      "trigger": "grid-col-12@md",
+      "contents": "grid-col-12@md"
+    },
+    {
+      "trigger": "grid-col-1@lg",
+      "contents": "grid-col-1@lg"
+    },
+    {
+      "trigger": "grid-col-2@lg",
+      "contents": "grid-col-2@lg"
+    },
+    {
+      "trigger": "grid-col-3@lg",
+      "contents": "grid-col-3@lg"
+    },
+    {
+      "trigger": "grid-col-4@lg",
+      "contents": "grid-col-4@lg"
+    },
+    {
+      "trigger": "grid-col-5@lg",
+      "contents": "grid-col-5@lg"
+    },
+    {
+      "trigger": "grid-col-6@lg",
+      "contents": "grid-col-6@lg"
+    },
+    {
+      "trigger": "grid-col-7@lg",
+      "contents": "grid-col-7@lg"
+    },
+    {
+      "trigger": "grid-col-8@lg",
+      "contents": "grid-col-8@lg"
+    },
+    {
+      "trigger": "grid-col-9@lg",
+      "contents": "grid-col-9@lg"
+    },
+    {
+      "trigger": "grid-col-10@lg",
+      "contents": "grid-col-10@lg"
+    },
+    {
+      "trigger": "grid-col-11@lg",
+      "contents": "grid-col-11@lg"
+    },
+    {
+      "trigger": "grid-col-12@lg",
+      "contents": "grid-col-12@lg"
+    },
+    {
+      "trigger": "grid-col-1@xl",
+      "contents": "grid-col-1@xl"
+    },
+    {
+      "trigger": "grid-col-2@xl",
+      "contents": "grid-col-2@xl"
+    },
+    {
+      "trigger": "grid-col-3@xl",
+      "contents": "grid-col-3@xl"
+    },
+    {
+      "trigger": "grid-col-4@xl",
+      "contents": "grid-col-4@xl"
+    },
+    {
+      "trigger": "grid-col-5@xl",
+      "contents": "grid-col-5@xl"
+    },
+    {
+      "trigger": "grid-col-6@xl",
+      "contents": "grid-col-6@xl"
+    },
+    {
+      "trigger": "grid-col-7@xl",
+      "contents": "grid-col-7@xl"
+    },
+    {
+      "trigger": "grid-col-8@xl",
+      "contents": "grid-col-8@xl"
+    },
+    {
+      "trigger": "grid-col-9@xl",
+      "contents": "grid-col-9@xl"
+    },
+    {
+      "trigger": "grid-col-10@xl",
+      "contents": "grid-col-10@xl"
+    },
+    {
+      "trigger": "grid-col-11@xl",
+      "contents": "grid-col-11@xl"
+    },
+    {
+      "trigger": "grid-col-12@xl",
+      "contents": "grid-col-12@xl"
     },
     {
       "trigger": "col",
@@ -6959,10 +7543,6 @@
       "contents": "font-italic"
     },
     {
-      "trigger": "text-bold",
-      "contents": "text-bold"
-    },
-    {
       "trigger": "font-smooth",
       "contents": "font-smooth"
     },
@@ -6977,6 +7557,58 @@
     {
       "trigger": "text-decoration-none",
       "contents": "text-decoration-none"
+    },
+    {
+      "trigger": "text-uppercase",
+      "contents": "text-uppercase"
+    },
+    {
+      "trigger": "text-capitalize",
+      "contents": "text-capitalize"
+    },
+    {
+      "trigger": "text-shadow-xs",
+      "contents": "text-shadow-xs"
+    },
+    {
+      "trigger": "text-shadow-sm",
+      "contents": "text-shadow-sm"
+    },
+    {
+      "trigger": "text-shadow-md",
+      "contents": "text-shadow-md"
+    },
+    {
+      "trigger": "text-shadow-lg",
+      "contents": "text-shadow-lg"
+    },
+    {
+      "trigger": "text-shadow-xl",
+      "contents": "text-shadow-xl"
+    },
+    {
+      "trigger": "text-shadow-none",
+      "contents": "text-shadow-none"
+    },
+    {
+      "trigger": "letter-spacing-xs",
+      "contents": "letter-spacing-xs"
+    },
+    {
+      "trigger": "letter-spacing-sm",
+      "contents": "letter-spacing-sm"
+    },
+    {
+      "trigger": "letter-spacing-md",
+      "contents": "letter-spacing-md"
+    },
+    {
+      "trigger": "letter-spacing-lg",
+      "contents": "letter-spacing-lg"
+    },
+    {
+      "trigger": "letter-spacing-xl",
+      "contents": "letter-spacing-xl"
     },
     {
       "trigger": "text-component",
@@ -7023,24 +7655,8 @@
       "contents": "display@lg"
     },
     {
-      "trigger": "hide@xs",
-      "contents": "hide@xs"
-    },
-    {
-      "trigger": "hide@sm",
-      "contents": "hide@sm"
-    },
-    {
-      "trigger": "hide@md",
-      "contents": "hide@md"
-    },
-    {
-      "trigger": "hide@lg",
-      "contents": "hide@lg"
-    },
-    {
-      "trigger": "hide@xl",
-      "contents": "hide@xl"
+      "trigger": "display@xl",
+      "contents": "display@xl"
     },
     {
       "trigger": "is-visible",
@@ -7067,12 +7683,12 @@
       "contents": "text-replace"
     },
     {
-      "trigger": "text-nowrap",
-      "contents": "text-nowrap"
-    },
-    {
       "trigger": "ws-nowrap",
       "contents": "ws-nowrap"
+    },
+    {
+      "trigger": "break-word",
+      "contents": "break-word"
     },
     {
       "trigger": "cursor-pointer",
@@ -7195,32 +7811,28 @@
       "contents": "text-justify@xl"
     },
     {
-      "trigger": "text-uppercase",
-      "contents": "text-uppercase"
-    },
-    {
-      "trigger": "text-capitalize",
-      "contents": "text-capitalize"
-    },
-    {
-      "trigger": "letter-spacing-sm",
-      "contents": "letter-spacing-sm"
-    },
-    {
-      "trigger": "letter-spacing-md",
-      "contents": "letter-spacing-md"
-    },
-    {
-      "trigger": "letter-spacing-lg",
-      "contents": "letter-spacing-lg"
-    },
-    {
       "trigger": "color-inherit",
       "contents": "color-inherit"
     },
     {
+      "trigger": "color-bg-darker",
+      "contents": "color-bg-darker"
+    },
+    {
+      "trigger": "color-bg-dark",
+      "contents": "color-bg-dark"
+    },
+    {
       "trigger": "color-bg",
       "contents": "color-bg"
+    },
+    {
+      "trigger": "color-bg-light",
+      "contents": "color-bg-light"
+    },
+    {
+      "trigger": "color-bg-lighter",
+      "contents": "color-bg-lighter"
     },
     {
       "trigger": "color-contrast-lower",
@@ -7255,12 +7867,12 @@
       "contents": "color-primary"
     },
     {
-      "trigger": "color-primary-lighter",
-      "contents": "color-primary-lighter"
-    },
-    {
       "trigger": "color-primary-light",
       "contents": "color-primary-light"
+    },
+    {
+      "trigger": "color-primary-lighter",
+      "contents": "color-primary-lighter"
     },
     {
       "trigger": "color-accent-darker",
@@ -8763,6 +9375,94 @@
       "contents": "max-height-100vh"
     },
     {
+      "trigger": "opacity-0",
+      "contents": "opacity-0"
+    },
+    {
+      "trigger": "opacity-10%",
+      "contents": "opacity-10%"
+    },
+    {
+      "trigger": "opacity-20%",
+      "contents": "opacity-20%"
+    },
+    {
+      "trigger": "opacity-30%",
+      "contents": "opacity-30%"
+    },
+    {
+      "trigger": "opacity-40%",
+      "contents": "opacity-40%"
+    },
+    {
+      "trigger": "opacity-50%",
+      "contents": "opacity-50%"
+    },
+    {
+      "trigger": "opacity-60%",
+      "contents": "opacity-60%"
+    },
+    {
+      "trigger": "opacity-70%",
+      "contents": "opacity-70%"
+    },
+    {
+      "trigger": "opacity-80%",
+      "contents": "opacity-80%"
+    },
+    {
+      "trigger": "opacity-90%",
+      "contents": "opacity-90%"
+    },
+    {
+      "trigger": "scroll-smooth",
+      "contents": "scroll-smooth"
+    },
+    {
+      "trigger": "scroll-padding-xxxxs",
+      "contents": "scroll-padding-xxxxs"
+    },
+    {
+      "trigger": "scroll-padding-xxxs",
+      "contents": "scroll-padding-xxxs"
+    },
+    {
+      "trigger": "scroll-padding-xxs",
+      "contents": "scroll-padding-xxs"
+    },
+    {
+      "trigger": "scroll-padding-xs",
+      "contents": "scroll-padding-xs"
+    },
+    {
+      "trigger": "scroll-padding-sm",
+      "contents": "scroll-padding-sm"
+    },
+    {
+      "trigger": "scroll-padding-md",
+      "contents": "scroll-padding-md"
+    },
+    {
+      "trigger": "scroll-padding-lg",
+      "contents": "scroll-padding-lg"
+    },
+    {
+      "trigger": "scroll-padding-xl",
+      "contents": "scroll-padding-xl"
+    },
+    {
+      "trigger": "scroll-padding-xxl",
+      "contents": "scroll-padding-xxl"
+    },
+    {
+      "trigger": "scroll-padding-xxxl",
+      "contents": "scroll-padding-xxxl"
+    },
+    {
+      "trigger": "scroll-padding-xxxxl",
+      "contents": "scroll-padding-xxxxl"
+    },
+    {
       "trigger": "float-left",
       "contents": "float-left"
     },
@@ -8807,8 +9507,32 @@
       "contents": "border-4"
     },
     {
+      "trigger": "border-dotted",
+      "contents": "border-dotted"
+    },
+    {
+      "trigger": "border-dashed",
+      "contents": "border-dashed"
+    },
+    {
+      "trigger": "border-bg-darker",
+      "contents": "border-bg-darker"
+    },
+    {
+      "trigger": "border-bg-dark",
+      "contents": "border-bg-dark"
+    },
+    {
       "trigger": "border-bg",
       "contents": "border-bg"
+    },
+    {
+      "trigger": "border-bg-light",
+      "contents": "border-bg-light"
+    },
+    {
+      "trigger": "border-bg-lighter",
+      "contents": "border-bg-lighter"
     },
     {
       "trigger": "border-contrast-lower",
@@ -8999,6 +9723,10 @@
       "contents": "radius-full"
     },
     {
+      "trigger": "radius-0",
+      "contents": "radius-0"
+    },
+    {
       "trigger": "radius-top-left-0",
       "contents": "radius-top-left-0"
     },
@@ -9013,6 +9741,10 @@
     {
       "trigger": "radius-bottom-left-0",
       "contents": "radius-bottom-left-0"
+    },
+    {
+      "trigger": "radius-inherit",
+      "contents": "radius-inherit"
     },
     {
       "trigger": "shadow-xs",
@@ -9033,6 +9765,18 @@
     {
       "trigger": "shadow-xl",
       "contents": "shadow-xl"
+    },
+    {
+      "trigger": "shadow-none",
+      "contents": "shadow-none"
+    },
+    {
+      "trigger": "inner-glow",
+      "contents": "inner-glow"
+    },
+    {
+      "trigger": "inner-glow-top",
+      "contents": "inner-glow-top"
     },
     {
       "trigger": "line-height-xs",
@@ -9071,32 +9815,32 @@
       "contents": "line-height-1"
     },
     {
-      "trigger": "v-space-xxs",
-      "contents": "v-space-xxs"
+      "trigger": "text-space-y-xxs",
+      "contents": "text-space-y-xxs"
     },
     {
-      "trigger": "v-space-xs",
-      "contents": "v-space-xs"
+      "trigger": "text-space-y-xs",
+      "contents": "text-space-y-xs"
     },
     {
-      "trigger": "v-space-sm",
-      "contents": "v-space-sm"
+      "trigger": "text-space-y-sm",
+      "contents": "text-space-y-sm"
     },
     {
-      "trigger": "v-space-md",
-      "contents": "v-space-md"
+      "trigger": "text-space-y-md",
+      "contents": "text-space-y-md"
     },
     {
-      "trigger": "v-space-lg",
-      "contents": "v-space-lg"
+      "trigger": "text-space-y-lg",
+      "contents": "text-space-y-lg"
     },
     {
-      "trigger": "v-space-xl",
-      "contents": "v-space-xl"
+      "trigger": "text-space-y-xl",
+      "contents": "text-space-y-xl"
     },
     {
-      "trigger": "v-space-xxl",
-      "contents": "v-space-xxl"
+      "trigger": "text-space-y-xxl",
+      "contents": "text-space-y-xxl"
     },
     {
       "trigger": "bg-transparent",
@@ -9107,8 +9851,24 @@
       "contents": "bg-inherit"
     },
     {
+      "trigger": "bg-darker",
+      "contents": "bg-darker"
+    },
+    {
+      "trigger": "bg-dark",
+      "contents": "bg-dark"
+    },
+    {
       "trigger": "bg",
       "contents": "bg"
+    },
+    {
+      "trigger": "bg-light",
+      "contents": "bg-light"
+    },
+    {
+      "trigger": "bg-lighter",
+      "contents": "bg-lighter"
     },
     {
       "trigger": "bg-contrast-lower",
@@ -9287,6 +10047,38 @@
       "contents": "bg-center"
     },
     {
+      "trigger": "bg-top",
+      "contents": "bg-top"
+    },
+    {
+      "trigger": "bg-right",
+      "contents": "bg-right"
+    },
+    {
+      "trigger": "bg-bottom",
+      "contents": "bg-bottom"
+    },
+    {
+      "trigger": "bg-left",
+      "contents": "bg-left"
+    },
+    {
+      "trigger": "bg-top-left",
+      "contents": "bg-top-left"
+    },
+    {
+      "trigger": "bg-top-right",
+      "contents": "bg-top-right"
+    },
+    {
+      "trigger": "bg-bottom-left",
+      "contents": "bg-bottom-left"
+    },
+    {
+      "trigger": "bg-bottom-right",
+      "contents": "bg-bottom-right"
+    },
+    {
       "trigger": "bg-no-repeat",
       "contents": "bg-no-repeat"
     },
@@ -9375,6 +10167,78 @@
       "contents": "inline@xl"
     },
     {
+      "trigger": "contents",
+      "contents": "contents"
+    },
+    {
+      "trigger": "contents@xs",
+      "contents": "contents@xs"
+    },
+    {
+      "trigger": "contents@sm",
+      "contents": "contents@sm"
+    },
+    {
+      "trigger": "contents@md",
+      "contents": "contents@md"
+    },
+    {
+      "trigger": "contents@lg",
+      "contents": "contents@lg"
+    },
+    {
+      "trigger": "contents@xl",
+      "contents": "contents@xl"
+    },
+    {
+      "trigger": "hide",
+      "contents": "hide"
+    },
+    {
+      "trigger": "hide@xs",
+      "contents": "hide@xs"
+    },
+    {
+      "trigger": "hide@sm",
+      "contents": "hide@sm"
+    },
+    {
+      "trigger": "hide@md",
+      "contents": "hide@md"
+    },
+    {
+      "trigger": "hide@lg",
+      "contents": "hide@lg"
+    },
+    {
+      "trigger": "hide@xl",
+      "contents": "hide@xl"
+    },
+    {
+      "trigger": "space-unit-rem",
+      "contents": "space-unit-rem"
+    },
+    {
+      "trigger": "space-unit-em",
+      "contents": "space-unit-em"
+    },
+    {
+      "trigger": "space-unit-px",
+      "contents": "space-unit-px"
+    },
+    {
+      "trigger": "text-unit-rem",
+      "contents": "text-unit-rem"
+    },
+    {
+      "trigger": "text-unit-em",
+      "contents": "text-unit-em"
+    },
+    {
+      "trigger": "text-unit-px",
+      "contents": "text-unit-px"
+    },
+    {
       "trigger": "js-tab-focus",
       "contents": "js-tab-focus"
     },
@@ -9439,28 +10303,28 @@
       "contents": "top-0"
     },
     {
-      "trigger": "bottom-0",
-      "contents": "bottom-0"
-    },
-    {
-      "trigger": "right-0",
-      "contents": "right-0"
-    },
-    {
-      "trigger": "left-0",
-      "contents": "left-0"
-    },
-    {
       "trigger": "top-50%",
       "contents": "top-50%"
+    },
+    {
+      "trigger": "bottom-0",
+      "contents": "bottom-0"
     },
     {
       "trigger": "bottom-50%",
       "contents": "bottom-50%"
     },
     {
+      "trigger": "right-0",
+      "contents": "right-0"
+    },
+    {
       "trigger": "right-50%",
       "contents": "right-50%"
+    },
+    {
+      "trigger": "left-0",
+      "contents": "left-0"
     },
     {
       "trigger": "left-50%",
@@ -9469,6 +10333,10 @@
     {
       "trigger": "inset-0",
       "contents": "inset-0"
+    },
+    {
+      "trigger": "position-static@xs",
+      "contents": "position-static@xs"
     },
     {
       "trigger": "position-relative@xs",
@@ -9487,36 +10355,32 @@
       "contents": "position-sticky@xs"
     },
     {
-      "trigger": "position-static@xs",
-      "contents": "position-static@xs"
-    },
-    {
       "trigger": "top-0@xs",
       "contents": "top-0@xs"
+    },
+    {
+      "trigger": "top-50% @xs",
+      "contents": "top-50% @xs"
     },
     {
       "trigger": "bottom-0@xs",
       "contents": "bottom-0@xs"
     },
     {
-      "trigger": "right-0@xs",
-      "contents": "right-0@xs"
-    },
-    {
-      "trigger": "left-0@xs",
-      "contents": "left-0@xs"
-    },
-    {
-      "trigger": "top-50%@xs",
-      "contents": "top-50%@xs"
-    },
-    {
       "trigger": "bottom-50%@xs",
       "contents": "bottom-50%@xs"
     },
     {
+      "trigger": "right-0@xs",
+      "contents": "right-0@xs"
+    },
+    {
       "trigger": "right-50%@xs",
       "contents": "right-50%@xs"
+    },
+    {
+      "trigger": "left-0@xs",
+      "contents": "left-0@xs"
     },
     {
       "trigger": "left-50%@xs",
@@ -9525,6 +10389,10 @@
     {
       "trigger": "inset-0@xs",
       "contents": "inset-0@xs"
+    },
+    {
+      "trigger": "position-static@sm",
+      "contents": "position-static@sm"
     },
     {
       "trigger": "position-relative@sm",
@@ -9543,36 +10411,32 @@
       "contents": "position-sticky@sm"
     },
     {
-      "trigger": "position-static@sm",
-      "contents": "position-static@sm"
-    },
-    {
       "trigger": "top-0@sm",
       "contents": "top-0@sm"
+    },
+    {
+      "trigger": "top-50% @sm",
+      "contents": "top-50% @sm"
     },
     {
       "trigger": "bottom-0@sm",
       "contents": "bottom-0@sm"
     },
     {
-      "trigger": "right-0@sm",
-      "contents": "right-0@sm"
-    },
-    {
-      "trigger": "left-0@sm",
-      "contents": "left-0@sm"
-    },
-    {
-      "trigger": "top-50%@sm",
-      "contents": "top-50%@sm"
-    },
-    {
       "trigger": "bottom-50%@sm",
       "contents": "bottom-50%@sm"
     },
     {
+      "trigger": "right-0@sm",
+      "contents": "right-0@sm"
+    },
+    {
       "trigger": "right-50%@sm",
       "contents": "right-50%@sm"
+    },
+    {
+      "trigger": "left-0@sm",
+      "contents": "left-0@sm"
     },
     {
       "trigger": "left-50%@sm",
@@ -9581,6 +10445,10 @@
     {
       "trigger": "inset-0@sm",
       "contents": "inset-0@sm"
+    },
+    {
+      "trigger": "position-static@md",
+      "contents": "position-static@md"
     },
     {
       "trigger": "position-relative@md",
@@ -9599,36 +10467,32 @@
       "contents": "position-sticky@md"
     },
     {
-      "trigger": "position-static@md",
-      "contents": "position-static@md"
-    },
-    {
       "trigger": "top-0@md",
       "contents": "top-0@md"
+    },
+    {
+      "trigger": "top-50% @md",
+      "contents": "top-50% @md"
     },
     {
       "trigger": "bottom-0@md",
       "contents": "bottom-0@md"
     },
     {
-      "trigger": "right-0@md",
-      "contents": "right-0@md"
-    },
-    {
-      "trigger": "left-0@md",
-      "contents": "left-0@md"
-    },
-    {
-      "trigger": "top-50%@md",
-      "contents": "top-50%@md"
-    },
-    {
       "trigger": "bottom-50%@md",
       "contents": "bottom-50%@md"
     },
     {
+      "trigger": "right-0@md",
+      "contents": "right-0@md"
+    },
+    {
       "trigger": "right-50%@md",
       "contents": "right-50%@md"
+    },
+    {
+      "trigger": "left-0@md",
+      "contents": "left-0@md"
     },
     {
       "trigger": "left-50%@md",
@@ -9637,6 +10501,10 @@
     {
       "trigger": "inset-0@md",
       "contents": "inset-0@md"
+    },
+    {
+      "trigger": "position-static@lg",
+      "contents": "position-static@lg"
     },
     {
       "trigger": "position-relative@lg",
@@ -9655,36 +10523,32 @@
       "contents": "position-sticky@lg"
     },
     {
-      "trigger": "position-static@lg",
-      "contents": "position-static@lg"
-    },
-    {
       "trigger": "top-0@lg",
       "contents": "top-0@lg"
+    },
+    {
+      "trigger": "top-50% @lg",
+      "contents": "top-50% @lg"
     },
     {
       "trigger": "bottom-0@lg",
       "contents": "bottom-0@lg"
     },
     {
-      "trigger": "right-0@lg",
-      "contents": "right-0@lg"
-    },
-    {
-      "trigger": "left-0@lg",
-      "contents": "left-0@lg"
-    },
-    {
-      "trigger": "top-50%@lg",
-      "contents": "top-50%@lg"
-    },
-    {
       "trigger": "bottom-50%@lg",
       "contents": "bottom-50%@lg"
     },
     {
+      "trigger": "right-0@lg",
+      "contents": "right-0@lg"
+    },
+    {
       "trigger": "right-50%@lg",
       "contents": "right-50%@lg"
+    },
+    {
+      "trigger": "left-0@lg",
+      "contents": "left-0@lg"
     },
     {
       "trigger": "left-50%@lg",
@@ -9693,6 +10557,10 @@
     {
       "trigger": "inset-0@lg",
       "contents": "inset-0@lg"
+    },
+    {
+      "trigger": "position-static@xl",
+      "contents": "position-static@xl"
     },
     {
       "trigger": "position-relative@xl",
@@ -9711,36 +10579,32 @@
       "contents": "position-sticky@xl"
     },
     {
-      "trigger": "position-static@xl",
-      "contents": "position-static@xl"
-    },
-    {
       "trigger": "top-0@xl",
       "contents": "top-0@xl"
+    },
+    {
+      "trigger": "top-50% @xl",
+      "contents": "top-50% @xl"
     },
     {
       "trigger": "bottom-0@xl",
       "contents": "bottom-0@xl"
     },
     {
-      "trigger": "right-0@xl",
-      "contents": "right-0@xl"
-    },
-    {
-      "trigger": "left-0@xl",
-      "contents": "left-0@xl"
-    },
-    {
-      "trigger": "top-50%@xl",
-      "contents": "top-50%@xl"
-    },
-    {
       "trigger": "bottom-50%@xl",
       "contents": "bottom-50%@xl"
     },
     {
+      "trigger": "right-0@xl",
+      "contents": "right-0@xl"
+    },
+    {
       "trigger": "right-50%@xl",
       "contents": "right-50%@xl"
+    },
+    {
+      "trigger": "left-0@xl",
+      "contents": "left-0@xl"
     },
     {
       "trigger": "left-50%@xl",
@@ -9749,6 +10613,1062 @@
     {
       "trigger": "inset-0@xl",
       "contents": "inset-0@xl"
+    },
+    {
+      "trigger": "top-xxxxs",
+      "contents": "top-xxxxs"
+    },
+    {
+      "trigger": "top-xxxs",
+      "contents": "top-xxxs"
+    },
+    {
+      "trigger": "top-xxs",
+      "contents": "top-xxs"
+    },
+    {
+      "trigger": "top-xs",
+      "contents": "top-xs"
+    },
+    {
+      "trigger": "top-sm",
+      "contents": "top-sm"
+    },
+    {
+      "trigger": "top-md",
+      "contents": "top-md"
+    },
+    {
+      "trigger": "top-lg",
+      "contents": "top-lg"
+    },
+    {
+      "trigger": "top-xl",
+      "contents": "top-xl"
+    },
+    {
+      "trigger": "top-xxl",
+      "contents": "top-xxl"
+    },
+    {
+      "trigger": "top-xxxl",
+      "contents": "top-xxxl"
+    },
+    {
+      "trigger": "top-xxxxl",
+      "contents": "top-xxxxl"
+    },
+    {
+      "trigger": "top-xxxxs@xs",
+      "contents": "top-xxxxs@xs"
+    },
+    {
+      "trigger": "top-xxxs@xs",
+      "contents": "top-xxxs@xs"
+    },
+    {
+      "trigger": "top-xxs@xs",
+      "contents": "top-xxs@xs"
+    },
+    {
+      "trigger": "top-xs@xs",
+      "contents": "top-xs@xs"
+    },
+    {
+      "trigger": "top-sm@xs",
+      "contents": "top-sm@xs"
+    },
+    {
+      "trigger": "top-md@xs",
+      "contents": "top-md@xs"
+    },
+    {
+      "trigger": "top-lg@xs",
+      "contents": "top-lg@xs"
+    },
+    {
+      "trigger": "top-xl@xs",
+      "contents": "top-xl@xs"
+    },
+    {
+      "trigger": "top-xxl@xs",
+      "contents": "top-xxl@xs"
+    },
+    {
+      "trigger": "top-xxxl@xs",
+      "contents": "top-xxxl@xs"
+    },
+    {
+      "trigger": "top-xxxxl@xs",
+      "contents": "top-xxxxl@xs"
+    },
+    {
+      "trigger": "top-xxxxs@sm",
+      "contents": "top-xxxxs@sm"
+    },
+    {
+      "trigger": "top-xxxs@sm",
+      "contents": "top-xxxs@sm"
+    },
+    {
+      "trigger": "top-xxs@sm",
+      "contents": "top-xxs@sm"
+    },
+    {
+      "trigger": "top-xs@sm",
+      "contents": "top-xs@sm"
+    },
+    {
+      "trigger": "top-sm@sm",
+      "contents": "top-sm@sm"
+    },
+    {
+      "trigger": "top-md@sm",
+      "contents": "top-md@sm"
+    },
+    {
+      "trigger": "top-lg@sm",
+      "contents": "top-lg@sm"
+    },
+    {
+      "trigger": "top-xl@sm",
+      "contents": "top-xl@sm"
+    },
+    {
+      "trigger": "top-xxl@sm",
+      "contents": "top-xxl@sm"
+    },
+    {
+      "trigger": "top-xxxl@sm",
+      "contents": "top-xxxl@sm"
+    },
+    {
+      "trigger": "top-xxxxl@sm",
+      "contents": "top-xxxxl@sm"
+    },
+    {
+      "trigger": "top-xxxxs@md",
+      "contents": "top-xxxxs@md"
+    },
+    {
+      "trigger": "top-xxxs@md",
+      "contents": "top-xxxs@md"
+    },
+    {
+      "trigger": "top-xxs@md",
+      "contents": "top-xxs@md"
+    },
+    {
+      "trigger": "top-xs@md",
+      "contents": "top-xs@md"
+    },
+    {
+      "trigger": "top-sm@md",
+      "contents": "top-sm@md"
+    },
+    {
+      "trigger": "top-md@md",
+      "contents": "top-md@md"
+    },
+    {
+      "trigger": "top-lg@md",
+      "contents": "top-lg@md"
+    },
+    {
+      "trigger": "top-xl@md",
+      "contents": "top-xl@md"
+    },
+    {
+      "trigger": "top-xxl@md",
+      "contents": "top-xxl@md"
+    },
+    {
+      "trigger": "top-xxxl@md",
+      "contents": "top-xxxl@md"
+    },
+    {
+      "trigger": "top-xxxxl@md",
+      "contents": "top-xxxxl@md"
+    },
+    {
+      "trigger": "top-xxxxs@lg",
+      "contents": "top-xxxxs@lg"
+    },
+    {
+      "trigger": "top-xxxs@lg",
+      "contents": "top-xxxs@lg"
+    },
+    {
+      "trigger": "top-xxs@lg",
+      "contents": "top-xxs@lg"
+    },
+    {
+      "trigger": "top-xs@lg",
+      "contents": "top-xs@lg"
+    },
+    {
+      "trigger": "top-sm@lg",
+      "contents": "top-sm@lg"
+    },
+    {
+      "trigger": "top-md@lg",
+      "contents": "top-md@lg"
+    },
+    {
+      "trigger": "top-lg@lg",
+      "contents": "top-lg@lg"
+    },
+    {
+      "trigger": "top-xl@lg",
+      "contents": "top-xl@lg"
+    },
+    {
+      "trigger": "top-xxl@lg",
+      "contents": "top-xxl@lg"
+    },
+    {
+      "trigger": "top-xxxl@lg",
+      "contents": "top-xxxl@lg"
+    },
+    {
+      "trigger": "top-xxxxl@lg",
+      "contents": "top-xxxxl@lg"
+    },
+    {
+      "trigger": "top-xxxxs@xl",
+      "contents": "top-xxxxs@xl"
+    },
+    {
+      "trigger": "top-xxxs@xl",
+      "contents": "top-xxxs@xl"
+    },
+    {
+      "trigger": "top-xxs@xl",
+      "contents": "top-xxs@xl"
+    },
+    {
+      "trigger": "top-xs@xl",
+      "contents": "top-xs@xl"
+    },
+    {
+      "trigger": "top-sm@xl",
+      "contents": "top-sm@xl"
+    },
+    {
+      "trigger": "top-md@xl",
+      "contents": "top-md@xl"
+    },
+    {
+      "trigger": "top-lg@xl",
+      "contents": "top-lg@xl"
+    },
+    {
+      "trigger": "top-xl@xl",
+      "contents": "top-xl@xl"
+    },
+    {
+      "trigger": "top-xxl@xl",
+      "contents": "top-xxl@xl"
+    },
+    {
+      "trigger": "top-xxxl@xl",
+      "contents": "top-xxxl@xl"
+    },
+    {
+      "trigger": "top-xxxxl@xl",
+      "contents": "top-xxxxl@xl"
+    },
+    {
+      "trigger": "bottom-xxxxs",
+      "contents": "bottom-xxxxs"
+    },
+    {
+      "trigger": "bottom-xxxs",
+      "contents": "bottom-xxxs"
+    },
+    {
+      "trigger": "bottom-xxs",
+      "contents": "bottom-xxs"
+    },
+    {
+      "trigger": "bottom-xs",
+      "contents": "bottom-xs"
+    },
+    {
+      "trigger": "bottom-sm",
+      "contents": "bottom-sm"
+    },
+    {
+      "trigger": "bottom-md",
+      "contents": "bottom-md"
+    },
+    {
+      "trigger": "bottom-lg",
+      "contents": "bottom-lg"
+    },
+    {
+      "trigger": "bottom-xl",
+      "contents": "bottom-xl"
+    },
+    {
+      "trigger": "bottom-xxl",
+      "contents": "bottom-xxl"
+    },
+    {
+      "trigger": "bottom-xxxl",
+      "contents": "bottom-xxxl"
+    },
+    {
+      "trigger": "bottom-xxxxl",
+      "contents": "bottom-xxxxl"
+    },
+    {
+      "trigger": "bottom-xxxxs@xs",
+      "contents": "bottom-xxxxs@xs"
+    },
+    {
+      "trigger": "bottom-xxxs@xs",
+      "contents": "bottom-xxxs@xs"
+    },
+    {
+      "trigger": "bottom-xxs@xs",
+      "contents": "bottom-xxs@xs"
+    },
+    {
+      "trigger": "bottom-xs@xs",
+      "contents": "bottom-xs@xs"
+    },
+    {
+      "trigger": "bottom-sm@xs",
+      "contents": "bottom-sm@xs"
+    },
+    {
+      "trigger": "bottom-md@xs",
+      "contents": "bottom-md@xs"
+    },
+    {
+      "trigger": "bottom-lg@xs",
+      "contents": "bottom-lg@xs"
+    },
+    {
+      "trigger": "bottom-xl@xs",
+      "contents": "bottom-xl@xs"
+    },
+    {
+      "trigger": "bottom-xxl@xs",
+      "contents": "bottom-xxl@xs"
+    },
+    {
+      "trigger": "bottom-xxxl@xs",
+      "contents": "bottom-xxxl@xs"
+    },
+    {
+      "trigger": "bottom-xxxxl@xs",
+      "contents": "bottom-xxxxl@xs"
+    },
+    {
+      "trigger": "bottom-xxxxs@sm",
+      "contents": "bottom-xxxxs@sm"
+    },
+    {
+      "trigger": "bottom-xxxs@sm",
+      "contents": "bottom-xxxs@sm"
+    },
+    {
+      "trigger": "bottom-xxs@sm",
+      "contents": "bottom-xxs@sm"
+    },
+    {
+      "trigger": "bottom-xs@sm",
+      "contents": "bottom-xs@sm"
+    },
+    {
+      "trigger": "bottom-sm@sm",
+      "contents": "bottom-sm@sm"
+    },
+    {
+      "trigger": "bottom-md@sm",
+      "contents": "bottom-md@sm"
+    },
+    {
+      "trigger": "bottom-lg@sm",
+      "contents": "bottom-lg@sm"
+    },
+    {
+      "trigger": "bottom-xl@sm",
+      "contents": "bottom-xl@sm"
+    },
+    {
+      "trigger": "bottom-xxl@sm",
+      "contents": "bottom-xxl@sm"
+    },
+    {
+      "trigger": "bottom-xxxl@sm",
+      "contents": "bottom-xxxl@sm"
+    },
+    {
+      "trigger": "bottom-xxxxl@sm",
+      "contents": "bottom-xxxxl@sm"
+    },
+    {
+      "trigger": "bottom-xxxxs@md",
+      "contents": "bottom-xxxxs@md"
+    },
+    {
+      "trigger": "bottom-xxxs@md",
+      "contents": "bottom-xxxs@md"
+    },
+    {
+      "trigger": "bottom-xxs@md",
+      "contents": "bottom-xxs@md"
+    },
+    {
+      "trigger": "bottom-xs@md",
+      "contents": "bottom-xs@md"
+    },
+    {
+      "trigger": "bottom-sm@md",
+      "contents": "bottom-sm@md"
+    },
+    {
+      "trigger": "bottom-md@md",
+      "contents": "bottom-md@md"
+    },
+    {
+      "trigger": "bottom-lg@md",
+      "contents": "bottom-lg@md"
+    },
+    {
+      "trigger": "bottom-xl@md",
+      "contents": "bottom-xl@md"
+    },
+    {
+      "trigger": "bottom-xxl@md",
+      "contents": "bottom-xxl@md"
+    },
+    {
+      "trigger": "bottom-xxxl@md",
+      "contents": "bottom-xxxl@md"
+    },
+    {
+      "trigger": "bottom-xxxxl@md",
+      "contents": "bottom-xxxxl@md"
+    },
+    {
+      "trigger": "bottom-xxxxs@lg",
+      "contents": "bottom-xxxxs@lg"
+    },
+    {
+      "trigger": "bottom-xxxs@lg",
+      "contents": "bottom-xxxs@lg"
+    },
+    {
+      "trigger": "bottom-xxs@lg",
+      "contents": "bottom-xxs@lg"
+    },
+    {
+      "trigger": "bottom-xs@lg",
+      "contents": "bottom-xs@lg"
+    },
+    {
+      "trigger": "bottom-sm@lg",
+      "contents": "bottom-sm@lg"
+    },
+    {
+      "trigger": "bottom-md@lg",
+      "contents": "bottom-md@lg"
+    },
+    {
+      "trigger": "bottom-lg@lg",
+      "contents": "bottom-lg@lg"
+    },
+    {
+      "trigger": "bottom-xl@lg",
+      "contents": "bottom-xl@lg"
+    },
+    {
+      "trigger": "bottom-xxl@lg",
+      "contents": "bottom-xxl@lg"
+    },
+    {
+      "trigger": "bottom-xxxl@lg",
+      "contents": "bottom-xxxl@lg"
+    },
+    {
+      "trigger": "bottom-xxxxl@lg",
+      "contents": "bottom-xxxxl@lg"
+    },
+    {
+      "trigger": "bottom-xxxxs@xl",
+      "contents": "bottom-xxxxs@xl"
+    },
+    {
+      "trigger": "bottom-xxxs@xl",
+      "contents": "bottom-xxxs@xl"
+    },
+    {
+      "trigger": "bottom-xxs@xl",
+      "contents": "bottom-xxs@xl"
+    },
+    {
+      "trigger": "bottom-xs@xl",
+      "contents": "bottom-xs@xl"
+    },
+    {
+      "trigger": "bottom-sm@xl",
+      "contents": "bottom-sm@xl"
+    },
+    {
+      "trigger": "bottom-md@xl",
+      "contents": "bottom-md@xl"
+    },
+    {
+      "trigger": "bottom-lg@xl",
+      "contents": "bottom-lg@xl"
+    },
+    {
+      "trigger": "bottom-xl@xl",
+      "contents": "bottom-xl@xl"
+    },
+    {
+      "trigger": "bottom-xxl@xl",
+      "contents": "bottom-xxl@xl"
+    },
+    {
+      "trigger": "bottom-xxxl@xl",
+      "contents": "bottom-xxxl@xl"
+    },
+    {
+      "trigger": "bottom-xxxxl@xl",
+      "contents": "bottom-xxxxl@xl"
+    },
+    {
+      "trigger": "right-xxxxs",
+      "contents": "right-xxxxs"
+    },
+    {
+      "trigger": "right-xxxs",
+      "contents": "right-xxxs"
+    },
+    {
+      "trigger": "right-xxs",
+      "contents": "right-xxs"
+    },
+    {
+      "trigger": "right-xs",
+      "contents": "right-xs"
+    },
+    {
+      "trigger": "right-sm",
+      "contents": "right-sm"
+    },
+    {
+      "trigger": "right-md",
+      "contents": "right-md"
+    },
+    {
+      "trigger": "right-lg",
+      "contents": "right-lg"
+    },
+    {
+      "trigger": "right-xl",
+      "contents": "right-xl"
+    },
+    {
+      "trigger": "right-xxl",
+      "contents": "right-xxl"
+    },
+    {
+      "trigger": "right-xxxl",
+      "contents": "right-xxxl"
+    },
+    {
+      "trigger": "right-xxxxl",
+      "contents": "right-xxxxl"
+    },
+    {
+      "trigger": "right-xxxxs@xs",
+      "contents": "right-xxxxs@xs"
+    },
+    {
+      "trigger": "right-xxxs@xs",
+      "contents": "right-xxxs@xs"
+    },
+    {
+      "trigger": "right-xxs@xs",
+      "contents": "right-xxs@xs"
+    },
+    {
+      "trigger": "right-xs@xs",
+      "contents": "right-xs@xs"
+    },
+    {
+      "trigger": "right-sm@xs",
+      "contents": "right-sm@xs"
+    },
+    {
+      "trigger": "right-md@xs",
+      "contents": "right-md@xs"
+    },
+    {
+      "trigger": "right-lg@xs",
+      "contents": "right-lg@xs"
+    },
+    {
+      "trigger": "right-xl@xs",
+      "contents": "right-xl@xs"
+    },
+    {
+      "trigger": "right-xxl@xs",
+      "contents": "right-xxl@xs"
+    },
+    {
+      "trigger": "right-xxxl@xs",
+      "contents": "right-xxxl@xs"
+    },
+    {
+      "trigger": "right-xxxxl@xs",
+      "contents": "right-xxxxl@xs"
+    },
+    {
+      "trigger": "right-xxxxs@sm",
+      "contents": "right-xxxxs@sm"
+    },
+    {
+      "trigger": "right-xxxs@sm",
+      "contents": "right-xxxs@sm"
+    },
+    {
+      "trigger": "right-xxs@sm",
+      "contents": "right-xxs@sm"
+    },
+    {
+      "trigger": "right-xs@sm",
+      "contents": "right-xs@sm"
+    },
+    {
+      "trigger": "right-sm@sm",
+      "contents": "right-sm@sm"
+    },
+    {
+      "trigger": "right-md@sm",
+      "contents": "right-md@sm"
+    },
+    {
+      "trigger": "right-lg@sm",
+      "contents": "right-lg@sm"
+    },
+    {
+      "trigger": "right-xl@sm",
+      "contents": "right-xl@sm"
+    },
+    {
+      "trigger": "right-xxl@sm",
+      "contents": "right-xxl@sm"
+    },
+    {
+      "trigger": "right-xxxl@sm",
+      "contents": "right-xxxl@sm"
+    },
+    {
+      "trigger": "right-xxxxl@sm",
+      "contents": "right-xxxxl@sm"
+    },
+    {
+      "trigger": "right-xxxxs@md",
+      "contents": "right-xxxxs@md"
+    },
+    {
+      "trigger": "right-xxxs@md",
+      "contents": "right-xxxs@md"
+    },
+    {
+      "trigger": "right-xxs@md",
+      "contents": "right-xxs@md"
+    },
+    {
+      "trigger": "right-xs@md",
+      "contents": "right-xs@md"
+    },
+    {
+      "trigger": "right-sm@md",
+      "contents": "right-sm@md"
+    },
+    {
+      "trigger": "right-md@md",
+      "contents": "right-md@md"
+    },
+    {
+      "trigger": "right-lg@md",
+      "contents": "right-lg@md"
+    },
+    {
+      "trigger": "right-xl@md",
+      "contents": "right-xl@md"
+    },
+    {
+      "trigger": "right-xxl@md",
+      "contents": "right-xxl@md"
+    },
+    {
+      "trigger": "right-xxxl@md",
+      "contents": "right-xxxl@md"
+    },
+    {
+      "trigger": "right-xxxxl@md",
+      "contents": "right-xxxxl@md"
+    },
+    {
+      "trigger": "right-xxxxs@lg",
+      "contents": "right-xxxxs@lg"
+    },
+    {
+      "trigger": "right-xxxs@lg",
+      "contents": "right-xxxs@lg"
+    },
+    {
+      "trigger": "right-xxs@lg",
+      "contents": "right-xxs@lg"
+    },
+    {
+      "trigger": "right-xs@lg",
+      "contents": "right-xs@lg"
+    },
+    {
+      "trigger": "right-sm@lg",
+      "contents": "right-sm@lg"
+    },
+    {
+      "trigger": "right-md@lg",
+      "contents": "right-md@lg"
+    },
+    {
+      "trigger": "right-lg@lg",
+      "contents": "right-lg@lg"
+    },
+    {
+      "trigger": "right-xl@lg",
+      "contents": "right-xl@lg"
+    },
+    {
+      "trigger": "right-xxl@lg",
+      "contents": "right-xxl@lg"
+    },
+    {
+      "trigger": "right-xxxl@lg",
+      "contents": "right-xxxl@lg"
+    },
+    {
+      "trigger": "right-xxxxl@lg",
+      "contents": "right-xxxxl@lg"
+    },
+    {
+      "trigger": "right-xxxxs@xl",
+      "contents": "right-xxxxs@xl"
+    },
+    {
+      "trigger": "right-xxxs@xl",
+      "contents": "right-xxxs@xl"
+    },
+    {
+      "trigger": "right-xxs@xl",
+      "contents": "right-xxs@xl"
+    },
+    {
+      "trigger": "right-xs@xl",
+      "contents": "right-xs@xl"
+    },
+    {
+      "trigger": "right-sm@xl",
+      "contents": "right-sm@xl"
+    },
+    {
+      "trigger": "right-md@xl",
+      "contents": "right-md@xl"
+    },
+    {
+      "trigger": "right-lg@xl",
+      "contents": "right-lg@xl"
+    },
+    {
+      "trigger": "right-xl@xl",
+      "contents": "right-xl@xl"
+    },
+    {
+      "trigger": "right-xxl@xl",
+      "contents": "right-xxl@xl"
+    },
+    {
+      "trigger": "right-xxxl@xl",
+      "contents": "right-xxxl@xl"
+    },
+    {
+      "trigger": "right-xxxxl@xl",
+      "contents": "right-xxxxl@xl"
+    },
+    {
+      "trigger": "left-xxxxs",
+      "contents": "left-xxxxs"
+    },
+    {
+      "trigger": "left-xxxs",
+      "contents": "left-xxxs"
+    },
+    {
+      "trigger": "left-xxs",
+      "contents": "left-xxs"
+    },
+    {
+      "trigger": "left-xs",
+      "contents": "left-xs"
+    },
+    {
+      "trigger": "left-sm",
+      "contents": "left-sm"
+    },
+    {
+      "trigger": "left-md",
+      "contents": "left-md"
+    },
+    {
+      "trigger": "left-lg",
+      "contents": "left-lg"
+    },
+    {
+      "trigger": "left-xl",
+      "contents": "left-xl"
+    },
+    {
+      "trigger": "left-xxl",
+      "contents": "left-xxl"
+    },
+    {
+      "trigger": "left-xxxl",
+      "contents": "left-xxxl"
+    },
+    {
+      "trigger": "left-xxxxl",
+      "contents": "left-xxxxl"
+    },
+    {
+      "trigger": "left-xxxxs@xs",
+      "contents": "left-xxxxs@xs"
+    },
+    {
+      "trigger": "left-xxxs@xs",
+      "contents": "left-xxxs@xs"
+    },
+    {
+      "trigger": "left-xxs@xs",
+      "contents": "left-xxs@xs"
+    },
+    {
+      "trigger": "left-xs@xs",
+      "contents": "left-xs@xs"
+    },
+    {
+      "trigger": "left-sm@xs",
+      "contents": "left-sm@xs"
+    },
+    {
+      "trigger": "left-md@xs",
+      "contents": "left-md@xs"
+    },
+    {
+      "trigger": "left-lg@xs",
+      "contents": "left-lg@xs"
+    },
+    {
+      "trigger": "left-xl@xs",
+      "contents": "left-xl@xs"
+    },
+    {
+      "trigger": "left-xxl@xs",
+      "contents": "left-xxl@xs"
+    },
+    {
+      "trigger": "left-xxxl@xs",
+      "contents": "left-xxxl@xs"
+    },
+    {
+      "trigger": "left-xxxxl@xs",
+      "contents": "left-xxxxl@xs"
+    },
+    {
+      "trigger": "left-xxxxs@sm",
+      "contents": "left-xxxxs@sm"
+    },
+    {
+      "trigger": "left-xxxs@sm",
+      "contents": "left-xxxs@sm"
+    },
+    {
+      "trigger": "left-xxs@sm",
+      "contents": "left-xxs@sm"
+    },
+    {
+      "trigger": "left-xs@sm",
+      "contents": "left-xs@sm"
+    },
+    {
+      "trigger": "left-sm@sm",
+      "contents": "left-sm@sm"
+    },
+    {
+      "trigger": "left-md@sm",
+      "contents": "left-md@sm"
+    },
+    {
+      "trigger": "left-lg@sm",
+      "contents": "left-lg@sm"
+    },
+    {
+      "trigger": "left-xl@sm",
+      "contents": "left-xl@sm"
+    },
+    {
+      "trigger": "left-xxl@sm",
+      "contents": "left-xxl@sm"
+    },
+    {
+      "trigger": "left-xxxl@sm",
+      "contents": "left-xxxl@sm"
+    },
+    {
+      "trigger": "left-xxxxl@sm",
+      "contents": "left-xxxxl@sm"
+    },
+    {
+      "trigger": "left-xxxxs@md",
+      "contents": "left-xxxxs@md"
+    },
+    {
+      "trigger": "left-xxxs@md",
+      "contents": "left-xxxs@md"
+    },
+    {
+      "trigger": "left-xxs@md",
+      "contents": "left-xxs@md"
+    },
+    {
+      "trigger": "left-xs@md",
+      "contents": "left-xs@md"
+    },
+    {
+      "trigger": "left-sm@md",
+      "contents": "left-sm@md"
+    },
+    {
+      "trigger": "left-md@md",
+      "contents": "left-md@md"
+    },
+    {
+      "trigger": "left-lg@md",
+      "contents": "left-lg@md"
+    },
+    {
+      "trigger": "left-xl@md",
+      "contents": "left-xl@md"
+    },
+    {
+      "trigger": "left-xxl@md",
+      "contents": "left-xxl@md"
+    },
+    {
+      "trigger": "left-xxxl@md",
+      "contents": "left-xxxl@md"
+    },
+    {
+      "trigger": "left-xxxxl@md",
+      "contents": "left-xxxxl@md"
+    },
+    {
+      "trigger": "left-xxxxs@lg",
+      "contents": "left-xxxxs@lg"
+    },
+    {
+      "trigger": "left-xxxs@lg",
+      "contents": "left-xxxs@lg"
+    },
+    {
+      "trigger": "left-xxs@lg",
+      "contents": "left-xxs@lg"
+    },
+    {
+      "trigger": "left-xs@lg",
+      "contents": "left-xs@lg"
+    },
+    {
+      "trigger": "left-sm@lg",
+      "contents": "left-sm@lg"
+    },
+    {
+      "trigger": "left-md@lg",
+      "contents": "left-md@lg"
+    },
+    {
+      "trigger": "left-lg@lg",
+      "contents": "left-lg@lg"
+    },
+    {
+      "trigger": "left-xl@lg",
+      "contents": "left-xl@lg"
+    },
+    {
+      "trigger": "left-xxl@lg",
+      "contents": "left-xxl@lg"
+    },
+    {
+      "trigger": "left-xxxl@lg",
+      "contents": "left-xxxl@lg"
+    },
+    {
+      "trigger": "left-xxxxl@lg",
+      "contents": "left-xxxxl@lg"
+    },
+    {
+      "trigger": "left-xxxxs@xl",
+      "contents": "left-xxxxs@xl"
+    },
+    {
+      "trigger": "left-xxxs@xl",
+      "contents": "left-xxxs@xl"
+    },
+    {
+      "trigger": "left-xxs@xl",
+      "contents": "left-xxs@xl"
+    },
+    {
+      "trigger": "left-xs@xl",
+      "contents": "left-xs@xl"
+    },
+    {
+      "trigger": "left-sm@xl",
+      "contents": "left-sm@xl"
+    },
+    {
+      "trigger": "left-md@xl",
+      "contents": "left-md@xl"
+    },
+    {
+      "trigger": "left-lg@xl",
+      "contents": "left-lg@xl"
+    },
+    {
+      "trigger": "left-xl@xl",
+      "contents": "left-xl@xl"
+    },
+    {
+      "trigger": "left-xxl@xl",
+      "contents": "left-xxl@xl"
+    },
+    {
+      "trigger": "left-xxxl@xl",
+      "contents": "left-xxxl@xl"
+    },
+    {
+      "trigger": "left-xxxxl@xl",
+      "contents": "left-xxxxl@xl"
     },
     {
       "trigger": "overflow-hidden",
@@ -9767,52 +11687,84 @@
       "contents": "overscroll-contain"
     },
     {
-      "trigger": "opacity-0",
-      "contents": "opacity-0"
+      "trigger": "overflow-hidden@xs",
+      "contents": "overflow-hidden@xs"
     },
     {
-      "trigger": "opacity-10%",
-      "contents": "opacity-10%"
+      "trigger": "overflow-auto@xs",
+      "contents": "overflow-auto@xs"
     },
     {
-      "trigger": "opacity-20%",
-      "contents": "opacity-20%"
+      "trigger": "momentum-scrolling@xs",
+      "contents": "momentum-scrolling@xs"
     },
     {
-      "trigger": "opacity-30%",
-      "contents": "opacity-30%"
+      "trigger": "overscroll-contain@xs",
+      "contents": "overscroll-contain@xs"
     },
     {
-      "trigger": "opacity-40%",
-      "contents": "opacity-40%"
+      "trigger": "overflow-hidden@sm",
+      "contents": "overflow-hidden@sm"
     },
     {
-      "trigger": "opacity-50%",
-      "contents": "opacity-50%"
+      "trigger": "overflow-auto@sm",
+      "contents": "overflow-auto@sm"
     },
     {
-      "trigger": "opacity-60%",
-      "contents": "opacity-60%"
+      "trigger": "momentum-scrolling@sm",
+      "contents": "momentum-scrolling@sm"
     },
     {
-      "trigger": "opacity-70%",
-      "contents": "opacity-70%"
+      "trigger": "overscroll-contain@sm",
+      "contents": "overscroll-contain@sm"
     },
     {
-      "trigger": "opacity-80%",
-      "contents": "opacity-80%"
+      "trigger": "overflow-hidden@md",
+      "contents": "overflow-hidden@md"
     },
     {
-      "trigger": "opacity-90%",
-      "contents": "opacity-90%"
+      "trigger": "overflow-auto@md",
+      "contents": "overflow-auto@md"
     },
     {
-      "trigger": "object-contain",
-      "contents": "object-contain"
+      "trigger": "momentum-scrolling@md",
+      "contents": "momentum-scrolling@md"
     },
     {
-      "trigger": "object-cover",
-      "contents": "object-cover"
+      "trigger": "overscroll-contain@md",
+      "contents": "overscroll-contain@md"
+    },
+    {
+      "trigger": "overflow-hidden@lg",
+      "contents": "overflow-hidden@lg"
+    },
+    {
+      "trigger": "overflow-auto@lg",
+      "contents": "overflow-auto@lg"
+    },
+    {
+      "trigger": "momentum-scrolling@lg",
+      "contents": "momentum-scrolling@lg"
+    },
+    {
+      "trigger": "overscroll-contain@lg",
+      "contents": "overscroll-contain@lg"
+    },
+    {
+      "trigger": "overflow-hidden@xl",
+      "contents": "overflow-hidden@xl"
+    },
+    {
+      "trigger": "overflow-auto@xl",
+      "contents": "overflow-auto@xl"
+    },
+    {
+      "trigger": "momentum-scrolling@xl",
+      "contents": "momentum-scrolling@xl"
+    },
+    {
+      "trigger": "overscroll-contain@xl",
+      "contents": "overscroll-contain@xl"
     },
     {
       "trigger": "isolate",
@@ -9867,76 +11819,60 @@
       "contents": "translate-y-50%"
     },
     {
-      "trigger": "space-unit-rem",
-      "contents": "space-unit-rem"
+      "trigger": "rotate-90",
+      "contents": "rotate-90"
     },
     {
-      "trigger": "space-unit-em",
-      "contents": "space-unit-em"
+      "trigger": "rotate-180",
+      "contents": "rotate-180"
     },
     {
-      "trigger": "space-unit-px",
-      "contents": "space-unit-px"
+      "trigger": "rotate-270",
+      "contents": "rotate-270"
     },
     {
-      "trigger": "text-unit-rem",
-      "contents": "text-unit-rem"
+      "trigger": "object-contain",
+      "contents": "object-contain"
     },
     {
-      "trigger": "text-unit-em",
-      "contents": "text-unit-em"
-    },
-    {
-      "trigger": "text-unit-px",
-      "contents": "text-unit-px"
-    },
-    {
-      "trigger": "break-word",
-      "contents": "break-word"
-    },
-    {
-      "trigger": "text-shadow-xs",
-      "contents": "text-shadow-xs"
-    },
-    {
-      "trigger": "text-shadow-sm",
-      "contents": "text-shadow-sm"
-    },
-    {
-      "trigger": "text-shadow-md",
-      "contents": "text-shadow-md"
-    },
-    {
-      "trigger": "text-shadow-lg",
-      "contents": "text-shadow-lg"
-    },
-    {
-      "trigger": "text-shadow-xl",
-      "contents": "text-shadow-xl"
-    },
-    {
-      "trigger": "text-shadow-none",
-      "contents": "text-shadow-none"
-    },
-    {
-      "trigger": "radius-0",
-      "contents": "radius-0"
-    },
-    {
-      "trigger": "shadow-none",
-      "contents": "shadow-none"
+      "trigger": "object-cover",
+      "contents": "object-cover"
     },
     {
       "trigger": "aspect-ratio-16:9",
       "contents": "aspect-ratio-16:9"
     },
     {
+      "trigger": "aspect-ratio-3:2",
+      "contents": "aspect-ratio-3:2"
+    },
+    {
       "trigger": "aspect-ratio-4:3",
       "contents": "aspect-ratio-4:3"
     },
     {
+      "trigger": "aspect-ratio-5:4",
+      "contents": "aspect-ratio-5:4"
+    },
+    {
       "trigger": "aspect-ratio-1:1",
       "contents": "aspect-ratio-1:1"
+    },
+    {
+      "trigger": "aspect-ratio-4:5",
+      "contents": "aspect-ratio-4:5"
+    },
+    {
+      "trigger": "aspect-ratio-3:4",
+      "contents": "aspect-ratio-3:4"
+    },
+    {
+      "trigger": "aspect-ratio-2:3",
+      "contents": "aspect-ratio-2:3"
+    },
+    {
+      "trigger": "aspect-ratio-9:16",
+      "contents": "aspect-ratio-9:16"
     },
     {
       "trigger": "perspective-xs",
@@ -9993,6 +11929,78 @@
     {
       "trigger": "origin-bottom-left",
       "contents": "origin-bottom-left"
+    },
+    {
+      "trigger": "fill-current",
+      "contents": "fill-current"
+    },
+    {
+      "trigger": "stroke-current",
+      "contents": "stroke-current"
+    },
+    {
+      "trigger": "stroke-1",
+      "contents": "stroke-1"
+    },
+    {
+      "trigger": "stroke-2",
+      "contents": "stroke-2"
+    },
+    {
+      "trigger": "stroke-3",
+      "contents": "stroke-3"
+    },
+    {
+      "trigger": "stroke-4",
+      "contents": "stroke-4"
+    },
+    {
+      "trigger": "visible",
+      "contents": "visible"
+    },
+    {
+      "trigger": "invisible",
+      "contents": "invisible"
+    },
+    {
+      "trigger": "visible@xs",
+      "contents": "visible@xs"
+    },
+    {
+      "trigger": "invisible@xs",
+      "contents": "invisible@xs"
+    },
+    {
+      "trigger": "visible@sm",
+      "contents": "visible@sm"
+    },
+    {
+      "trigger": "invisible@sm",
+      "contents": "invisible@sm"
+    },
+    {
+      "trigger": "visible@md",
+      "contents": "visible@md"
+    },
+    {
+      "trigger": "invisible@md",
+      "contents": "invisible@md"
+    },
+    {
+      "trigger": "visible@lg",
+      "contents": "visible@lg"
+    },
+    {
+      "trigger": "invisible@lg",
+      "contents": "invisible@lg"
+    },
+    {
+      "trigger": "visible@xl",
+      "contents": "visible@xl"
+    },
+    {
+      "trigger": "invisible@xl",
+      "contents": "invisible@xl"
     }
   ]
 }
