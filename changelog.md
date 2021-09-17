@@ -4,6 +4,21 @@ All notable changes to the snippets will be documented in this file.
 ## [1.3.00] - 2021-09-15
 - New CodyFrame 3 util classes
 
+## [1.2.16] - 2021-05-14
+- display contents util class + responsive variations;
+- visible/invisible util class responsive variations;
+- hide util class.
+
+## [1.2.15] - 2021-05-05
+- New gap-0 util class
+
+## [1.2.14] - 2021-04-15
+- New top/right/bottom/left@{breakpoint} util classes
+- New rotate util classes
+- New scroll smooth/scroll padding util classes
+- New SVG fill/stroke util classes
+- New visible/hidden util classes
+
 ## [1.2.13] - 2021-01-19
 - New top/right/bottom/left util classes
 - New translate util classes

@@ -5407,6 +5407,10 @@
       "contents": "grid"
     },
     {
+      "trigger": "gap-0",
+      "contents": "gap-0"
+    },
+    {
       "trigger": "gap-xxxxs",
       "contents": "gap-xxxxs"
     },
@@ -11671,20 +11675,20 @@
       "contents": "left-xxxxl@xl"
     },
     {
-      "trigger": "overflow-hidden",
-      "contents": "overflow-hidden"
+      "trigger": "top-xxxxs",
+      "contents": "top-xxxxs"
     },
     {
-      "trigger": "overflow-auto",
-      "contents": "overflow-auto"
+      "trigger": "top-xxxs",
+      "contents": "top-xxxs"
     },
     {
-      "trigger": "momentum-scrolling",
-      "contents": "momentum-scrolling"
+      "trigger": "top-xxs",
+      "contents": "top-xxs"
     },
     {
-      "trigger": "overscroll-contain",
-      "contents": "overscroll-contain"
+      "trigger": "top-xs",
+      "contents": "top-xs"
     },
     {
       "trigger": "overflow-hidden@xs",
@@ -11767,56 +11771,56 @@
       "contents": "overscroll-contain@xl"
     },
     {
-      "trigger": "isolate",
-      "contents": "isolate"
+      "trigger": "top-md@xs",
+      "contents": "top-md@xs"
     },
     {
-      "trigger": "blend-multiply",
-      "contents": "blend-multiply"
+      "trigger": "top-lg@xs",
+      "contents": "top-lg@xs"
     },
     {
-      "trigger": "blend-overlay",
-      "contents": "blend-overlay"
+      "trigger": "top-xl@xs",
+      "contents": "top-xl@xs"
     },
     {
-      "trigger": "blend-difference",
-      "contents": "blend-difference"
+      "trigger": "top-xxl@xs",
+      "contents": "top-xxl@xs"
     },
     {
-      "trigger": "flip",
-      "contents": "flip"
+      "trigger": "top-xxxl@xs",
+      "contents": "top-xxxl@xs"
     },
     {
-      "trigger": "flip-x",
-      "contents": "flip-x"
+      "trigger": "top-xxxxl@xs",
+      "contents": "top-xxxxl@xs"
     },
     {
-      "trigger": "flip-y",
-      "contents": "flip-y"
+      "trigger": "top-xxxxs@sm",
+      "contents": "top-xxxxs@sm"
     },
     {
-      "trigger": "-translate-50%",
-      "contents": "-translate-50%"
+      "trigger": "top-xxxs@sm",
+      "contents": "top-xxxs@sm"
     },
     {
-      "trigger": "-translate-x-50%",
-      "contents": "-translate-x-50%"
+      "trigger": "top-xxs@sm",
+      "contents": "top-xxs@sm"
     },
     {
-      "trigger": "-translate-y-50%",
-      "contents": "-translate-y-50%"
+      "trigger": "top-xs@sm",
+      "contents": "top-xs@sm"
     },
     {
-      "trigger": "translate-50%",
-      "contents": "translate-50%"
+      "trigger": "top-sm@sm",
+      "contents": "top-sm@sm"
     },
     {
-      "trigger": "translate-x-50%",
-      "contents": "translate-x-50%"
+      "trigger": "top-md@sm",
+      "contents": "top-md@sm"
     },
     {
-      "trigger": "translate-y-50%",
-      "contents": "translate-y-50%"
+      "trigger": "top-lg@sm",
+      "contents": "top-lg@sm"
     },
     {
       "trigger": "rotate-90",
@@ -11875,56 +11879,56 @@
       "contents": "aspect-ratio-9:16"
     },
     {
-      "trigger": "perspective-xs",
-      "contents": "perspective-xs"
+      "trigger": "top-xs@lg",
+      "contents": "top-xs@lg"
     },
     {
-      "trigger": "perspective-sm",
-      "contents": "perspective-sm"
+      "trigger": "top-sm@lg",
+      "contents": "top-sm@lg"
     },
     {
-      "trigger": "perspective-md",
-      "contents": "perspective-md"
+      "trigger": "top-md@lg",
+      "contents": "top-md@lg"
     },
     {
-      "trigger": "perspective-lg",
-      "contents": "perspective-lg"
+      "trigger": "top-lg@lg",
+      "contents": "top-lg@lg"
     },
     {
-      "trigger": "perspective-xl",
-      "contents": "perspective-xl"
+      "trigger": "top-xl@lg",
+      "contents": "top-xl@lg"
     },
     {
-      "trigger": "origin-center",
-      "contents": "origin-center"
+      "trigger": "top-xxl@lg",
+      "contents": "top-xxl@lg"
     },
     {
-      "trigger": "origin-top",
-      "contents": "origin-top"
+      "trigger": "top-xxxl@lg",
+      "contents": "top-xxxl@lg"
     },
     {
-      "trigger": "origin-right",
-      "contents": "origin-right"
+      "trigger": "top-xxxxl@lg",
+      "contents": "top-xxxxl@lg"
     },
     {
-      "trigger": "origin-bottom",
-      "contents": "origin-bottom"
+      "trigger": "top-xxxxs@xl",
+      "contents": "top-xxxxs@xl"
     },
     {
-      "trigger": "origin-left",
-      "contents": "origin-left"
+      "trigger": "top-xxxs@xl",
+      "contents": "top-xxxs@xl"
     },
     {
-      "trigger": "origin-top-left",
-      "contents": "origin-top-left"
+      "trigger": "top-xxs@xl",
+      "contents": "top-xxs@xl"
     },
     {
-      "trigger": "origin-top-right",
-      "contents": "origin-top-right"
+      "trigger": "top-xs@xl",
+      "contents": "top-xs@xl"
     },
     {
-      "trigger": "origin-bottom-right",
-      "contents": "origin-bottom-right"
+      "trigger": "top-sm@xl",
+      "contents": "top-sm@xl"
     },
     {
       "trigger": "origin-bottom-left",
